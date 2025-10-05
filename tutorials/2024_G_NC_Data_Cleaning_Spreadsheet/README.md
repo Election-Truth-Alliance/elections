@@ -7,4 +7,4 @@ the data is suitable for extracting analysis in a standard way.
 The tutorial is broken into two sections:
 - [Sourcing](SOURCING.md) - Defining the type of data to find and how to make sense of it.
 - [Cleaning](CLEANING.md) - Taking that data and putting it into a format that is easy to apply our analytics to.
-- [Analysis](../analysis/README) - Taking the cleaned data and creating visual analysis of the data.
+- [Analysis](../analysis/README.md) - Taking the cleaned data and creating visual analysis of the data.
