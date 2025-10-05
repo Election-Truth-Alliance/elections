@@ -13,5 +13,5 @@ Elections are very local events and doing this analysis requires diving down int
 and precincts and trying to understand how different state laws apply to different results. 
 
 The purpose of this repo is to provide the data and tools to explain and help others reproduce our methods and results.
-All data used for analysis is public data provided by the states and counties of the United States. All our methods are
-open and transparent. We welcome feedback and hope others will take the time to understand potential election security concerns. 
+All data used for analysis is public data provided by the states and counties of the United States. 
+We welcome feedback and hope others will take the time to understand potential election security concerns.
