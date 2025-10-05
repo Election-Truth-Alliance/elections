@@ -45,6 +45,7 @@ exactly like a number or date. For example, 01-01 becomes Jan 1, or 01.10 become
 have additional columns where this could be an issue so take care that Excel doesn't transform your data.
 </mark>
 
+
 Clean up the data based on what we need or can assume. We'll go from a 233,511 row and 15 column file to a 101,753 line and 11 column file.
 
 [NC_Clean_Step_1.xlsx](NC_Clean_Step_1.xlsx)
