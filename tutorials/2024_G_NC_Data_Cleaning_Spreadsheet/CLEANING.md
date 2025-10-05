@@ -201,4 +201,4 @@ The final "cleaned" file for the 2024 General Election Day Votes for Wake County
 > so that we have the accurate vote totals, not just the totals between the candidates we care about. Sometimes these
 > numbers are provided, sometimes you have to combine them yourself.
 
-### Next: [Analysis](../analysis)
+### Next: [Analysis](../analysis/README.md)
