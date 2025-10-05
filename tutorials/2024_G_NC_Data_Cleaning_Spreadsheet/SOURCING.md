@@ -35,16 +35,16 @@ file [here](https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2024_11_05/voter_stats_20
 
 There is also layout files included on the page for each data source. It is often the case that the data ends up being a database
 dump, often contains codes and abbreviations and sometimes, even foreign keys, these files are good ways
-to decode that data. The data sources and the layout files are available in the [/data/US_NC/original/2024](../../data/US_NC/original/2024)
+to decode that data. The data sources and the layout files are available in the [/data/US_NC/original/2024](../../data/US_NC/2024)
 directory of this repo.
 
 > Note: websites can change and this link may move at some point.
 
 The downloaded files:
 
-- [results_pct_20241105.zip](../../data/US_NC/original/2024/results_pct_20241105.zip) - The voting data by precinct<br/>
-- [layout_results_pct.txt](../../data/US_NC/original/2024/voter_stats_20241105.zip) - Voting data layout
-- [layout_ncvoter.txt](../../data/US_NC/original/2024/layout_ncvoter.txt) - Registration data layout
-- [voter_stats_20241105.zip](../../data/US_NC/original/2024/voter_stats_20241105.zip) - Registration data
+- [results_pct_20241105.zip](../../data/US_NC/2024/results_pct_20241105.zip) - The voting data by precinct<br/>
+- [layout_results_pct.txt](../../data/US_NC/2024/voter_stats_20241105.zip) - Voting data layout
+- [layout_ncvoter.txt](../../data/US_NC/2024/layout_ncvoter.txt) - Registration data layout
+- [voter_stats_20241105.zip](../../data/US_NC/2024/voter_stats_20241105.zip) - Registration data
 
 ### Next: [Cleaning](CLEANING.md)
