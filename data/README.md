@@ -5,4 +5,4 @@ used for analysis in their raw form. All data will refer to the original source 
 move across the website, especially as it changes from the "last" election to a "past" election in the archives but in general, you can still
 find it. 
 
-- [North Carolina 2024 General Election](US_NC/2024)
+- [North Carolina 2024 General Election](raw/US_NC/2024)
