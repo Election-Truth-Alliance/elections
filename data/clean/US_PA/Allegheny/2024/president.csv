@@ -1,0 +1,1328 @@
+precinct_id,registered_voters,contest_name,total_votes_cast,Kamala D. Harris - Election Day,Kamala D. Harris - Absentee,Kamala D. Harris - Provisional,Donald J. Trump - Election Day,Donald J. Trump - Absentee,Donald J. Trump - Provisional,Jill Stein - Election Day,Jill Stein - Absentee,Jill Stein - Provisional,Chase Oliver - Election Day,Chase Oliver - Absentee,Chase Oliver - Provisional,Write-in - Election Day,Write-in - Absentee,Write-in - Provisional
+Aleppo,1363,Presidential Electors,1128,306,274,11,348,153,5,7,2,0,6,2,0,4,4,0
+Aspinwall Dist 1,855,Presidential Electors,730,342,139,9,208,26,0,0,1,0,2,0,0,2,1,0
+Aspinwall Dist 2,582,Presidential Electors,472,226,100,7,114,16,2,3,0,0,2,0,0,0,1,0
+Aspinwall Dist 3,827,Presidential Electors,698,339,142,10,160,34,2,2,1,0,3,2,0,2,0,0
+Avalon Ward 1,1115,Presidential Electors,849,391,166,15,215,42,7,2,1,0,4,1,0,4,0,0
+Avalon Ward 2 Dist 1,712,Presidential Electors,554,242,103,5,152,34,5,1,0,0,5,0,0,6,1,0
+Avalon Ward 2 Dist 2,472,Presidential Electors,369,151,84,6,90,33,3,1,0,0,0,1,0,0,0,0
+Avalon Ward 3 Dist 1,335,Presidential Electors,281,101,67,0,84,24,1,1,0,0,2,0,0,0,1,0
+Avalon Ward 3 Dist 2,459,Presidential Electors,356,119,109,4,90,21,2,1,0,0,4,3,0,1,2,0
+Avalon Ward 3 Dist 3,517,Presidential Electors,377,169,95,3,73,29,2,0,2,0,1,2,0,0,0,0
+Baldwin Br Dist 1,613,Presidential Electors,505,152,112,2,183,47,1,1,1,0,3,1,0,0,1,0
+Baldwin Br Dist 2,1041,Presidential Electors,881,268,231,1,299,69,0,3,1,0,2,1,0,3,3,0
+Baldwin Br Dist 3,857,Presidential Electors,713,248,137,5,261,50,2,2,0,0,2,1,0,1,1,0
+Baldwin Br Dist 4,798,Presidential Electors,671,188,116,5,281,63,2,3,4,0,2,2,0,0,1,0
+Baldwin Br Dist 5,840,Presidential Electors,690,213,139,7,268,53,4,0,1,0,1,1,0,1,1,0
+Baldwin Br Dist 6,743,Presidential Electors,616,157,133,5,245,60,5,2,0,0,3,0,0,3,0,0
+Baldwin Br Dist 7,833,Presidential Electors,705,217,158,3,257,62,2,2,0,0,2,0,0,0,0,0
+Baldwin Br Dist 8,729,Presidential Electors,631,164,149,2,247,59,3,0,0,0,4,1,0,0,1,0
+Baldwin Br Dist 9,776,Presidential Electors,636,175,152,8,234,54,4,0,1,0,3,1,0,0,1,0
+Baldwin Br Dist 10,1029,Presidential Electors,637,224,133,13,191,60,8,4,0,0,3,0,0,0,0,0
+Baldwin Br Dist 11,1308,Presidential Electors,826,305,199,26,211,62,10,4,0,0,1,2,0,4,1,0
+Baldwin Br Dist 12,660,Presidential Electors,565,172,105,3,232,44,0,0,1,0,2,0,0,2,3,0
+Baldwin Br Dist 13,685,Presidential Electors,605,180,94,4,256,58,2,2,0,0,3,0,0,4,0,0
+Baldwin Br Dist 14,614,Presidential Electors,520,163,74,4,206,66,2,2,0,0,1,0,0,0,0,0
+Baldwin Br Dist 15,806,Presidential Electors,705,181,151,1,296,61,4,1,2,0,2,1,0,1,3,0
+Baldwin Br Dist 16,916,Presidential Electors,741,257,140,2,268,62,3,1,0,0,1,2,0,3,0,0
+Baldwin Br Dist 17,678,Presidential Electors,564,176,109,7,184,77,3,2,0,0,0,1,0,0,0,0
+Baldwin Br Dist 18,972,Presidential Electors,820,244,192,10,277,73,4,2,1,0,4,1,0,1,3,0
+Baldwin Tp Dist 1,809,Presidential Electors,696,264,128,2,249,43,0,2,0,0,3,0,0,1,0,0
+Baldwin Tp Dist 2,762,Presidential Electors,625,211,115,1,247,39,3,2,0,0,3,0,0,2,0,0
+Bell Acres,1188,Presidential Electors,991,286,194,3,389,99,1,4,1,0,3,2,0,7,0,0
+Bellevue Ward 1 Dist 1,973,Presidential Electors,717,293,178,11,178,43,1,4,0,0,5,1,0,3,0,0
+Bellevue Ward 1 Dist 2,984,Presidential Electors,743,353,169,7,162,34,3,2,1,0,6,0,0,2,3,0
+Bellevue Ward 2 Dist 1,1092,Presidential Electors,788,345,164,9,200,47,4,4,2,0,2,0,0,8,1,0
+Bellevue Ward 2 Dist 2,989,Presidential Electors,738,312,159,11,197,42,4,1,1,0,2,0,0,6,2,0
+Bellevue Ward 3 Dist 1,1048,Presidential Electors,786,354,185,9,182,35,1,3,0,0,3,3,0,3,3,0
+Bellevue Ward 3 Dist 2,981,Presidential Electors,761,313,153,14,224,46,2,1,0,0,4,1,0,1,1,0
+Ben Avon Dist 1,496,Presidential Electors,428,210,88,0,105,16,0,0,1,0,2,0,0,2,2,0
+Ben Avon Dist 2,994,Presidential Electors,841,384,165,6,220,50,1,1,2,0,5,1,0,2,1,0
+Ben Avon Ht,341,Presidential Electors,298,116,59,0,90,29,1,0,0,0,0,0,0,1,1,0
+Bethel Park Ward 1 Dist 1,869,Presidential Electors,719,161,183,1,292,70,2,3,0,0,2,1,0,1,1,1
+Bethel Park Ward 1 Dist 2,801,Presidential Electors,672,204,164,4,237,49,0,1,1,0,4,0,0,3,2,0
+Bethel Park Ward 1 Dist 3,840,Presidential Electors,707,196,141,4,270,91,2,0,0,0,2,0,0,1,0,0
+Bethel Park Ward 2 Dist 1,748,Presidential Electors,636,174,125,1,268,58,0,2,0,0,5,1,0,1,1,0
+Bethel Park Ward 2 Dist 2,939,Presidential Electors,808,214,175,6,297,97,7,2,1,0,6,2,0,1,0,0
+Bethel Park Ward 2 Dist 3,1099,Presidential Electors,940,221,214,3,376,113,1,2,1,0,2,3,0,1,0,0
+Bethel Park Ward 3 Dist 1,791,Presidential Electors,686,175,125,5,283,89,1,1,0,0,3,1,0,2,1,0
+Bethel Park Ward 3 Dist 2,1100,Presidential Electors,961,220,242,7,350,121,3,7,1,0,4,0,0,0,2,0
+Bethel Park Ward 3 Dist 3,1055,Presidential Electors,926,226,212,6,351,111,4,1,1,0,7,1,0,2,0,0
+Bethel Park Ward 4 Dist 1,1351,Presidential Electors,1170,294,241,5,442,169,5,1,0,0,3,2,0,4,1,0
+Bethel Park Ward 4 Dist 2,808,Presidential Electors,687,188,168,5,222,82,5,3,2,0,3,1,1,2,1,0
+Bethel Park Ward 4 Dist 3,878,Presidential Electors,727,195,162,5,257,94,3,6,0,0,1,0,0,2,0,0
+Bethel Park Ward 5 Dist 1,712,Presidential Electors,590,136,103,1,251,86,1,2,1,0,1,3,1,3,0,0
+Bethel Park Ward 5 Dist 2,653,Presidential Electors,537,169,95,3,213,47,2,1,2,0,2,1,0,2,0,0
+Bethel Park Ward 5 Dist 3,1481,Presidential Electors,1189,310,377,4,326,153,3,1,3,0,5,1,1,3,1,0
+Bethel Park Ward 6 Dist 1,1285,Presidential Electors,1102,264,220,6,442,159,2,1,1,0,1,3,0,1,0,0
+Bethel Park Ward 6 Dist 2,945,Presidential Electors,821,251,180,1,284,86,4,2,2,0,3,1,0,3,1,0
+Bethel Park Ward 6 Dist 3,908,Presidential Electors,753,191,183,6,273,88,3,1,0,0,0,0,0,2,0,0
+Bethel Park Ward 7 Dist 1,1182,Presidential Electors,1023,279,194,6,398,132,4,1,0,0,0,1,0,3,2,0
+Bethel Park Ward 7 Dist 2,1286,Presidential Electors,1035,269,261,7,344,136,3,0,0,1,4,2,0,5,0,0
+Bethel Park Ward 7 Dist 3,760,Presidential Electors,649,178,165,0,228,61,4,1,1,0,2,1,0,3,2,0
+Bethel Park Ward 8 Dist 1,556,Presidential Electors,470,142,89,0,176,59,0,1,0,0,2,0,0,0,1,0
+Bethel Park Ward 8 Dist 2,526,Presidential Electors,394,123,113,3,94,50,2,1,0,0,3,0,0,1,0,0
+Bethel Park Ward 8 Dist 3,1322,Presidential Electors,1134,300,266,1,430,115,3,5,0,0,1,4,0,6,2,0
+Bethel Park Ward 8 Dist 4,468,Presidential Electors,404,129,93,1,133,37,4,1,0,0,1,1,0,2,0,0
+Bethel Park Ward 9 Dist 1,594,Presidential Electors,513,170,89,3,192,50,4,0,0,0,1,1,0,2,0,0
+Bethel Park Ward 9 Dist 2,750,Presidential Electors,614,208,142,1,202,44,3,4,1,0,3,1,0,1,0,0
+Bethel Park Ward 9 Dist 3,1398,Presidential Electors,1191,323,280,4,409,157,4,0,3,0,3,0,0,2,3,0
+Blawnox,1010,Presidential Electors,791,284,172,12,256,50,4,4,1,1,4,0,0,1,1,0
+Brackenridge Ward 1,481,Presidential Electors,331,117,37,1,148,23,4,1,0,0,0,0,0,0,0,0
+Brackenridge Ward 2,800,Presidential Electors,633,185,104,2,278,51,1,1,2,0,3,2,0,1,0,0
+Brackenridge Ward 3,683,Presidential Electors,484,126,67,2,252,30,3,1,0,0,1,0,0,2,0,0
+Braddock Ward 1,440,Presidential Electors,241,145,54,13,18,2,2,2,2,0,1,0,0,1,0,0
+Braddock Ward 2,607,Presidential Electors,355,227,73,10,25,11,0,2,2,0,0,2,0,1,0,0
+Braddock Ward 3,461,Presidential Electors,220,154,36,1,18,3,2,3,0,0,0,0,0,0,0,0
+Braddock Hl Dist 1,798,Presidential Electors,532,225,144,9,112,31,2,4,0,0,1,2,0,1,0,0
+Braddock Hl Dist 2,525,Presidential Electors,439,202,87,6,104,29,3,1,2,0,2,0,0,2,0,0
+Bradford Woods,1021,Presidential Electors,873,240,202,6,313,96,0,0,0,0,4,0,0,3,2,0
+Brentwood Dist 1,547,Presidential Electors,455,170,87,2,160,22,1,6,0,0,2,1,0,4,0,0
+Brentwood Dist 2,767,Presidential Electors,574,197,117,6,205,37,1,2,0,0,4,1,0,3,1,0
+Brentwood Dist 3,650,Presidential Electors,509,186,79,1,201,35,1,0,0,0,2,0,0,2,0,0
+Brentwood Dist 4,806,Presidential Electors,637,204,131,10,224,54,2,2,1,0,3,1,1,2,1,0
+Brentwood Dist 5,735,Presidential Electors,506,234,84,5,138,31,6,1,1,0,4,1,0,1,0,0
+Brentwood Dist 6,672,Presidential Electors,478,181,114,10,128,31,7,0,1,0,1,1,0,2,1,0
+Brentwood Dist 7,772,Presidential Electors,578,198,120,12,189,45,0,0,0,0,5,1,0,3,3,0
+Brentwood Dist 8,728,Presidential Electors,598,188,127,5,208,58,2,1,1,0,3,0,0,2,2,0
+Brentwood Dist 9,600,Presidential Electors,496,171,115,3,157,44,2,2,0,0,0,1,0,1,0,0
+Brentwood Dist 10,565,Presidential Electors,446,141,60,3,184,48,2,1,0,0,2,2,0,2,0,0
+Bridgeville Dist 1,792,Presidential Electors,612,198,90,7,257,45,6,2,0,0,6,0,0,0,0,1
+Bridgeville Dist 2,875,Presidential Electors,688,253,103,5,271,47,3,2,0,0,1,1,0,0,0,1
+Bridgeville Dist 3,850,Presidential Electors,685,192,112,3,317,52,6,0,0,0,2,0,0,0,0,0
+Bridgeville Dist 4,1008,Presidential Electors,813,256,174,4,288,67,6,5,1,0,3,1,0,3,1,0
+Carnegie Ward 1 Dist 1,548,Presidential Electors,415,152,71,10,151,22,4,2,0,0,2,0,0,0,1,0
+Carnegie Ward 1 Dist 2,1218,Presidential Electors,932,371,156,13,300,63,8,6,0,1,11,0,0,1,0,0
+Carnegie Ward 1 Dist 3,871,Presidential Electors,687,254,115,4,258,39,5,2,2,0,1,1,0,4,1,0
+Carnegie Ward 1 Dist 4,373,Presidential Electors,245,85,61,5,63,20,2,1,0,0,1,1,0,2,1,0
+Carnegie Ward 2 Dist 1,667,Presidential Electors,485,191,76,13,152,37,6,5,1,0,0,2,0,1,0,0
+Carnegie Ward 2 Dist 2,514,Presidential Electors,402,167,88,7,111,22,1,2,0,0,0,0,0,0,0,0
+Carnegie Ward 2 Dist 3,494,Presidential Electors,417,117,86,1,148,55,2,2,2,0,0,0,0,1,1,0
+Carnegie Ward 2 Dist 4,836,Presidential Electors,563,215,107,7,168,49,4,6,2,0,2,1,0,1,0,0
+Casl Shannon Dist 1,1069,Presidential Electors,779,286,194,12,208,62,4,0,1,1,3,0,0,5,3,0
+Casl Shannon Dist 2,799,Presidential Electors,622,222,106,2,231,35,5,3,0,1,5,0,1,4,1,0
+Casl Shannon Dist 3,872,Presidential Electors,702,234,136,4,256,60,5,2,2,0,1,0,0,0,0,0
+Casl Shannon Dist 4,655,Presidential Electors,523,174,132,3,163,42,2,1,0,0,1,1,0,1,0,0
+Casl Shannon Dist 5,842,Presidential Electors,654,246,143,3,211,39,4,4,1,0,1,0,0,1,0,0
+Casl Shannon Dist 6,653,Presidential Electors,547,178,119,3,181,59,3,1,1,0,1,0,0,1,0,0
+Casl Shannon Dist 7,744,Presidential Electors,624,198,132,6,224,52,5,1,0,0,0,1,0,2,0,0
+Casl Shannon Dist 8,551,Presidential Electors,441,142,96,2,162,33,2,1,0,0,2,0,0,1,0,0
+Chalfant Dist 1,606,Presidential Electors,461,177,87,5,145,35,2,2,0,0,1,0,0,3,0,0
+Cheswick Dist 1,661,Presidential Electors,565,159,100,2,250,46,5,0,0,0,2,0,0,0,0,0
+Cheswick Dist 2,652,Presidential Electors,575,158,117,3,247,44,2,0,0,0,0,1,0,1,0,0
+Churchill Dist 1,717,Presidential Electors,611,266,184,1,109,38,1,2,0,0,2,1,0,3,1,0
+Churchill Dist 2,701,Presidential Electors,588,231,186,1,118,34,1,8,1,0,4,2,0,1,1,0
+Churchill Dist 3,650,Presidential Electors,571,243,152,2,114,45,0,3,2,1,4,0,0,2,1,0
+Churchill Dist 4,701,Presidential Electors,590,202,170,1,160,44,2,6,0,0,2,1,0,2,0,0
+Clairton Ward 1 Dist 1,361,Presidential Electors,213,98,32,6,62,10,0,3,0,0,1,0,0,1,0,0
+Clairton Ward 1 Dist 2,429,Presidential Electors,282,120,35,4,91,26,0,1,1,0,0,0,0,1,0,0
+Clairton Ward 1 Dist 3,338,Presidential Electors,237,77,21,3,117,13,2,1,1,0,0,0,0,0,0,0
+Clairton Ward 2 Dist 1,94,Presidential Electors,55,48,4,1,0,0,0,0,1,0,0,0,0,0,0,0
+Clairton Ward 2 Dist 2,281,Presidential Electors,165,103,38,6,12,3,1,0,1,0,1,0,0,0,0,0
+Clairton Ward 2 Dist 3,421,Presidential Electors,238,143,54,2,23,12,1,1,0,0,0,0,0,0,0,0
+Clairton Ward 3 Dist 1,448,Presidential Electors,304,115,60,5,93,22,1,2,0,0,2,1,0,0,0,0
+Clairton Ward 3 Dist 2,318,Presidential Electors,202,85,49,3,47,13,0,1,1,0,1,0,0,0,0,0
+Clairton Ward 3 Dist 3,350,Presidential Electors,192,71,36,5,57,18,4,0,1,0,0,0,0,0,0,0
+Clairton Ward 4 Dist 1,347,Presidential Electors,211,145,36,0,21,4,0,1,0,0,2,0,0,0,0,0
+Clairton Ward 4 Dist 2,377,Presidential Electors,219,134,30,7,27,15,1,1,1,0,1,0,0,0,0,0
+Clairton Ward 4 Dist 3,421,Presidential Electors,297,102,46,2,113,25,2,2,1,0,2,0,0,1,0,0
+Collier Dist 1,1662,Presidential Electors,1427,349,283,11,594,158,11,7,0,0,4,1,0,4,4,0
+Collier Dist 2,1416,Presidential Electors,1213,320,182,8,546,135,3,3,1,0,6,2,0,3,0,0
+Collier Dist 3,1309,Presidential Electors,1090,279,269,6,378,132,3,4,1,0,4,1,0,7,0,0
+Collier Dist 4,762,Presidential Electors,633,217,145,3,216,46,0,1,0,0,2,0,0,2,0,0
+Collier Dist 5,1005,Presidential Electors,827,171,137,6,328,160,6,1,1,0,3,1,0,6,5,0
+Collier Dist 6,1154,Presidential Electors,911,253,206,4,362,66,7,2,3,0,6,0,0,0,0,0
+Coraopolis Ward 1 Dist 1,456,Presidential Electors,332,159,62,1,85,14,3,3,2,0,2,1,0,0,0,0
+Coraopolis Ward 1 Dist 2,481,Presidential Electors,367,138,66,6,138,15,1,1,0,0,2,0,0,0,0,0
+Coraopolis Ward 2,813,Presidential Electors,555,187,138,7,173,46,3,0,0,0,0,1,0,0,0,0
+Coraopolis Ward 3 Dist 1,593,Presidential Electors,454,150,108,3,157,27,3,0,1,0,3,0,0,1,0,0
+Coraopolis Ward 3 Dist 2,557,Presidential Electors,448,143,92,11,171,24,1,1,0,0,1,0,0,0,1,0
+Coraopolis Ward 4 Dist 1,457,Presidential Electors,343,119,64,2,131,19,5,0,0,0,3,0,0,0,0,0
+Coraopolis Ward 4 Dist 2,523,Presidential Electors,408,132,72,7,154,37,0,2,1,0,1,0,0,0,2,0
+Crafton Ward 1 Dist 1,905,Presidential Electors,713,298,152,1,189,53,5,3,2,0,4,3,0,1,1,0
+Crafton Ward 1 Dist 2,598,Presidential Electors,468,177,96,6,151,26,1,1,1,0,3,0,2,0,2,0
+Crafton Ward 2 Dist 1,608,Presidential Electors,486,192,100,1,151,30,0,2,1,0,7,0,0,2,0,0
+Crafton Ward 2 Dist 2,786,Presidential Electors,578,230,143,5,146,46,0,2,2,0,0,1,0,1,0,0
+Crafton Ward 3 Dist 1,1005,Presidential Electors,810,328,176,8,237,37,2,5,0,0,7,3,0,6,0,0
+Crafton Ward 3 Dist 2,563,Presidential Electors,454,191,67,4,156,30,2,0,0,0,2,0,0,0,0,0
+Crescent Ward 1,1078,Presidential Electors,886,264,124,6,382,88,3,0,1,0,11,3,0,0,2,0
+Crescent Ward 2,698,Presidential Electors,563,138,87,1,283,43,1,1,0,0,5,1,0,1,1,0
+Dormont Dist 1,729,Presidential Electors,561,232,150,0,145,30,0,0,1,0,1,0,0,1,1,0
+Dormont Dist 2,546,Presidential Electors,476,220,111,1,120,14,0,1,0,0,3,0,0,4,0,0
+Dormont Dist 3,927,Presidential Electors,726,332,164,4,188,22,3,1,2,0,3,1,0,3,2,0
+Dormont Dist 4,662,Presidential Electors,513,227,129,3,109,35,0,2,1,0,1,0,0,3,2,0
+Dormont Dist 5,1026,Presidential Electors,811,366,186,15,186,43,3,4,2,0,2,1,0,1,0,0
+Dormont Dist 6,519,Presidential Electors,427,176,100,7,95,35,2,4,1,0,4,0,0,2,1,0
+Dormont Dist 7,521,Presidential Electors,425,195,119,1,94,9,1,2,0,0,0,1,0,1,0,0
+Dormont Dist 8,407,Presidential Electors,336,163,69,1,78,18,1,1,0,0,1,1,0,2,0,0
+Dormont Dist 9,544,Presidential Electors,444,212,101,4,98,23,0,4,0,0,0,0,0,1,0,0
+Dormont Dist 10,636,Presidential Electors,527,273,96,5,129,13,3,3,0,0,3,0,0,1,0,0
+Dravosburg Dist 1,540,Presidential Electors,387,108,65,2,174,29,1,2,0,0,3,1,0,1,0,0
+Dravosburg Dist 2,341,Presidential Electors,279,63,48,0,138,25,0,1,1,0,1,0,0,1,0,0
+Dravosburg Dist 3,257,Presidential Electors,210,58,37,1,88,18,1,2,0,0,3,0,0,1,0,0
+Duquesne Ward 1 Dist 1,449,Presidential Electors,320,148,57,7,81,21,3,0,0,0,1,0,0,1,0,0
+Duquesne Ward 1 Dist 2,485,Presidential Electors,268,130,63,15,41,12,1,0,1,0,1,0,0,1,0,0
+Duquesne Ward 1 Dist 3,296,Presidential Electors,142,101,20,4,8,5,1,0,0,0,1,0,0,1,0,0
+Duquesne Ward 1 Dist 4,192,Presidential Electors,98,51,16,6,18,5,0,0,0,0,0,0,0,0,0,0
+Duquesne Ward 2 Dist 1,328,Presidential Electors,166,94,42,4,20,5,0,0,0,0,0,0,0,0,0,0
+Duquesne Ward 2 Dist 2,362,Presidential Electors,191,106,41,8,28,3,1,2,0,0,1,1,0,0,0,0
+Duquesne Ward 2 Dist 3,426,Presidential Electors,256,118,45,7,64,14,1,2,0,0,1,1,0,1,0,0
+Duquesne Ward 3 Dist 1,224,Presidential Electors,124,69,25,7,17,5,1,0,0,0,0,0,0,0,0,0
+Duquesne Ward 3 Dist 2,146,Presidential Electors,77,48,16,3,5,3,1,0,0,0,0,0,0,0,0,0
+Duquesne Ward 3 Dist 3,528,Presidential Electors,320,160,71,4,68,7,1,4,1,0,0,0,0,2,0,0
+East Deer Ward 1,349,Presidential Electors,283,97,27,1,133,23,1,0,0,0,1,0,0,0,0,0
+East Deer Ward 2,604,Presidential Electors,474,126,75,5,217,43,2,0,3,0,0,0,0,1,0,0
+E McKeesport Dist 1,400,Presidential Electors,306,105,52,6,118,21,0,1,0,0,0,1,0,2,0,0
+E McKeesport Dist 2,531,Presidential Electors,404,167,65,4,138,21,3,0,2,0,2,0,0,1,1,0
+E McKeesport Dist 3,474,Presidential Electors,352,143,61,3,122,18,1,1,0,0,0,1,0,2,0,0
+E Pittsburgh Ward 1,342,Presidential Electors,183,107,32,5,30,5,1,1,0,0,1,0,0,1,0,0
+E Pittsburgh Ward 2,387,Presidential Electors,218,125,38,4,36,10,1,0,0,0,1,0,0,3,0,0
+E Pittsburgh Ward 3,514,Presidential Electors,260,138,57,4,46,11,0,0,2,0,0,0,0,0,0,0
+Edgewood Dist 1,1074,Presidential Electors,865,438,287,10,83,31,4,2,3,0,1,1,0,2,1,0
+Edgewood Dist 2,938,Presidential Electors,787,406,258,5,70,33,1,3,2,0,0,2,0,3,2,0
+Edgewood Dist 3,882,Presidential Electors,729,344,280,13,52,29,0,2,3,0,3,0,0,0,1,0
+Edgeworth Dist 1,675,Presidential Electors,567,203,117,4,153,78,0,0,0,0,6,0,0,3,0,0
+Edgeworth Dist 2,801,Presidential Electors,647,220,152,2,199,54,1,3,1,0,2,1,0,9,2,0
+Elizabeth Br,894,Presidential Electors,686,177,80,1,369,49,6,0,0,0,1,0,2,1,0,0
+Elizabeth Tp Ward 1 Dist 1,565,Presidential Electors,477,121,65,0,244,41,2,1,0,0,0,0,0,1,1,0
+Elizabeth Tp Ward 1 Dist 2,969,Presidential Electors,825,172,110,4,446,77,4,1,0,0,1,1,0,4,1,0
+Elizabeth Tp Ward 2,1353,Presidential Electors,1152,260,176,1,597,99,5,1,1,0,3,0,0,5,0,0
+Elizabeth Tp Ward 3,1388,Presidential Electors,1199,223,181,3,646,124,2,5,1,0,5,0,0,3,2,0
+Elizabeth Tp Ward 4 Dist 1,883,Presidential Electors,726,150,111,5,359,85,3,1,1,0,3,1,0,4,0,0
+Elizabeth Tp Ward 4 Dist 2,435,Presidential Electors,385,75,56,1,200,44,2,0,0,0,0,0,0,4,1,0
+Elizabeth Tp Ward 5 Dist 1,439,Presidential Electors,340,62,33,2,213,25,1,1,0,0,1,0,0,0,0,0
+Elizabeth Tp Ward 5 Dist 2,790,Presidential Electors,627,148,91,5,319,54,3,0,0,0,2,0,0,2,0,0
+Elizabeth Tp Ward 6 Dist 1,610,Presidential Electors,528,88,64,4,320,42,4,1,0,0,2,1,0,0,0,0
+Elizabeth Tp Ward 6 Dist 2,751,Presidential Electors,620,104,77,2,369,62,3,0,0,0,1,0,0,1,0,0
+Elizabeth Tp Ward 7,1231,Presidential Electors,1047,225,173,2,559,77,4,0,2,0,2,0,0,1,1,0
+Emsworth Dist 1,795,Presidential Electors,634,214,115,2,237,49,1,4,1,0,0,0,1,8,0,0
+Emsworth Dist 2,1006,Presidential Electors,778,272,137,4,277,70,3,2,2,0,3,0,0,5,0,0
+Etna Ward 1,828,Presidential Electors,632,262,97,6,216,31,1,5,1,0,5,0,0,5,1,0
+Etna Ward 2,688,Presidential Electors,488,160,95,8,171,41,2,4,2,0,3,1,0,0,1,0
+Etna Ward 3,714,Presidential Electors,567,205,83,6,229,33,0,2,1,0,3,0,0,2,0,0
+Fawn Dist 1,571,Presidential Electors,487,81,60,1,293,41,2,2,1,0,4,0,0,1,0,0
+Fawn Dist 2,948,Presidential Electors,800,144,121,4,458,65,3,1,0,0,0,0,0,0,2,0
+Findlay Dist 1,1800,Presidential Electors,1442,308,177,5,773,161,2,3,1,0,5,3,0,1,0,0
+Findlay Dist 2,2053,Presidential Electors,1671,412,297,9,769,157,6,5,1,0,9,1,0,2,1,0
+Findlay Dist 3,1293,Presidential Electors,1106,300,183,4,510,90,3,2,1,0,5,0,0,1,3,0
+Forest Hills Dist 1,626,Presidential Electors,550,246,165,1,100,29,1,1,2,0,2,0,0,2,0,0
+Forest Hills Dist 2,653,Presidential Electors,545,257,152,6,96,25,2,1,0,0,1,0,0,3,1,0
+Forest Hills Dist 3,643,Presidential Electors,536,221,148,8,122,27,3,1,0,0,1,1,0,4,0,0
+Forest Hills Dist 4,775,Presidential Electors,598,289,155,5,108,29,0,3,2,0,3,1,0,2,0,0
+Forest Hills Dist 5,710,Presidential Electors,604,256,138,3,158,36,0,3,2,0,1,1,0,2,1,0
+Forest Hills Dist 6,608,Presidential Electors,529,250,149,3,88,23,0,0,2,1,7,0,0,2,1,0
+Forest Hills Dist 7,773,Presidential Electors,527,288,107,5,98,15,3,5,0,0,0,0,0,2,1,0
+Forest Hills Dist 8,726,Presidential Electors,589,244,148,3,131,42,4,2,1,0,3,2,0,7,0,0
+Forward Dist 1,374,Presidential Electors,315,42,21,0,212,37,0,2,0,0,0,0,0,0,1,0
+Forward Dist 2,866,Presidential Electors,707,122,106,5,405,59,3,1,0,0,3,0,0,1,0,0
+Forward Dist 3,395,Presidential Electors,324,58,42,1,193,25,1,1,0,0,2,0,0,0,0,0
+Forward Dist 4,466,Presidential Electors,393,79,54,0,235,21,0,0,0,0,3,0,0,0,0,0
+Fox Chapel Dist 1,852,Presidential Electors,717,271,185,5,160,84,4,1,1,0,1,1,0,1,1,0
+Fox Chapel Dist 2,1020,Presidential Electors,837,289,225,4,209,90,1,5,1,0,4,2,0,3,2,0
+Fox Chapel Dist 3,752,Presidential Electors,632,215,172,4,170,59,1,1,0,0,1,4,0,0,2,0
+Fox Chapel Dist 4,1210,Presidential Electors,1000,373,278,7,237,87,2,1,0,1,3,1,0,6,3,0
+Fox Chapel Dist 5,963,Presidential Electors,770,218,187,5,226,111,2,0,0,0,5,0,1,4,5,0
+Franklin Pk Ward 1 Dist 1,1228,Presidential Electors,1042,250,205,2,419,147,3,4,2,0,1,3,0,4,0,0
+Franklin Pk Ward 1 Dist 2,1519,Presidential Electors,1253,285,342,9,406,180,9,4,6,0,3,0,0,5,1,0
+Franklin Pk Ward 1 Dist 3,1292,Presidential Electors,1081,301,273,1,338,146,3,2,1,0,3,5,0,3,3,0
+Franklin Pk Ward 2 Dist 1,1310,Presidential Electors,1144,303,287,7,371,134,3,16,2,1,9,3,0,6,2,0
+Franklin Pk Ward 2 Dist 2,1298,Presidential Electors,1092,219,346,3,333,171,4,2,0,0,4,2,1,3,1,0
+Franklin Pk Ward 2 Dist 3,1454,Presidential Electors,1271,386,298,3,381,156,2,4,4,1,4,5,0,15,5,0
+Franklin Pk Ward 3 Dist 1,1359,Presidential Electors,1132,275,309,5,350,172,3,1,0,0,2,4,0,1,6,0
+Franklin Pk Ward 3 Dist 2,778,Presidential Electors,677,209,152,2,232,61,1,3,2,0,5,2,0,4,3,0
+Franklin Pk Ward 3 Dist 3,1294,Presidential Electors,1122,303,276,6,357,148,3,3,4,0,8,1,0,3,3,0
+Frazer,826,Presidential Electors,726,116,97,1,445,54,4,4,0,0,1,0,0,1,2,0
+Glassport Dist 1,566,Presidential Electors,428,111,72,6,192,38,5,0,1,0,0,1,0,1,0,0
+Glassport Dist 2,409,Presidential Electors,232,80,23,8,102,14,3,0,0,0,0,0,0,0,0,0
+Glassport Dist 3,561,Presidential Electors,340,113,74,2,124,20,2,2,0,0,1,0,0,1,1,0
+Glassport Dist 4,260,Presidential Electors,159,49,20,0,81,8,0,1,0,0,0,0,0,0,0,0
+Glassport Dist 5,475,Presidential Electors,356,82,60,5,169,33,3,1,0,0,1,0,0,0,0,0
+Glassport Dist 6,438,Presidential Electors,317,90,34,5,144,37,4,1,1,0,0,0,1,0,0,0
+Glenfield,148,Presidential Electors,124,43,11,0,58,8,1,1,0,0,1,0,0,1,0,0
+Green Tree Dist 1,788,Presidential Electors,700,247,121,2,269,48,4,2,0,0,1,0,0,3,2,0
+Green Tree Dist 2,1066,Presidential Electors,931,323,191,5,335,67,1,1,1,0,2,0,0,3,1,0
+Green Tree Dist 3,1100,Presidential Electors,884,322,185,3,299,59,1,2,4,0,5,0,0,1,2,0
+Green Tree Dist 4,896,Presidential Electors,711,241,147,3,247,59,3,3,1,0,2,1,0,2,1,0
+Hampton Dist 1,1218,Presidential Electors,1051,272,222,4,387,147,5,2,0,0,2,0,0,6,0,0
+Hampton Dist 2,1302,Presidential Electors,1100,274,228,1,455,121,4,5,1,0,0,1,0,3,3,0
+Hampton Dist 3,1370,Presidential Electors,1164,291,294,7,395,151,0,8,2,0,4,3,0,3,1,0
+Hampton Dist 4,649,Presidential Electors,550,160,90,3,241,43,6,3,0,0,2,0,0,0,2,0
+Hampton Dist 5,707,Presidential Electors,603,190,119,3,202,75,6,1,0,0,1,0,0,2,0,0
+Hampton Dist 6,644,Presidential Electors,537,150,109,5,184,77,2,0,2,0,2,3,0,0,0,0
+Hampton Dist 7,1444,Presidential Electors,1224,322,267,1,434,172,7,1,2,0,5,2,0,5,2,0
+Hampton Dist 8,975,Presidential Electors,834,244,196,8,287,83,1,1,0,0,3,2,0,5,0,0
+Hampton Dist 9,1493,Presidential Electors,1330,350,259,3,539,160,2,2,1,0,6,0,0,4,1,0
+Hampton Dist 10,1604,Presidential Electors,1337,334,310,6,475,178,4,3,1,0,6,1,0,6,3,0
+Hampton Dist 11,1708,Presidential Electors,1497,425,313,7,563,156,5,2,1,0,4,1,0,11,2,0
+Hampton Dist 12,898,Presidential Electors,774,248,154,5,278,71,1,3,3,0,4,2,0,2,2,0
+Hampton Dist 13,766,Presidential Electors,665,194,152,2,237,73,2,0,1,0,1,0,0,2,0,0
+Harmar Dist 1,1269,Presidential Electors,1020,231,279,2,344,143,10,0,0,0,2,3,0,1,1,0
+Harmar Dist 2,670,Presidential Electors,507,116,89,4,232,57,6,0,1,0,0,0,0,0,0,0
+Harmar Dist 3,360,Presidential Electors,298,69,41,1,147,34,3,0,0,0,2,0,0,0,0,0
+Harrison Ward 1 Dist 1,293,Presidential Electors,259,71,29,0,127,27,2,0,0,0,0,0,0,2,0,0
+Harrison Ward 1 Dist 2,603,Presidential Electors,518,134,115,2,208,47,2,0,2,0,3,1,0,1,1,0
+Harrison Ward 1 Dist 3,727,Presidential Electors,592,159,80,2,297,42,3,1,1,0,6,0,0,0,0,0
+Harrison Ward 2 Dist 1,362,Presidential Electors,295,81,48,2,137,21,2,1,0,0,2,0,0,1,0,0
+Harrison Ward 2 Dist 2,577,Presidential Electors,379,118,50,2,179,23,4,0,0,0,2,0,0,1,0,0
+Harrison Ward 3 Dist 1,1078,Presidential Electors,929,211,180,4,420,93,8,1,1,0,2,0,0,5,1,0
+Harrison Ward 3 Dist 2,649,Presidential Electors,564,154,87,2,264,38,2,6,0,0,1,2,0,4,2,0
+Harrison Ward 4 Dist 1,710,Presidential Electors,593,138,84,1,320,42,1,0,0,0,3,2,0,1,1,0
+Harrison Ward 4 Dist 2,616,Presidential Electors,488,111,77,0,247,43,3,1,0,0,4,0,0,1,0,0
+Harrison Ward 5 Dist 1,521,Presidential Electors,317,113,67,2,105,19,1,4,0,0,1,0,0,3,2,0
+Harrison Ward 5 Dist 2,829,Presidential Electors,678,175,99,1,339,43,3,2,1,0,6,0,0,4,1,0
+Haysville,60,Presidential Electors,57,17,12,0,23,2,1,0,0,0,2,0,0,0,0,0
+Heidelberg,917,Presidential Electors,716,274,99,9,288,33,2,2,0,0,2,1,0,3,2,0
+Homestead Ward 1 Dist 1,571,Presidential Electors,339,155,88,6,67,16,1,3,0,0,0,0,0,1,0,0
+Homestead Ward 1 Dist 2,345,Presidential Electors,204,137,41,3,14,4,2,0,1,0,0,0,0,0,0,0
+Homestead Ward 2 Dist 1,470,Presidential Electors,284,167,64,14,33,1,0,1,2,0,0,0,0,2,0,0
+Homestead Ward 2 Dist 2,278,Presidential Electors,177,120,29,2,19,1,0,0,0,0,1,0,0,1,0,0
+Homestead Ward 3 Dist 1,439,Presidential Electors,247,160,33,10,32,5,0,1,0,0,2,0,0,2,0,0
+Homestead Ward 3 Dist 2,261,Presidential Electors,149,108,26,1,10,3,0,0,1,0,0,0,0,0,0,0
+Indiana Dist 1,970,Presidential Electors,815,233,145,5,336,72,8,3,1,0,6,1,0,4,1,0
+Indiana Dist 2,871,Presidential Electors,738,194,141,5,313,74,6,0,0,0,1,1,0,1,1,0
+Indiana Dist 3,1598,Presidential Electors,1305,318,248,4,575,137,2,3,0,0,6,4,0,4,1,0
+Indiana Dist 4,1199,Presidential Electors,1002,298,228,7,337,109,4,4,0,0,7,1,0,3,0,0
+Indiana Dist 5,1000,Presidential Electors,855,245,208,9,308,68,5,0,3,0,1,0,0,3,2,0
+Ingram Dist 1,844,Presidential Electors,671,268,121,9,222,32,1,5,0,0,5,1,0,4,0,0
+Ingram Dist 2,626,Presidential Electors,485,193,83,3,167,32,0,0,0,0,6,0,0,1,0,0
+Ingram Dist 3,921,Presidential Electors,767,296,137,3,270,45,4,3,0,0,1,3,0,1,0,0
+Jefferson Hl Dist 1,1199,Presidential Electors,1039,249,183,9,452,126,5,4,1,1,2,0,0,2,2,0
+Jefferson Hl Dist 2,934,Presidential Electors,793,146,96,7,436,94,5,0,0,0,2,2,0,2,1,0
+Jefferson Hl Dist 3,1160,Presidential Electors,911,204,185,4,388,112,4,3,0,0,4,2,0,1,0,0
+Jefferson Hl Dist 4,968,Presidential Electors,773,163,158,3,345,86,3,2,1,0,4,1,0,3,0,0
+Jefferson Hl Dist 5,1191,Presidential Electors,1021,217,191,7,418,165,5,0,0,0,4,0,0,8,1,0
+Jefferson Hl Dist 6,820,Presidential Electors,700,100,67,1,460,63,0,4,0,0,2,1,0,2,0,0
+Jefferson Hl Dist 7,673,Presidential Electors,587,101,80,3,300,90,4,1,2,0,1,0,0,1,1,0
+Jefferson Hl Dist 8,1077,Presidential Electors,945,230,188,6,397,107,4,1,0,0,3,0,0,4,1,0
+Jefferson Hl Dist 9,1101,Presidential Electors,975,207,214,4,399,140,4,2,0,0,0,0,0,3,0,0
+Kennedy Dist 1,1500,Presidential Electors,1310,325,244,4,553,155,4,6,1,0,4,1,0,9,2,0
+Kennedy Dist 2,988,Presidential Electors,774,213,186,8,291,61,3,0,3,0,1,1,0,4,1,0
+Kennedy Dist 3,988,Presidential Electors,843,215,169,2,361,76,1,4,0,0,2,2,0,6,0,0
+Kennedy Dist 4,455,Presidential Electors,388,119,76,2,140,43,1,1,0,0,0,0,0,1,0,0
+Kennedy Dist 5,1439,Presidential Electors,1246,358,213,3,524,115,8,2,2,0,3,3,0,11,2,0
+Kennedy Dist 6,949,Presidential Electors,747,209,158,3,306,55,3,3,1,0,1,1,1,2,0,0
+Kennedy Dist 7,564,Presidential Electors,502,135,93,3,213,48,4,1,1,0,2,0,0,1,0,0
+Kilbuck,608,Presidential Electors,525,164,107,1,191,54,2,0,0,0,2,0,0,2,0,0
+Leet Dist 1,423,Presidential Electors,344,134,50,3,141,12,0,2,0,0,1,0,0,1,0,0
+Leet Dist 2,796,Presidential Electors,668,206,163,5,222,66,1,0,0,0,2,0,0,0,1,0
+Leetsdale,841,Presidential Electors,635,243,82,4,242,47,3,2,2,0,2,1,0,2,0,0
+Liberty Dist 1,889,Presidential Electors,729,179,87,2,409,48,1,0,0,0,0,0,0,2,0,0
+Liberty Dist 2,783,Presidential Electors,650,169,71,2,363,34,2,4,0,0,2,1,0,1,0,0
+Lincoln,662,Presidential Electors,567,91,64,1,366,41,1,0,0,0,2,0,0,0,0,0
+Marshall Dist 1,971,Presidential Electors,780,189,197,1,252,103,5,18,3,1,3,2,0,3,1,0
+Marshall Dist 2,1306,Presidential Electors,1089,252,232,5,386,182,2,10,2,1,6,2,0,5,1,0
+Marshall Dist 3,837,Presidential Electors,675,149,183,1,208,113,1,2,0,2,5,2,0,4,0,1
+Marshall Dist 4,1211,Presidential Electors,1035,256,266,4,341,143,6,4,3,0,3,4,0,1,3,0
+Marshall Dist 5,983,Presidential Electors,814,210,195,5,252,109,6,12,12,0,3,3,0,1,1,0
+Marshall Dist 6,990,Presidential Electors,813,206,204,7,265,113,3,1,0,0,2,3,1,3,2,0
+Marshall Dist 7,1321,Presidential Electors,1014,217,237,4,357,180,0,5,4,0,3,2,0,3,0,0
+McCandless Ward 1 Dist 1,1165,Presidential Electors,967,235,244,2,321,146,1,3,3,0,4,0,0,3,2,0
+McCandless Ward 1 Dist 2,775,Presidential Electors,602,178,173,2,180,55,5,2,2,0,1,0,0,0,1,0
+McCandless Ward 1 Dist 3,1316,Presidential Electors,1012,249,259,9,327,142,5,4,3,0,5,1,0,2,1,0
+McCandless Ward 2 Dist 1,1404,Presidential Electors,1192,331,336,6,323,168,4,1,1,0,3,1,0,5,3,1
+McCandless Ward 2 Dist 2,877,Presidential Electors,769,189,173,2,287,101,4,1,0,0,1,2,0,3,4,0
+McCandless Ward 2 Dist 3,901,Presidential Electors,747,195,168,1,281,91,2,4,0,0,3,1,0,1,0,0
+McCandless Ward 3 Dist 1,951,Presidential Electors,814,250,209,0,273,72,2,0,0,0,2,1,0,2,0,0
+McCandless Ward 3 Dist 2,1067,Presidential Electors,909,254,203,7,337,95,3,2,0,0,7,0,0,0,0,0
+McCandless Ward 3 Dist 3,1110,Presidential Electors,960,249,227,3,339,119,5,0,1,0,3,6,0,5,1,0
+McCandless Ward 4 Dist 1,1483,Presidential Electors,1274,355,313,5,421,153,4,2,0,0,5,1,1,9,2,0
+McCandless Ward 4 Dist 2,977,Presidential Electors,811,237,174,8,311,62,1,2,0,0,5,2,0,3,3,0
+McCandless Ward 4 Dist 3,776,Presidential Electors,681,188,168,1,236,65,5,0,4,0,3,0,0,5,3,0
+McCandless Ward 5 Dist 1,896,Presidential Electors,772,224,133,3,298,99,0,4,1,0,3,1,0,3,1,0
+McCandless Ward 5 Dist 2,1484,Presidential Electors,1185,367,271,6,396,123,4,4,3,0,2,1,0,5,1,0
+McCandless Ward 5 Dist 3,1086,Presidential Electors,916,258,290,5,241,106,3,3,0,0,4,0,0,1,1,0
+McCandless Ward 6 Dist 1,475,Presidential Electors,406,83,116,1,149,50,1,2,2,0,1,0,0,1,0,0
+McCandless Ward 6 Dist 2,1044,Presidential Electors,895,226,227,2,311,106,2,2,1,0,9,4,0,2,1,0
+McCandless Ward 6 Dist 3,1885,Presidential Electors,1615,396,495,4,455,228,5,0,4,0,9,4,1,5,1,0
+McCandless Ward 7 Dist 1,1625,Presidential Electors,1334,330,368,5,406,203,2,2,3,0,4,0,0,6,5,0
+McCandless Ward 7 Dist 2,1044,Presidential Electors,900,232,265,3,281,99,3,0,4,0,3,2,0,6,1,0
+McCandless Ward 7 Dist 3,535,Presidential Electors,466,132,115,0,143,64,0,0,1,0,3,3,0,3,1,0
+McDonald,240,Presidential Electors,184,32,16,0,119,14,0,1,0,0,1,0,0,0,0,0
+McKeesport Ward 1,13,Presidential Electors,7,5,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+McKeesport Ward 2,217,Presidential Electors,74,33,18,2,16,3,0,1,0,0,0,0,0,0,0,0
+McKeesport Ward 3 Dist 1,299,Presidential Electors,152,91,26,2,10,17,0,1,2,0,0,0,0,0,0,0
+McKeesport Ward 3 Dist 2,105,Presidential Electors,57,36,17,1,2,1,0,0,0,0,0,0,0,0,0,0
+McKeesport Ward 4,317,Presidential Electors,113,69,25,2,11,1,1,1,0,0,0,2,0,0,0,1
+McKeesport Ward 5,480,Presidential Electors,204,121,38,8,23,9,1,1,1,0,0,0,0,0,0,0
+McKeesport Ward 6 Dist 1,327,Presidential Electors,151,71,32,7,30,9,1,1,0,0,0,0,0,0,0,0
+McKeesport Ward 6 Dist 2,287,Presidential Electors,144,81,23,4,28,5,0,1,0,0,0,1,0,0,0,0
+McKeesport Ward 7 Dist 1,462,Presidential Electors,264,159,58,4,27,14,0,0,0,0,1,0,0,1,0,0
+McKeesport Ward 7 Dist 2,270,Presidential Electors,156,98,38,6,7,2,2,1,0,0,1,0,0,0,0,0
+McKeesport Ward 7 Dist 3,311,Presidential Electors,173,103,20,4,38,7,1,0,0,0,0,0,0,0,0,0
+McKeesport Ward 7 Dist 4,403,Presidential Electors,204,109,28,9,37,13,2,2,0,0,1,1,0,0,0,1
+McKeesport Ward 7 Dist 5,535,Presidential Electors,305,153,49,12,68,16,1,0,1,0,3,0,0,2,0,0
+McKeesport Ward 7 Dist 6,425,Presidential Electors,242,141,34,9,51,5,0,0,0,0,0,0,0,1,0,0
+McKeesport Ward 7 Dist 7,327,Presidential Electors,181,102,44,12,20,3,0,0,0,0,0,0,0,0,0,0
+McKeesport Ward 8 Dist 1,267,Presidential Electors,172,48,24,4,83,7,3,1,0,0,0,0,0,1,0,0
+McKeesport Ward 8 Dist 2,531,Presidential Electors,350,139,82,2,96,22,3,0,0,0,4,1,0,0,1,0
+McKeesport Ward 8 Dist 3,498,Presidential Electors,285,160,47,14,46,8,2,0,0,0,0,0,0,2,0,0
+McKeesport Ward 8 Dist 4,462,Presidential Electors,324,114,48,4,109,39,5,1,0,0,1,0,0,0,2,0
+McKeesport Ward 8 Dist 5,511,Presidential Electors,186,112,40,8,19,3,0,1,0,0,1,0,0,0,0,1
+McKeesport Ward 8 Dist 6,202,Presidential Electors,135,40,24,1,55,12,1,1,0,0,0,0,0,1,0,0
+McKeesport Ward 9 Dist 1,475,Presidential Electors,312,119,48,6,110,22,2,1,1,0,0,0,0,2,0,0
+McKeesport Ward 9 Dist 2,572,Presidential Electors,372,180,43,10,119,12,3,0,1,0,2,0,0,0,1,0
+McKeesport Ward 9 Dist 3,387,Presidential Electors,254,96,51,7,72,24,1,1,0,0,0,1,0,0,0,0
+McKeesport Ward 10 Dist 1,277,Presidential Electors,149,61,22,3,55,4,1,1,0,0,0,0,0,1,0,0
+McKeesport Ward 10 Dist 2,312,Presidential Electors,206,65,43,2,77,14,0,0,0,0,3,0,0,0,1,0
+McKeesport Ward 11 Dist 1,428,Presidential Electors,288,113,35,3,109,22,2,0,0,0,0,0,0,0,0,0
+McKeesport Ward 11 Dist 2,377,Presidential Electors,267,86,32,5,117,24,1,0,0,0,2,0,0,0,0,0
+McKeesport Ward 11 Dist 3,264,Presidential Electors,184,70,55,1,42,11,3,0,0,0,0,0,0,2,0,0
+McKeesport Ward 12 Dist 1,334,Presidential Electors,238,55,43,4,112,19,0,3,0,0,1,0,0,1,0,0
+McKeesport Ward 12 Dist 2,370,Presidential Electors,282,84,36,0,129,30,0,1,0,0,0,0,0,0,1,0
+McKeesport Ward 12 Dist 3,556,Presidential Electors,475,132,96,1,202,37,2,1,0,0,1,0,0,2,0,0
+McKees Rocks Ward 1 Dist 1,179,Presidential Electors,31,20,6,2,2,1,0,0,0,0,0,0,0,0,0,0
+McKees Rocks Ward 1 Dist 2,523,Presidential Electors,281,138,55,10,47,21,1,6,0,0,0,0,0,1,0,0
+McKees Rocks Ward 2 Dist 1,659,Presidential Electors,327,155,59,10,90,10,0,0,0,0,1,0,0,0,1,0
+McKees Rocks Ward 2 Dist 2,591,Presidential Electors,301,157,36,4,82,15,1,3,2,0,0,0,0,1,0,0
+McKees Rocks Ward 3 Dist 1,762,Presidential Electors,494,183,94,17,154,38,5,0,0,0,1,0,0,1,0,0
+McKees Rocks Ward 3 Dist 2,534,Presidential Electors,272,110,60,10,77,10,2,0,1,0,0,0,0,0,1,0
+McKees Rocks Ward 3 Dist 3,511,Presidential Electors,286,144,44,5,64,21,1,2,0,0,3,0,0,1,0,0
+Millvale Dist 1,510,Presidential Electors,357,164,75,2,92,19,1,3,0,0,0,0,0,1,0,0
+Millvale Dist 2,463,Presidential Electors,334,126,38,0,146,13,1,7,0,0,0,0,0,1,0,0
+Millvale Dist 3,453,Presidential Electors,334,143,79,1,86,15,0,3,3,0,0,0,0,2,0,0
+Millvale Dist 4,452,Presidential Electors,325,136,43,3,113,24,1,0,2,0,3,0,0,0,0,0
+Millvale Dist 5,521,Presidential Electors,401,163,81,2,118,27,0,2,1,0,1,0,0,3,0,0
+Monroeville Ward 1 Dist 1,703,Presidential Electors,540,175,95,0,225,40,2,1,0,0,2,0,0,0,0,0
+Monroeville Ward 1 Dist 2,636,Presidential Electors,535,148,118,6,223,31,1,0,1,0,2,0,0,1,0,0
+Monroeville Ward 1 Dist 3,802,Presidential Electors,678,236,171,4,186,64,1,5,0,0,3,0,0,4,2,0
+Monroeville Ward 1 Dist 4,918,Presidential Electors,608,237,168,10,149,36,1,1,1,0,4,0,0,1,0,0
+Monroeville Ward 2 Dist 1,956,Presidential Electors,795,286,159,1,259,66,3,8,2,1,2,0,0,5,1,0
+Monroeville Ward 2 Dist 2,979,Presidential Electors,818,285,206,4,230,75,1,7,0,0,6,1,1,1,0,0
+Monroeville Ward 2 Dist 3,1094,Presidential Electors,896,282,223,6,289,86,2,0,1,1,2,1,0,1,1,0
+Monroeville Ward 3 Dist 1,1192,Presidential Electors,954,219,249,6,327,124,6,3,5,0,5,2,0,3,1,0
+Monroeville Ward 3 Dist 2,650,Presidential Electors,537,161,103,2,225,39,4,1,0,0,1,0,0,0,0,0
+Monroeville Ward 3 Dist 3,989,Presidential Electors,817,257,196,3,281,62,1,7,3,0,1,0,0,2,1,0
+Monroeville Ward 3 Dist 4,448,Presidential Electors,383,123,83,0,125,40,1,2,1,0,3,1,0,1,0,0
+Monroeville Ward 4 Dist 1,676,Presidential Electors,570,176,124,1,203,48,0,3,1,1,3,3,0,5,1,0
+Monroeville Ward 4 Dist 2,1058,Presidential Electors,845,283,179,9,281,79,3,2,1,0,1,0,0,5,0,0
+Monroeville Ward 4 Dist 3,1006,Presidential Electors,847,279,156,6,324,59,2,6,2,0,3,3,1,3,0,0
+Monroeville Ward 5 Dist 1,613,Presidential Electors,510,146,88,2,216,43,0,1,3,1,5,0,0,2,0,0
+Monroeville Ward 5 Dist 2,891,Presidential Electors,568,207,181,5,125,33,1,9,0,0,3,3,0,0,0,0
+Monroeville Ward 5 Dist 3,1005,Presidential Electors,762,227,215,11,218,69,1,7,1,0,4,2,0,3,1,0
+Monroeville Ward 5 Dist 4,653,Presidential Electors,433,183,97,6,116,27,3,0,0,0,0,0,0,0,1,0
+Monroeville Ward 6 Dist 1,835,Presidential Electors,671,215,138,5,245,53,2,3,0,0,2,1,0,4,0,0
+Monroeville Ward 6 Dist 2,879,Presidential Electors,668,220,163,6,199,70,2,0,2,0,2,0,0,2,0,0
+Monroeville Ward 6 Dist 3,1087,Presidential Electors,676,284,143,18,185,31,6,3,0,0,3,1,0,0,1,1
+Monroeville Ward 6 Dist 4,377,Presidential Electors,250,88,86,6,44,20,1,0,1,0,0,1,0,0,2,0
+Monroeville Ward 7 Dist 1,1561,Presidential Electors,1278,455,342,13,336,98,3,5,2,1,8,1,0,5,4,1
+Monroeville Ward 7 Dist 2,840,Presidential Electors,667,294,139,9,168,52,0,2,0,0,1,1,0,1,0,0
+Monroeville Ward 7 Dist 3,705,Presidential Electors,550,186,140,8,177,29,2,0,0,0,3,1,0,3,0,0
+Moon Dist 1,892,Presidential Electors,528,155,83,4,222,52,2,4,0,0,2,0,0,3,0,0
+Moon Dist 2,1045,Presidential Electors,864,233,195,2,321,96,7,0,0,0,4,3,0,3,0,0
+Moon Dist 3,1173,Presidential Electors,847,268,173,6,313,64,7,1,0,0,6,1,0,3,4,0
+Moon Dist 4,1206,Presidential Electors,1037,233,254,5,411,120,2,3,1,0,3,0,0,1,4,0
+Moon Dist 5,1664,Presidential Electors,1393,314,321,5,563,160,6,7,1,0,7,1,0,2,3,0
+Moon Dist 6,1748,Presidential Electors,1400,345,273,10,555,190,6,4,2,2,2,0,0,5,2,0
+Moon Dist 7,1239,Presidential Electors,897,247,200,12,338,81,7,6,0,0,3,0,0,3,0,0
+Moon Dist 8,1314,Presidential Electors,1086,266,251,2,439,106,4,3,1,0,3,2,0,2,1,0
+Moon Dist 9,1130,Presidential Electors,874,196,179,6,357,117,3,0,6,0,2,2,0,2,2,0
+Moon Dist 10,1232,Presidential Electors,1030,253,241,5,396,117,5,1,2,0,1,2,0,1,4,0
+Moon Dist 11,1179,Presidential Electors,963,176,203,2,412,146,7,2,2,0,2,2,0,1,6,0
+Moon Dist 12,1117,Presidential Electors,945,291,187,5,351,95,4,2,0,0,2,1,0,1,1,0
+Moon Dist 13,1303,Presidential Electors,1100,276,224,15,407,162,4,3,2,0,5,0,0,1,1,0
+Moon Dist 14,810,Presidential Electors,549,135,149,6,195,58,1,1,1,0,0,0,0,1,0,0
+Moon Dist 15,1058,Presidential Electors,848,266,172,8,310,71,5,1,0,0,3,4,0,3,3,0
+Moon Dist 16,1193,Presidential Electors,1010,265,195,6,381,137,11,4,0,0,2,2,0,3,2,0
+Mt Lebanon Ward 1 Dist 1,847,Presidential Electors,711,241,207,3,142,92,1,1,1,0,3,4,0,6,5,0
+Mt Lebanon Ward 1 Dist 2,634,Presidential Electors,512,256,118,5,98,24,2,1,1,0,2,0,0,3,1,0
+Mt Lebanon Ward 1 Dist 3,643,Presidential Electors,567,259,149,4,102,39,2,2,2,0,2,0,0,4,0,0
+Mt Lebanon Ward 1 Dist 4,782,Presidential Electors,657,268,186,3,138,54,1,0,0,0,1,0,0,1,0,0
+Mt Lebanon Ward 1 Dist 5,617,Presidential Electors,536,219,157,2,115,27,3,4,2,0,3,0,0,1,1,0
+Mt Lebanon Ward 1 Dist 6,1061,Presidential Electors,886,325,264,9,154,111,2,2,2,0,5,4,0,4,1,0
+Mt Lebanon Ward 1 Dist 7,774,Presidential Electors,622,271,164,6,126,39,2,4,2,0,3,1,0,1,0,0
+Mt Lebanon Ward 2 Dist 1,998,Presidential Electors,856,333,246,5,159,96,1,2,0,0,4,1,0,3,4,0
+Mt Lebanon Ward 2 Dist 2,645,Presidential Electors,524,215,136,3,109,55,1,0,0,0,1,0,0,2,0,0
+Mt Lebanon Ward 2 Dist 3,697,Presidential Electors,567,246,191,0,83,37,1,0,1,0,1,1,0,2,0,0
+Mt Lebanon Ward 2 Dist 4,559,Presidential Electors,458,177,140,2,96,36,0,3,0,0,2,1,0,0,0,0
+Mt Lebanon Ward 2 Dist 5,594,Presidential Electors,499,199,126,7,122,37,2,3,0,0,1,1,0,0,0,0
+Mt Lebanon Ward 2 Dist 6,600,Presidential Electors,519,201,105,0,154,49,0,3,0,0,2,1,0,2,1,0
+Mt Lebanon Ward 2 Dist 7,671,Presidential Electors,568,243,133,1,141,36,2,3,1,0,1,1,0,3,1,0
+Mt Lebanon Ward 2 Dist 8,957,Presidential Electors,791,209,300,7,143,116,2,3,2,1,0,0,0,4,0,0
+Mt Lebanon Ward 3 Dist 1,686,Presidential Electors,572,216,149,2,113,74,1,1,1,1,1,3,0,6,3,0
+Mt Lebanon Ward 3 Dist 2,911,Presidential Electors,782,357,166,4,191,43,5,7,1,0,2,1,0,2,2,0
+Mt Lebanon Ward 3 Dist 3,702,Presidential Electors,598,219,164,4,146,51,2,2,1,0,1,0,0,3,0,0
+Mt Lebanon Ward 3 Dist 4,719,Presidential Electors,566,212,143,6,140,51,1,2,0,0,0,1,0,4,1,0
+Mt Lebanon Ward 3 Dist 5,745,Presidential Electors,647,267,157,4,137,66,3,0,1,0,3,1,0,1,5,0
+Mt Lebanon Ward 3 Dist 6,471,Presidential Electors,409,170,114,3,99,19,0,0,0,0,1,2,0,0,1,0
+Mt Lebanon Ward 3 Dist 7,886,Presidential Electors,746,226,222,2,174,103,1,5,0,0,3,3,0,2,1,0
+Mt Lebanon Ward 3 Dist 8,322,Presidential Electors,278,103,57,2,87,23,2,0,0,0,0,0,0,1,1,0
+Mt Lebanon Ward 4 Dist 1,800,Presidential Electors,629,266,166,5,138,42,1,3,0,0,0,4,0,3,1,0
+Mt Lebanon Ward 4 Dist 2,912,Presidential Electors,740,324,173,4,186,39,2,1,1,0,0,2,0,5,2,0
+Mt Lebanon Ward 4 Dist 3,668,Presidential Electors,533,237,132,3,114,37,3,0,2,0,0,0,0,3,0,0
+Mt Lebanon Ward 4 Dist 4,678,Presidential Electors,583,232,143,0,148,50,0,1,2,0,2,1,0,2,0,0
+Mt Lebanon Ward 4 Dist 5,646,Presidential Electors,558,258,117,3,139,29,1,0,0,0,1,2,0,2,2,0
+Mt Lebanon Ward 4 Dist 6,702,Presidential Electors,592,266,138,0,142,36,0,1,0,0,5,0,0,1,1,0
+Mt Lebanon Ward 4 Dist 7,938,Presidential Electors,795,284,273,4,143,82,0,2,0,0,1,2,0,0,2,0
+Mt Lebanon Ward 5 Dist 1,600,Presidential Electors,515,182,147,5,134,42,0,0,1,0,0,0,0,0,2,0
+Mt Lebanon Ward 5 Dist 2,449,Presidential Electors,315,110,85,3,79,30,1,0,2,0,3,0,0,0,1,0
+Mt Lebanon Ward 5 Dist 3,606,Presidential Electors,499,196,141,4,108,38,1,4,2,0,1,0,0,1,2,0
+Mt Lebanon Ward 5 Dist 4,635,Presidential Electors,539,230,136,1,126,36,2,1,0,0,2,0,0,3,1,0
+Mt Lebanon Ward 5 Dist 5,642,Presidential Electors,558,227,151,2,108,53,2,1,2,0,2,1,0,3,2,0
+Mt Lebanon Ward 5 Dist 6,473,Presidential Electors,407,179,105,1,82,27,2,1,2,0,0,1,0,4,1,0
+Mt Lebanon Ward 5 Dist 7,842,Presidential Electors,710,276,219,4,147,49,1,2,1,0,4,1,0,3,1,0
+Mt Lebanon Ward 5 Dist 8,955,Presidential Electors,739,305,231,6,142,35,5,2,4,1,2,0,0,5,1,0
+Mt Oliver Dist 1,722,Presidential Electors,371,181,65,18,77,17,10,0,0,0,1,2,0,0,0,0
+Mt Oliver Dist 2,782,Presidential Electors,440,214,84,11,91,27,3,4,0,0,2,0,0,0,1,0
+Mt Oliver Dist 3,522,Presidential Electors,311,173,42,3,76,11,2,0,0,0,0,0,0,0,0,0
+Mt Oliver Dist 4,307,Presidential Electors,197,79,37,4,63,8,2,0,1,0,0,0,0,2,0,0
+Munhall Dist 1,472,Presidential Electors,295,98,69,6,101,17,1,2,1,0,0,0,0,0,0,0
+Munhall Dist 2,520,Presidential Electors,327,159,73,8,61,16,2,3,1,0,1,1,0,1,0,0
+Munhall Dist 3,523,Presidential Electors,324,207,44,8,54,4,1,2,3,0,0,0,0,0,1,0
+Munhall Dist 4,414,Presidential Electors,272,138,63,6,46,14,3,0,0,0,0,0,0,0,1,0
+Munhall Dist 5,759,Presidential Electors,588,232,98,7,196,38,4,4,2,0,3,0,0,0,0,0
+Munhall Dist 6,724,Presidential Electors,595,209,113,3,226,38,3,0,0,0,0,0,0,2,0,0
+Munhall Dist 7,1131,Presidential Electors,894,301,209,6,300,62,3,2,3,0,2,0,0,1,1,0
+Munhall Dist 8,669,Presidential Electors,573,206,90,4,223,39,4,0,0,0,4,1,0,0,1,0
+Munhall Dist 9,724,Presidential Electors,545,202,106,2,178,45,3,1,1,0,2,1,0,3,0,0
+Munhall Dist 10,514,Presidential Electors,404,136,75,3,161,22,3,0,0,0,2,0,0,1,0,0
+Munhall Dist 11,953,Presidential Electors,820,282,157,6,295,61,3,2,1,1,4,1,0,2,2,0
+Munhall Dist 12,554,Presidential Electors,481,158,71,2,209,33,2,0,0,0,3,0,0,1,1,0
+Neville Ward 1,263,Presidential Electors,192,59,19,0,94,15,0,1,1,0,1,1,0,0,0,0
+Neville Ward 2,210,Presidential Electors,137,53,14,0,55,14,0,0,0,0,0,0,0,0,1,0
+Neville Ward 3,261,Presidential Electors,218,77,40,4,83,11,0,1,1,0,0,0,0,0,0,0
+N Braddock Ward 1 Dist 1,232,Presidential Electors,191,58,58,3,39,27,1,1,0,0,0,1,0,0,2,0
+N Braddock Ward 1 Dist 2,479,Presidential Electors,338,156,51,5,93,30,1,2,0,0,0,0,0,0,0,0
+N Braddock Ward 1 Dist 3,471,Presidential Electors,283,150,48,6,66,9,0,1,1,0,0,0,0,1,0,0
+N Braddock Ward 2 Dist 1,444,Presidential Electors,235,134,36,5,49,7,0,2,1,0,0,0,0,0,0,0
+N Braddock Ward 2 Dist 2,548,Presidential Electors,348,164,86,8,71,16,0,0,1,0,0,1,0,0,0,0
+N Braddock Ward 3 Dist 1,419,Presidential Electors,218,144,50,7,9,4,1,2,0,0,0,0,0,0,0,0
+N Braddock Ward 3 Dist 2,471,Presidential Electors,233,146,41,10,22,8,2,1,0,0,0,0,0,2,0,1
+N Fayette Dist 1,2253,Presidential Electors,1885,320,407,5,831,293,8,3,1,0,3,2,1,4,0,0
+N Fayette Dist 2,2567,Presidential Electors,1916,438,448,22,707,233,23,11,5,0,10,1,1,3,6,0
+N Fayette Dist 3,2448,Presidential Electors,1914,411,442,17,745,256,17,4,4,0,7,1,0,4,6,0
+N Fayette Dist 4,1242,Presidential Electors,892,146,178,17,421,102,17,4,2,0,1,1,0,2,0,0
+N Fayette Dist 5,3294,Presidential Electors,2656,543,580,14,1097,374,12,2,4,0,6,6,0,9,4,0
+N Versailles Ward 1 Dist 1,677,Presidential Electors,512,156,91,4,206,43,6,3,1,0,1,0,0,1,0,0
+N Versailles Ward 1 Dist 2,646,Presidential Electors,525,180,78,1,232,27,3,0,1,0,3,0,0,0,0,0
+N Versailles Ward 2 Dist 1,668,Presidential Electors,500,168,81,4,209,28,5,1,0,0,2,0,0,0,1,0
+N Versailles Ward 2 Dist 2,206,Presidential Electors,148,47,44,2,44,10,0,0,0,0,0,0,0,1,0,0
+N Versailles Ward 3 Dist 1,518,Presidential Electors,414,120,98,0,159,31,1,1,1,0,0,1,0,1,0,0
+N Versailles Ward 3 Dist 2,617,Presidential Electors,460,108,121,8,176,39,2,2,0,0,2,0,0,1,0,1
+N Versailles Ward 4 Dist 1,511,Presidential Electors,375,128,54,4,157,24,3,0,0,0,3,1,0,1,0,0
+N Versailles Ward 4 Dist 2,418,Presidential Electors,321,108,41,1,131,36,1,0,0,0,1,0,0,0,1,0
+N Versailles Ward 5 Dist 1,520,Presidential Electors,309,116,59,2,110,15,0,0,0,1,3,0,0,3,0,0
+N Versailles Ward 5 Dist 2,370,Presidential Electors,213,71,47,3,74,14,3,0,0,0,0,0,0,0,0,0
+N Versailles Ward 6 Dist 1,647,Presidential Electors,529,136,102,2,244,35,2,0,1,0,3,1,0,1,1,0
+N Versailles Ward 6 Dist 2,549,Presidential Electors,457,111,91,2,204,39,3,0,1,0,0,2,0,2,0,0
+N Versailles Ward 7,623,Presidential Electors,418,226,89,6,72,18,2,3,1,0,0,1,0,0,0,0
+Oakdale Dist 1,615,Presidential Electors,506,183,66,1,222,28,2,2,0,0,2,0,0,0,0,0
+Oakdale Dist 2,447,Presidential Electors,377,89,72,0,174,39,1,0,0,0,0,0,0,1,0,0
+Oakmont Dist 1,869,Presidential Electors,749,284,161,4,218,65,2,1,0,0,2,1,0,5,1,0
+Oakmont Dist 2,1079,Presidential Electors,899,266,253,3,258,104,2,1,1,0,1,3,0,3,2,0
+Oakmont Dist 3,763,Presidential Electors,616,239,97,6,210,41,8,5,1,1,2,1,1,2,0,0
+Oakmont Dist 4,874,Presidential Electors,736,276,143,3,222,69,2,4,1,0,7,0,0,6,0,0
+Oakmont Dist 5,666,Presidential Electors,548,223,104,2,181,23,2,0,1,0,4,0,0,3,0,0
+Oakmont Dist 6,1312,Presidential Electors,1092,326,299,3,323,125,3,3,1,0,2,2,0,0,4,0
+O'Hara Ward 1 Dist 1,861,Presidential Electors,647,187,214,8,153,69,1,2,3,0,1,1,0,4,1,0
+O'Hara Ward 1 Dist 2,651,Presidential Electors,540,189,125,2,167,41,6,2,1,0,2,1,0,0,0,0
+O'Hara Ward 2 Dist 1,630,Presidential Electors,544,220,134,0,143,36,1,0,2,0,3,0,0,3,1,0
+O'Hara Ward 2 Dist 2,940,Presidential Electors,784,238,220,0,218,88,0,2,3,0,0,2,0,4,3,0
+O'Hara Ward 3 Dist 1,868,Presidential Electors,745,280,183,4,200,61,1,2,2,0,2,2,0,0,3,0
+O'Hara Ward 3 Dist 2,553,Presidential Electors,466,141,79,0,204,34,0,1,0,0,1,1,0,1,0,0
+O'Hara Ward 4 Dist 1,844,Presidential Electors,682,217,227,4,152,62,4,3,3,0,3,0,0,5,0,0
+O'Hara Ward 4 Dist 2,620,Presidential Electors,543,212,184,3,97,36,0,1,1,0,1,2,0,4,0,0
+O'Hara Ward 5 Dist 1,772,Presidential Electors,670,192,203,4,187,65,4,5,0,0,1,0,0,3,1,0
+O'Hara Ward 5 Dist 2,919,Presidential Electors,780,284,241,4,162,66,2,6,1,0,4,3,0,3,0,0
+Ohio Dist 1,1704,Presidential Electors,1466,387,365,7,530,149,8,1,1,0,6,1,0,6,2,0
+Ohio Dist 2,1840,Presidential Electors,1619,371,463,5,544,211,2,4,0,0,6,1,0,1,6,0
+Ohio Dist 3,2162,Presidential Electors,1789,552,452,4,549,192,5,7,1,0,3,5,0,11,0,1
+Glen Osborne,478,Presidential Electors,399,155,82,0,116,32,0,1,0,0,5,1,0,4,0,0
+Penn Hills Ward 1 Dist 1,707,Presidential Electors,479,245,178,10,30,6,2,3,1,0,0,0,0,1,2,0
+Penn Hills Ward 1 Dist 2,736,Presidential Electors,524,276,180,11,34,15,1,0,1,0,3,0,0,0,1,0
+Penn Hills Ward 1 Dist 3,479,Presidential Electors,301,175,96,9,11,4,0,2,0,0,0,0,0,3,0,0
+Penn Hills Ward 1 Dist 4,338,Presidential Electors,203,108,69,4,17,2,1,1,0,0,1,0,0,0,0,0
+Penn Hills Ward 1 Dist 5,192,Presidential Electors,118,73,39,4,1,0,0,1,0,0,0,0,0,0,0,0
+Penn Hills Ward 2 Dist 1,695,Presidential Electors,473,232,152,4,44,20,0,0,5,2,2,4,0,4,1,0
+Penn Hills Ward 2 Dist 2,768,Presidential Electors,484,277,141,9,34,12,2,3,1,0,1,0,0,3,0,0
+Penn Hills Ward 2 Dist 3,898,Presidential Electors,628,355,170,11,68,18,1,1,2,0,0,0,0,1,0,0
+Penn Hills Ward 2 Dist 4,591,Presidential Electors,479,236,163,3,48,14,0,7,0,0,0,0,0,7,1,0
+Penn Hills Ward 3 Dist 1,768,Presidential Electors,601,220,178,5,124,57,4,1,0,0,3,0,0,3,3,0
+Penn Hills Ward 3 Dist 2,499,Presidential Electors,392,202,102,5,51,22,1,4,0,0,1,0,0,3,0,0
+Penn Hills Ward 3 Dist 3,634,Presidential Electors,470,204,183,6,50,20,0,0,4,0,0,0,0,2,0,0
+Penn Hills Ward 3 Dist 4,824,Presidential Electors,589,248,199,4,89,37,0,3,3,1,1,1,0,1,1,0
+Penn Hills Ward 3 Dist 5,448,Presidential Electors,299,159,65,12,37,21,1,1,0,0,2,0,0,0,0,0
+Penn Hills Ward 3 Dist 6,470,Presidential Electors,328,151,72,4,81,17,0,0,0,0,1,0,0,0,0,0
+Penn Hills Ward 4 Dist 1,565,Presidential Electors,438,209,129,1,65,24,1,1,2,0,2,2,0,0,0,0
+Penn Hills Ward 4 Dist 2,721,Presidential Electors,545,250,146,4,95,31,1,6,0,0,4,1,0,4,0,0
+Penn Hills Ward 4 Dist 3,751,Presidential Electors,571,223,157,6,134,37,5,4,0,2,0,0,0,1,1,0
+Penn Hills Ward 4 Dist 4,638,Presidential Electors,479,207,140,14,80,27,3,1,1,0,0,1,0,2,1,0
+Penn Hills Ward 4 Dist 5,640,Presidential Electors,474,202,136,10,97,21,3,0,1,0,2,0,0,1,1,0
+Penn Hills Ward 5 Dist 1,703,Presidential Electors,502,225,118,15,96,35,4,1,1,0,3,1,0,1,0,0
+Penn Hills Ward 5 Dist 2,614,Presidential Electors,426,193,103,6,89,28,2,2,0,0,0,0,0,2,0,0
+Penn Hills Ward 5 Dist 3,684,Presidential Electors,539,222,133,15,128,34,0,3,0,0,1,0,0,1,0,0
+Penn Hills Ward 5 Dist 4,613,Presidential Electors,501,169,144,7,120,50,2,0,1,0,5,0,0,0,0,0
+Penn Hills Ward 5 Dist 5,542,Presidential Electors,436,196,121,4,87,19,2,2,0,0,1,0,0,1,2,0
+Penn Hills Ward 5 Dist 6,739,Presidential Electors,562,216,142,13,135,45,2,3,1,0,3,0,0,1,1,0
+Penn Hills Ward 6 Dist 1,562,Presidential Electors,413,161,74,6,128,30,1,0,0,0,5,2,0,4,1,0
+Penn Hills Ward 6 Dist 2,670,Presidential Electors,500,262,106,4,89,30,2,0,0,0,2,0,0,1,1,0
+Penn Hills Ward 6 Dist 3,521,Presidential Electors,405,202,100,3,71,24,0,1,0,0,2,1,0,1,0,0
+Penn Hills Ward 6 Dist 4,579,Presidential Electors,380,207,104,1,52,12,1,1,0,0,1,0,0,1,0,0
+Penn Hills Ward 6 Dist 5,608,Presidential Electors,442,212,122,10,66,26,0,3,0,0,0,0,0,1,1,0
+Penn Hills Ward 6 Dist 6,549,Presidential Electors,420,177,103,4,91,35,0,4,0,0,2,2,0,2,0,0
+Penn Hills Ward 7 Dist 1,648,Presidential Electors,496,261,139,3,76,16,0,1,0,0,0,0,0,0,0,0
+Penn Hills Ward 7 Dist 2,683,Presidential Electors,486,132,133,6,145,55,6,1,4,0,2,0,0,0,0,0
+Penn Hills Ward 7 Dist 3,896,Presidential Electors,674,291,185,8,131,51,1,0,1,0,2,1,0,1,1,0
+Penn Hills Ward 7 Dist 4,609,Presidential Electors,480,136,133,4,158,33,0,3,3,0,2,1,0,1,1,0
+Penn Hills Ward 7 Dist 5,741,Presidential Electors,584,245,135,4,136,46,0,5,2,0,2,3,0,4,0,0
+Penn Hills Ward 7 Dist 6,715,Presidential Electors,533,250,130,8,117,22,1,0,1,0,2,0,0,1,0,0
+Penn Hills Ward 7 Dist 7,722,Presidential Electors,517,142,131,10,172,48,5,3,0,0,2,1,0,2,0,0
+Penn Hills Ward 8 Dist 1,637,Presidential Electors,519,163,131,5,150,64,2,0,1,0,0,0,0,1,0,0
+Penn Hills Ward 8 Dist 2,579,Presidential Electors,483,183,78,3,175,30,5,1,1,0,2,1,0,1,1,0
+Penn Hills Ward 8 Dist 3,546,Presidential Electors,452,152,95,3,155,44,1,0,0,0,0,0,0,2,0,0
+Penn Hills Ward 8 Dist 4,613,Presidential Electors,515,153,146,3,158,45,4,2,0,0,3,0,0,0,1,0
+Penn Hills Ward 8 Dist 5,953,Presidential Electors,751,224,208,12,209,77,6,2,1,0,4,1,0,1,3,0
+Penn Hills Ward 8 Dist 6,484,Presidential Electors,401,118,102,1,129,41,1,1,3,0,2,0,0,2,0,0
+Penn Hills Ward 9 Dist 1,519,Presidential Electors,453,166,95,4,141,38,2,0,0,0,2,0,0,3,0,0
+Penn Hills Ward 9 Dist 2,593,Presidential Electors,476,149,117,3,158,31,5,2,1,0,2,1,0,1,4,0
+Penn Hills Ward 9 Dist 3,929,Presidential Electors,751,255,188,10,233,44,6,4,1,0,3,0,0,2,2,0
+Penn Hills Ward 9 Dist 4,627,Presidential Electors,520,169,115,3,182,39,2,0,0,0,1,1,0,6,0,0
+Penn Hills Ward 9 Dist 5,311,Presidential Electors,203,98,68,8,21,3,0,0,0,0,0,0,0,1,1,0
+Pine Dist 1,1568,Presidential Electors,1299,268,369,9,408,208,8,4,5,0,1,4,0,5,5,0
+Pine Dist 2,1419,Presidential Electors,1199,221,338,5,391,226,5,0,2,0,2,2,0,1,1,0
+Pine Dist 3,1406,Presidential Electors,1212,230,278,3,429,237,7,5,2,0,4,3,0,3,2,1
+Pine Dist 4,1518,Presidential Electors,1289,349,292,2,415,204,2,2,3,0,6,2,0,3,2,0
+Pine Dist 5,2030,Presidential Electors,1594,389,378,6,519,271,5,10,2,1,5,1,0,2,2,0
+Pine Dist 6,1075,Presidential Electors,934,227,204,5,336,140,3,2,0,0,1,0,0,7,1,1
+Pine Dist 7,1564,Presidential Electors,1298,330,337,5,442,157,4,1,2,0,8,2,0,3,3,0
+Pine Dist 8,1109,Presidential Electors,930,184,209,2,339,176,1,1,0,0,3,3,0,3,2,0
+Pitcairn Dist 1,869,Presidential Electors,566,246,90,5,179,38,3,2,0,0,1,0,0,1,0,0
+Pitcairn Dist 2,450,Presidential Electors,238,110,25,6,81,14,0,1,0,0,0,0,0,1,0,0
+Pitcairn Dist 3,629,Presidential Electors,484,166,59,0,209,39,0,5,0,0,1,0,0,3,2,0
+Pittsburgh Ward 1 Dist 1,3874,Presidential Electors,1407,689,349,36,217,85,12,3,2,0,3,2,1,4,2,0
+Pittsburgh Ward 1 Dist 2,572,Presidential Electors,332,171,100,5,35,12,2,2,1,0,0,1,0,1,0,0
+Pittsburgh Ward 2 Dist 1,2738,Presidential Electors,1602,597,589,29,235,111,11,5,3,0,6,3,0,7,2,0
+Pittsburgh Ward 2 Dist 2,2221,Presidential Electors,1512,513,513,21,295,132,10,1,5,0,1,8,0,4,3,0
+Pittsburgh Ward 3 Dist 1,237,Presidential Electors,148,95,41,2,3,5,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 3 Dist 2,607,Presidential Electors,401,249,121,7,15,3,0,1,3,0,0,0,0,0,0,0
+Pittsburgh Ward 3 Dist 3,358,Presidential Electors,223,130,79,4,2,4,0,1,0,0,1,0,0,0,2,0
+Pittsburgh Ward 3 Dist 4,571,Presidential Electors,300,163,83,9,23,14,0,1,2,0,0,1,0,1,2,0
+Pittsburgh Ward 3 Dist 5,569,Presidential Electors,295,171,81,13,18,8,1,2,0,0,0,0,0,0,1,0
+Pittsburgh Ward 4 Dist 1,217,Presidential Electors,86,49,15,12,3,3,0,2,0,0,0,0,0,1,1,0
+Pittsburgh Ward 4 Dist 2,787,Presidential Electors,424,212,115,11,59,10,6,4,1,1,1,0,0,1,1,0
+Pittsburgh Ward 4 Dist 3,318,Presidential Electors,185,101,51,9,16,4,1,0,0,0,0,0,0,0,1,0
+Pittsburgh Ward 4 Dist 4,230,Presidential Electors,123,85,24,0,8,1,1,3,0,0,1,0,0,0,0,0
+Pittsburgh Ward 4 Dist 5,1179,Presidential Electors,633,385,109,23,99,4,6,5,0,0,1,0,0,1,0,0
+Pittsburgh Ward 4 Dist 6,698,Presidential Electors,324,190,75,3,42,8,1,1,2,0,1,0,0,0,1,0
+Pittsburgh Ward 4 Dist 7,2252,Presidential Electors,1042,601,247,16,110,46,4,8,3,0,2,0,0,1,3,0
+Pittsburgh Ward 4 Dist 8,2646,Presidential Electors,1185,787,158,45,157,16,5,9,1,0,1,0,0,1,1,0
+Pittsburgh Ward 4 Dist 9,997,Presidential Electors,545,262,185,17,48,24,5,1,1,0,0,0,0,1,0,0
+Pittsburgh Ward 4 Dist 10,620,Presidential Electors,306,178,88,0,25,10,1,2,0,0,2,0,0,0,0,0
+Pittsburgh Ward 4 Dist 11,628,Presidential Electors,466,178,205,4,42,28,0,3,1,0,0,0,0,1,3,0
+Pittsburgh Ward 4 Dist 12,717,Presidential Electors,412,191,159,3,37,12,1,1,0,0,3,0,0,2,0,0
+Pittsburgh Ward 4 Dist 13,810,Presidential Electors,463,300,107,8,40,4,0,1,0,0,0,0,0,2,0,0
+Pittsburgh Ward 4 Dist 14,1632,Presidential Electors,849,561,158,7,99,7,1,8,3,0,2,1,0,2,0,0
+Pittsburgh Ward 4 Dist 15,1106,Presidential Electors,597,348,115,12,86,15,4,7,2,0,1,1,0,3,1,0
+Pittsburgh Ward 4 Dist 16,1649,Presidential Electors,875,544,177,19,106,15,2,3,2,0,0,2,0,3,0,0
+Pittsburgh Ward 4 Dist 17,736,Presidential Electors,459,262,108,6,61,9,4,6,0,0,1,0,0,1,0,0
+Pittsburgh Ward 4 Dist 18,805,Presidential Electors,425,238,92,18,53,8,8,2,0,0,2,0,0,3,0,0
+Pittsburgh Ward 4 Dist 19,351,Presidential Electors,174,107,37,2,17,6,1,1,0,0,0,0,0,1,1,0
+Pittsburgh Ward 5 Dist 1,293,Presidential Electors,155,118,25,2,5,1,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 2,364,Presidential Electors,198,135,43,9,4,1,1,0,1,0,2,0,0,0,0,0
+Pittsburgh Ward 5 Dist 3,133,Presidential Electors,98,65,27,2,2,2,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 4,278,Presidential Electors,147,91,41,3,6,0,2,1,1,0,0,0,0,1,0,0
+Pittsburgh Ward 5 Dist 5,176,Presidential Electors,104,70,22,3,4,4,0,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 5 Dist 6,583,Presidential Electors,220,146,40,18,9,1,0,1,2,0,1,0,0,0,0,0
+Pittsburgh Ward 5 Dist 7,372,Presidential Electors,236,157,60,3,4,5,1,3,2,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 8,423,Presidential Electors,287,160,89,3,16,11,2,3,1,0,0,1,0,0,0,0
+Pittsburgh Ward 5 Dist 9,1150,Presidential Electors,641,322,208,13,60,20,3,4,5,0,0,0,0,2,0,0
+Pittsburgh Ward 5 Dist 10,457,Presidential Electors,286,192,57,11,14,2,1,1,1,0,2,0,0,4,0,0
+Pittsburgh Ward 5 Dist 11,624,Presidential Electors,425,265,95,14,38,6,3,1,1,0,0,0,0,1,0,0
+Pittsburgh Ward 5 Dist 12,333,Presidential Electors,193,126,46,6,4,3,0,2,3,0,0,0,0,3,0,0
+Pittsburgh Ward 5 Dist 13,270,Presidential Electors,152,104,31,6,8,0,0,0,0,0,0,1,0,1,0,0
+Pittsburgh Ward 5 Dist 14,233,Presidential Electors,129,78,45,2,2,0,0,0,1,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 15,279,Presidential Electors,153,113,25,3,3,5,0,1,0,1,1,0,0,1,0,0
+Pittsburgh Ward 5 Dist 16,197,Presidential Electors,101,71,16,5,4,0,2,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 17,304,Presidential Electors,188,115,48,7,10,4,0,0,1,0,0,0,0,1,0,1
+Pittsburgh Ward 5 Dist 18,74,Presidential Electors,40,22,13,1,2,0,0,0,1,0,0,1,0,0,0,0
+Pittsburgh Ward 6 Dist 1,1742,Presidential Electors,1309,595,404,12,193,72,3,4,5,0,5,2,0,4,3,1
+Pittsburgh Ward 6 Dist 2,594,Presidential Electors,415,199,128,2,62,14,2,1,2,0,2,0,0,1,0,0
+Pittsburgh Ward 6 Dist 3,764,Presidential Electors,536,295,143,5,72,13,2,3,1,0,2,0,0,0,0,0
+Pittsburgh Ward 6 Dist 4,546,Presidential Electors,414,221,100,0,55,30,0,2,3,0,0,0,0,1,2,0
+Pittsburgh Ward 6 Dist 5,503,Presidential Electors,359,195,93,6,42,15,1,4,0,0,2,0,0,0,0,0
+Pittsburgh Ward 7 Dist 1,904,Presidential Electors,583,323,133,7,83,21,3,4,1,1,1,0,0,3,1,0
+Pittsburgh Ward 7 Dist 2,1143,Presidential Electors,797,345,263,6,121,45,2,3,2,0,1,0,0,3,1,0
+Pittsburgh Ward 7 Dist 3,786,Presidential Electors,468,232,188,4,25,10,0,4,1,0,2,0,0,2,0,0
+Pittsburgh Ward 7 Dist 4,1095,Presidential Electors,653,332,214,12,60,20,2,5,1,0,2,1,0,4,0,0
+Pittsburgh Ward 7 Dist 5,864,Presidential Electors,481,251,147,7,50,13,2,0,5,0,2,0,0,2,1,0
+Pittsburgh Ward 7 Dist 6,773,Presidential Electors,498,262,167,1,43,14,4,3,0,0,1,0,0,2,0,0
+Pittsburgh Ward 7 Dist 7,839,Presidential Electors,501,238,171,10,54,18,4,2,1,0,1,0,0,2,0,0
+Pittsburgh Ward 7 Dist 8,832,Presidential Electors,499,272,140,8,50,16,2,1,1,0,1,0,0,5,1,0
+Pittsburgh Ward 7 Dist 9,837,Presidential Electors,549,289,182,6,47,12,1,2,1,0,1,1,0,2,1,0
+Pittsburgh Ward 7 Dist 10,1121,Presidential Electors,731,349,256,8,78,26,1,2,1,0,1,0,0,4,5,0
+Pittsburgh Ward 7 Dist 11,1259,Presidential Electors,776,386,286,2,71,21,0,3,2,0,2,1,0,0,0,0
+Pittsburgh Ward 7 Dist 12,1230,Presidential Electors,779,332,322,10,74,24,0,5,1,0,0,1,0,5,3,0
+Pittsburgh Ward 7 Dist 13,616,Presidential Electors,344,192,103,3,27,13,0,1,1,0,2,0,0,2,0,0
+Pittsburgh Ward 7 Dist 14,521,Presidential Electors,350,161,103,3,43,18,1,9,3,0,2,0,0,6,0,0
+Pittsburgh Ward 8 Dist 1,380,Presidential Electors,274,134,66,2,54,10,1,1,0,0,2,1,0,2,0,0
+Pittsburgh Ward 8 Dist 2,634,Presidential Electors,483,245,112,6,84,22,1,5,1,0,1,1,0,2,1,0
+Pittsburgh Ward 8 Dist 3,858,Presidential Electors,560,291,141,4,88,17,2,7,2,0,1,0,0,5,0,0
+Pittsburgh Ward 8 Dist 4,831,Presidential Electors,534,245,173,6,81,17,1,2,1,0,0,0,0,4,0,0
+Pittsburgh Ward 8 Dist 5,610,Presidential Electors,457,246,118,4,62,14,2,1,2,0,1,0,0,4,0,0
+Pittsburgh Ward 8 Dist 6,435,Presidential Electors,311,159,89,4,40,6,0,1,1,0,2,2,0,4,0,0
+Pittsburgh Ward 8 Dist 7,817,Presidential Electors,531,314,154,7,32,17,0,1,0,0,0,0,0,1,2,3
+Pittsburgh Ward 8 Dist 8,638,Presidential Electors,454,228,163,2,38,14,0,3,1,0,2,0,0,0,1,1
+Pittsburgh Ward 8 Dist 9,878,Presidential Electors,517,290,154,9,37,9,1,9,1,0,2,0,0,3,1,0
+Pittsburgh Ward 8 Dist 10,694,Presidential Electors,475,274,136,5,40,9,0,2,1,0,1,0,0,3,0,0
+Pittsburgh Ward 8 Dist 11,737,Presidential Electors,454,244,122,8,53,11,3,2,3,0,1,0,0,2,3,0
+Pittsburgh Ward 8 Dist 12,629,Presidential Electors,437,274,104,7,23,11,1,4,1,1,3,0,0,2,4,1
+Pittsburgh Ward 8 Dist 13,540,Presidential Electors,297,181,83,6,16,5,0,2,0,0,0,2,0,1,0,0
+Pittsburgh Ward 9 Dist 1,651,Presidential Electors,452,219,128,9,62,22,0,6,1,0,1,0,0,1,2,0
+Pittsburgh Ward 9 Dist 2,658,Presidential Electors,494,235,138,5,83,22,3,2,0,0,1,2,0,2,0,0
+Pittsburgh Ward 9 Dist 3,699,Presidential Electors,503,237,152,6,78,19,3,1,2,0,0,0,0,3,0,0
+Pittsburgh Ward 9 Dist 4,634,Presidential Electors,451,218,132,4,67,21,1,2,1,0,2,1,0,1,1,0
+Pittsburgh Ward 9 Dist 5,653,Presidential Electors,479,221,141,3,71,27,3,3,2,0,2,0,0,3,0,0
+Pittsburgh Ward 9 Dist 6,565,Presidential Electors,435,215,115,5,69,17,4,4,0,0,0,1,0,2,1,0
+Pittsburgh Ward 9 Dist 7,417,Presidential Electors,315,135,117,5,39,12,0,1,3,0,0,0,0,1,2,0
+Pittsburgh Ward 9 Dist 8,735,Presidential Electors,535,257,136,3,108,15,0,7,2,0,0,1,0,3,0,0
+Pittsburgh Ward 9 Dist 9,602,Presidential Electors,401,195,105,12,50,25,2,4,3,0,0,0,0,1,0,0
+Pittsburgh Ward 10 Dist 1,643,Presidential Electors,475,242,130,7,63,23,1,0,2,0,1,1,0,1,1,1
+Pittsburgh Ward 10 Dist 2,693,Presidential Electors,506,292,121,7,67,10,1,1,1,0,1,0,0,5,0,0
+Pittsburgh Ward 10 Dist 3,697,Presidential Electors,494,292,98,4,75,15,2,2,0,1,2,0,0,2,1,0
+Pittsburgh Ward 10 Dist 4,537,Presidential Electors,461,239,115,7,75,20,1,2,0,0,0,0,0,2,0,0
+Pittsburgh Ward 10 Dist 5,490,Presidential Electors,384,218,86,4,61,5,0,3,0,0,2,1,0,3,1,0
+Pittsburgh Ward 10 Dist 6,493,Presidential Electors,385,166,89,4,99,15,0,5,0,0,2,1,0,1,1,0
+Pittsburgh Ward 10 Dist 7,608,Presidential Electors,494,235,126,5,92,24,0,4,1,0,2,0,0,3,1,0
+Pittsburgh Ward 10 Dist 8,593,Presidential Electors,487,232,130,1,94,23,0,1,0,0,3,0,0,1,0,0
+Pittsburgh Ward 10 Dist 9,538,Presidential Electors,450,224,102,4,92,19,2,2,0,0,3,1,0,1,0,0
+Pittsburgh Ward 10 Dist 10,609,Presidential Electors,521,251,144,5,95,18,1,1,1,0,3,0,0,0,0,0
+Pittsburgh Ward 10 Dist 11,597,Presidential Electors,475,247,127,4,80,8,0,4,2,0,2,0,0,1,0,0
+Pittsburgh Ward 10 Dist 12,487,Presidential Electors,375,213,122,6,14,14,2,2,0,1,0,0,0,0,0,0
+Pittsburgh Ward 10 Dist 13,531,Presidential Electors,415,228,111,10,41,13,0,2,0,0,3,2,1,0,0,0
+Pittsburgh Ward 10 Dist 14,556,Presidential Electors,448,261,132,6,37,6,0,2,0,0,0,0,0,1,0,0
+Pittsburgh Ward 10 Dist 15,355,Presidential Electors,200,104,78,3,9,4,0,0,1,0,0,0,0,1,0,0
+Pittsburgh Ward 10 Dist 16,316,Presidential Electors,195,142,33,5,11,3,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 10 Dist 17,486,Presidential Electors,326,196,83,4,22,14,0,1,1,0,2,0,0,1,2,0
+Pittsburgh Ward 10 Dist 18,528,Presidential Electors,351,185,111,10,24,6,1,7,6,0,0,0,0,0,1,0
+Pittsburgh Ward 10 Dist 19,441,Presidential Electors,302,187,82,5,18,1,2,0,1,0,2,0,0,1,0,0
+Pittsburgh Ward 11 Dist 1,624,Presidential Electors,466,257,145,7,34,11,1,1,2,0,2,1,0,2,0,0
+Pittsburgh Ward 11 Dist 2,524,Presidential Electors,338,194,104,6,20,5,0,3,2,0,0,2,0,1,0,0
+Pittsburgh Ward 11 Dist 3,418,Presidential Electors,281,139,112,12,13,3,1,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 4,536,Presidential Electors,344,196,110,6,14,2,0,8,4,0,0,0,0,0,2,0
+Pittsburgh Ward 11 Dist 5,557,Presidential Electors,364,236,91,4,16,5,0,4,1,0,1,0,0,1,3,0
+Pittsburgh Ward 11 Dist 6,834,Presidential Electors,593,321,194,4,45,14,1,5,1,0,1,0,0,5,0,1
+Pittsburgh Ward 11 Dist 7,679,Presidential Electors,530,263,186,3,46,24,1,2,0,0,1,0,0,1,2,0
+Pittsburgh Ward 11 Dist 8,566,Presidential Electors,413,206,142,1,39,12,0,3,3,0,1,0,0,4,1,0
+Pittsburgh Ward 11 Dist 9,644,Presidential Electors,516,283,180,4,22,22,0,1,2,0,0,1,0,1,0,0
+Pittsburgh Ward 11 Dist 10,595,Presidential Electors,506,257,184,3,45,14,0,0,0,0,2,0,0,0,1,0
+Pittsburgh Ward 11 Dist 11,642,Presidential Electors,472,260,156,3,31,10,3,4,1,0,0,0,0,2,1,0
+Pittsburgh Ward 11 Dist 12,681,Presidential Electors,537,269,185,3,55,15,0,2,1,0,0,0,0,4,1,0
+Pittsburgh Ward 11 Dist 13,682,Presidential Electors,537,303,164,3,41,10,1,7,2,1,2,0,0,0,1,0
+Pittsburgh Ward 11 Dist 14,605,Presidential Electors,397,238,114,9,19,5,0,3,2,0,1,0,0,3,1,0
+Pittsburgh Ward 11 Dist 15,409,Presidential Electors,213,133,59,7,11,3,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 16,606,Presidential Electors,380,201,129,3,33,8,0,0,0,0,2,2,0,1,0,0
+Pittsburgh Ward 11 Dist 17,688,Presidential Electors,464,274,154,10,13,6,0,1,0,0,2,0,0,2,0,0
+Pittsburgh Ward 11 Dist 18,643,Presidential Electors,387,222,115,17,13,11,0,2,2,0,0,0,0,1,0,0
+Pittsburgh Ward 12 Dist 1,245,Presidential Electors,120,56,45,2,9,5,1,0,1,0,0,1,0,0,0,0
+Pittsburgh Ward 12 Dist 2,303,Presidential Electors,153,105,26,1,16,1,2,1,0,0,1,0,0,0,0,0
+Pittsburgh Ward 12 Dist 3,184,Presidential Electors,92,51,27,7,6,1,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 4,318,Presidential Electors,175,112,46,3,10,1,1,0,0,0,0,0,0,1,1,0
+Pittsburgh Ward 12 Dist 5,169,Presidential Electors,92,61,11,7,5,2,3,0,0,0,0,0,0,2,0,0
+Pittsburgh Ward 12 Dist 6,195,Presidential Electors,99,52,33,5,5,3,0,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 12 Dist 7,300,Presidential Electors,153,97,43,1,7,3,1,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 8,190,Presidential Electors,107,77,19,6,4,0,0,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 12 Dist 9,286,Presidential Electors,138,64,56,8,7,1,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 10,400,Presidential Electors,246,165,62,11,4,0,0,1,0,0,2,0,0,1,0,0
+Pittsburgh Ward 12 Dist 11,426,Presidential Electors,239,141,71,10,3,6,2,4,0,0,0,1,0,1,0,0
+Pittsburgh Ward 12 Dist 12,716,Presidential Electors,382,205,119,17,18,13,1,1,1,0,1,0,0,0,2,0
+Pittsburgh Ward 12 Dist 13,358,Presidential Electors,223,139,67,4,12,0,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 12 Dist 14,267,Presidential Electors,159,102,44,4,5,0,0,2,0,0,0,0,0,0,1,0
+Pittsburgh Ward 12 Dist 15,520,Presidential Electors,326,217,90,3,10,1,0,1,0,0,0,0,0,2,0,0
+Pittsburgh Ward 12 Dist 16,279,Presidential Electors,167,92,62,3,7,2,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 1,372,Presidential Electors,223,147,60,7,3,3,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 2,338,Presidential Electors,180,125,39,2,10,1,1,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 13 Dist 3,272,Presidential Electors,152,101,43,4,3,0,0,0,1,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 4,277,Presidential Electors,142,74,53,5,5,0,0,0,0,0,2,0,0,0,0,0
+Pittsburgh Ward 13 Dist 5,297,Presidential Electors,161,88,54,4,12,1,2,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 6,304,Presidential Electors,164,125,28,3,6,0,0,0,0,0,1,0,0,0,0,1
+Pittsburgh Ward 13 Dist 7,333,Presidential Electors,161,103,42,7,4,2,2,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 8,294,Presidential Electors,151,83,63,2,1,0,0,0,0,0,0,0,0,2,0,0
+Pittsburgh Ward 13 Dist 9,267,Presidential Electors,150,100,36,3,7,1,1,1,0,0,0,0,0,1,0,0
+Pittsburgh Ward 13 Dist 10,190,Presidential Electors,104,67,22,2,7,4,0,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 13 Dist 11,380,Presidential Electors,156,109,31,2,6,2,0,1,0,1,0,2,0,0,0,0
+Pittsburgh Ward 13 Dist 12,363,Presidential Electors,200,136,46,2,7,3,0,3,0,0,0,0,0,1,1,0
+Pittsburgh Ward 13 Dist 13,284,Presidential Electors,153,96,40,7,7,0,0,0,0,0,2,0,0,0,0,1
+Pittsburgh Ward 13 Dist 14,227,Presidential Electors,112,70,28,1,7,4,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 15,257,Presidential Electors,138,107,20,2,5,1,0,0,1,0,0,0,0,1,0,0
+Pittsburgh Ward 13 Dist 16,272,Presidential Electors,159,108,37,2,7,3,1,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 17,816,Presidential Electors,372,247,92,6,19,3,0,1,0,0,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 18,277,Presidential Electors,108,86,9,3,8,0,0,1,0,0,0,0,0,0,1,0
+Pittsburgh Ward 13 Dist 19,477,Presidential Electors,336,192,124,7,9,3,1,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 1,968,Presidential Electors,518,267,168,12,49,14,1,4,0,0,0,1,1,0,0,0
+Pittsburgh Ward 14 Dist 2,1598,Presidential Electors,883,575,149,17,102,26,3,3,0,0,2,2,0,3,1,0
+Pittsburgh Ward 14 Dist 3,1057,Presidential Electors,703,365,245,6,68,13,1,1,0,0,1,2,0,1,0,0
+Pittsburgh Ward 14 Dist 4,819,Presidential Electors,589,246,256,3,38,33,6,2,1,0,0,0,0,3,0,0
+Pittsburgh Ward 14 Dist 5,855,Presidential Electors,641,283,237,5,61,37,1,2,2,0,1,0,0,4,4,0
+Pittsburgh Ward 14 Dist 6,614,Presidential Electors,461,258,107,9,58,24,1,2,0,0,1,0,0,0,0,0
+Pittsburgh Ward 14 Dist 7,3338,Presidential Electors,1159,796,144,58,119,16,7,10,1,1,2,0,0,5,0,0
+Pittsburgh Ward 14 Dist 8,955,Presidential Electors,598,305,176,11,71,22,1,3,0,0,3,2,0,0,1,1
+Pittsburgh Ward 14 Dist 9,762,Presidential Electors,644,266,265,7,68,33,0,0,0,0,0,0,0,2,1,0
+Pittsburgh Ward 14 Dist 10,738,Presidential Electors,607,286,235,3,43,25,2,2,2,0,0,0,0,2,4,0
+Pittsburgh Ward 14 Dist 11,813,Presidential Electors,649,327,221,5,59,25,0,3,2,0,1,0,0,4,1,0
+Pittsburgh Ward 14 Dist 12,841,Presidential Electors,521,306,155,6,30,7,1,7,3,0,0,2,0,1,1,0
+Pittsburgh Ward 14 Dist 13,737,Presidential Electors,547,312,191,3,20,8,1,5,2,0,2,0,0,2,0,0
+Pittsburgh Ward 14 Dist 14,856,Presidential Electors,634,280,260,6,50,25,0,4,4,0,0,1,0,2,2,0
+Pittsburgh Ward 14 Dist 15,742,Presidential Electors,572,294,206,5,32,23,1,2,4,0,0,0,0,3,0,0
+Pittsburgh Ward 14 Dist 16,484,Presidential Electors,399,190,133,2,35,25,1,2,0,0,3,0,0,4,0,0
+Pittsburgh Ward 14 Dist 17,481,Presidential Electors,413,220,135,4,36,11,1,1,1,0,0,0,0,2,1,0
+Pittsburgh Ward 14 Dist 18,742,Presidential Electors,612,314,226,3,44,11,1,5,1,0,3,1,0,2,0,0
+Pittsburgh Ward 14 Dist 19,619,Presidential Electors,518,285,175,4,31,11,0,2,3,0,1,1,0,1,4,0
+Pittsburgh Ward 14 Dist 20,626,Presidential Electors,454,206,166,5,41,26,3,2,0,0,1,0,0,0,2,0
+Pittsburgh Ward 14 Dist 21,608,Presidential Electors,494,244,174,4,31,29,3,3,0,1,1,0,0,0,1,0
+Pittsburgh Ward 14 Dist 22,747,Presidential Electors,589,310,214,6,28,18,0,3,1,0,0,0,0,6,1,1
+Pittsburgh Ward 14 Dist 23,740,Presidential Electors,564,217,238,3,56,38,3,0,2,0,0,1,0,2,2,0
+Pittsburgh Ward 14 Dist 24,547,Presidential Electors,423,173,174,3,35,23,2,5,1,0,1,0,0,2,2,0
+Pittsburgh Ward 14 Dist 25,967,Presidential Electors,774,303,299,9,90,61,1,1,2,0,2,0,0,4,0,0
+Pittsburgh Ward 14 Dist 26,611,Presidential Electors,476,189,181,3,58,37,0,1,1,0,0,0,0,2,1,0
+Pittsburgh Ward 14 Dist 27,543,Presidential Electors,471,243,117,2,77,21,1,3,0,0,0,0,0,4,1,0
+Pittsburgh Ward 14 Dist 28,574,Presidential Electors,475,218,106,4,104,34,3,0,0,0,0,0,0,4,2,0
+Pittsburgh Ward 14 Dist 29,809,Presidential Electors,607,269,205,3,71,36,2,7,3,0,3,1,0,3,2,0
+Pittsburgh Ward 14 Dist 30,660,Presidential Electors,538,248,184,3,59,26,2,4,4,0,2,0,0,3,2,0
+Pittsburgh Ward 14 Dist 31,1224,Presidential Electors,991,394,369,6,123,73,3,6,7,0,1,3,0,1,4,0
+Pittsburgh Ward 14 Dist 32,815,Presidential Electors,544,266,178,10,53,21,1,5,1,0,4,1,0,1,1,0
+Pittsburgh Ward 14 Dist 33,893,Presidential Electors,612,216,196,6,94,75,7,5,0,0,3,0,0,5,1,1
+Pittsburgh Ward 14 Dist 34,949,Presidential Electors,617,233,172,6,82,101,4,4,2,0,2,0,0,2,1,2
+Pittsburgh Ward 14 Dist 35,662,Presidential Electors,471,179,204,8,45,28,0,1,1,0,2,2,0,0,0,0
+Pittsburgh Ward 14 Dist 36,817,Presidential Electors,551,213,239,6,42,29,1,6,1,1,2,2,1,5,0,0
+Pittsburgh Ward 14 Dist 37,689,Presidential Electors,471,154,191,5,63,47,7,1,1,0,0,1,0,0,0,0
+Pittsburgh Ward 14 Dist 38,621,Presidential Electors,430,186,175,4,32,24,1,1,2,0,2,0,0,2,1,0
+Pittsburgh Ward 14 Dist 39,662,Presidential Electors,469,195,173,4,37,37,9,2,1,0,2,3,0,0,5,0
+Pittsburgh Ward 14 Dist 40,658,Presidential Electors,413,205,131,4,40,24,4,1,1,0,1,0,0,1,0,0
+Pittsburgh Ward 14 Dist 41,74,Presidential Electors,57,23,14,3,14,1,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 15 Dist 1,603,Presidential Electors,434,137,180,9,58,34,5,5,0,0,0,0,0,0,2,0
+Pittsburgh Ward 15 Dist 2,733,Presidential Electors,520,247,141,6,82,24,4,3,0,0,4,1,0,5,2,0
+Pittsburgh Ward 15 Dist 3,640,Presidential Electors,478,201,141,5,83,29,2,2,2,0,6,3,0,1,0,0
+Pittsburgh Ward 15 Dist 4,643,Presidential Electors,475,217,147,3,63,28,4,2,3,0,1,2,1,2,0,0
+Pittsburgh Ward 15 Dist 5,533,Presidential Electors,397,188,99,4,72,27,3,1,0,2,0,0,0,1,0,0
+Pittsburgh Ward 15 Dist 6,530,Presidential Electors,433,219,98,6,75,24,3,5,0,0,0,1,0,0,0,0
+Pittsburgh Ward 15 Dist 7,681,Presidential Electors,530,243,129,1,119,29,0,3,0,0,1,1,0,2,0,0
+Pittsburgh Ward 15 Dist 8,617,Presidential Electors,489,218,120,3,95,36,4,3,4,0,2,1,0,2,1,0
+Pittsburgh Ward 15 Dist 9,165,Presidential Electors,120,67,19,0,18,8,2,4,1,0,0,0,0,1,0,0
+Pittsburgh Ward 15 Dist 10,606,Presidential Electors,480,202,140,2,101,19,2,8,2,0,1,0,0,1,1,0
+Pittsburgh Ward 15 Dist 11,532,Presidential Electors,430,159,96,4,129,33,3,3,0,0,0,0,0,3,0,0
+Pittsburgh Ward 15 Dist 12,468,Presidential Electors,371,142,123,1,63,35,0,2,1,1,1,0,0,1,0,0
+Pittsburgh Ward 15 Dist 13,464,Presidential Electors,258,146,67,6,25,7,2,2,0,0,0,0,0,1,0,0
+Pittsburgh Ward 15 Dist 14,286,Presidential Electors,151,75,43,4,19,6,2,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 15 Dist 15,329,Presidential Electors,181,89,23,3,45,12,5,0,1,0,0,1,0,2,0,0
+Pittsburgh Ward 15 Dist 16,493,Presidential Electors,308,162,76,5,44,13,1,0,1,0,2,1,0,0,2,0
+Pittsburgh Ward 15 Dist 17,21,Presidential Electors,13,5,4,0,2,1,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 15 Dist 18,546,Presidential Electors,311,153,72,11,44,19,1,7,0,1,0,1,0,0,0,0
+Pittsburgh Ward 15 Dist 19,475,Presidential Electors,243,120,76,9,5,23,1,1,1,0,2,2,0,0,0,0
+Pittsburgh Ward 16 Dist 1,1049,Presidential Electors,634,303,203,9,76,30,6,2,1,0,2,0,0,0,0,0
+Pittsburgh Ward 16 Dist 2,1342,Presidential Electors,879,422,248,26,110,49,6,3,5,0,2,0,0,4,1,0
+Pittsburgh Ward 16 Dist 3,1161,Presidential Electors,781,355,186,6,151,57,6,6,2,1,4,2,0,4,0,0
+Pittsburgh Ward 16 Dist 4,435,Presidential Electors,283,130,60,5,69,12,1,0,1,0,2,0,0,1,1,1
+Pittsburgh Ward 16 Dist 5,678,Presidential Electors,462,185,131,12,94,29,1,1,4,0,1,1,0,1,1,0
+Pittsburgh Ward 16 Dist 6,504,Presidential Electors,348,163,65,12,80,24,3,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 16 Dist 7,452,Presidential Electors,266,113,67,5,64,10,0,2,1,0,0,0,0,0,0,0
+Pittsburgh Ward 16 Dist 8,187,Presidential Electors,63,43,5,6,6,1,1,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 16 Dist 9,470,Presidential Electors,294,150,52,1,61,20,2,2,1,0,0,0,0,2,1,0
+Pittsburgh Ward 16 Dist 10,354,Presidential Electors,243,90,51,1,76,19,1,4,0,0,0,0,0,0,0,0
+Pittsburgh Ward 16 Dist 11,405,Presidential Electors,254,128,56,4,54,10,1,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 17 Dist 1,446,Presidential Electors,247,95,61,10,53,15,5,1,1,0,0,1,0,2,1,0
+Pittsburgh Ward 17 Dist 2,881,Presidential Electors,551,288,129,17,82,19,2,4,1,0,1,1,0,6,0,0
+Pittsburgh Ward 17 Dist 3,654,Presidential Electors,439,214,111,7,69,21,7,1,2,0,2,1,0,1,1,0
+Pittsburgh Ward 17 Dist 4,851,Presidential Electors,570,248,164,5,104,37,2,0,3,0,1,2,0,2,1,0
+Pittsburgh Ward 17 Dist 5,656,Presidential Electors,422,213,109,2,70,16,3,0,0,1,4,0,0,2,1,0
+Pittsburgh Ward 17 Dist 6,467,Presidential Electors,265,110,55,6,69,16,3,3,0,0,1,0,0,1,1,0
+Pittsburgh Ward 17 Dist 7,397,Presidential Electors,263,113,65,8,58,15,1,1,0,0,2,0,0,0,0,0
+Pittsburgh Ward 17 Dist 8,471,Presidential Electors,319,147,90,11,44,14,3,2,1,0,2,1,0,2,0,0
+Pittsburgh Ward 18 Dist 1,546,Presidential Electors,445,160,89,3,154,30,3,2,2,0,0,1,0,0,1,0
+Pittsburgh Ward 18 Dist 2,364,Presidential Electors,205,130,55,6,7,3,0,0,0,0,0,1,0,0,0,0
+Pittsburgh Ward 18 Dist 3,342,Presidential Electors,204,139,50,3,8,0,1,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 18 Dist 4,430,Presidential Electors,258,158,56,12,23,2,2,2,1,0,0,0,0,1,0,0
+Pittsburgh Ward 18 Dist 5,936,Presidential Electors,678,261,186,10,150,57,3,2,0,1,1,1,0,2,2,0
+Pittsburgh Ward 18 Dist 6,371,Presidential Electors,217,135,38,8,25,7,0,0,1,0,0,0,0,1,0,0
+Pittsburgh Ward 18 Dist 7,446,Presidential Electors,302,138,66,5,68,16,0,1,2,0,2,0,0,3,0,0
+Pittsburgh Ward 18 Dist 8,289,Presidential Electors,144,91,30,5,11,5,1,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 18 Dist 9,704,Presidential Electors,423,214,91,8,83,16,1,3,0,0,3,1,0,1,0,0
+Pittsburgh Ward 18 Dist 10,66,Presidential Electors,42,10,19,0,10,2,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 18 Dist 11,533,Presidential Electors,290,134,68,8,55,15,3,0,0,0,5,0,0,1,1,0
+Pittsburgh Ward 19 Dist 1,541,Presidential Electors,445,133,129,3,133,32,5,1,1,0,3,1,0,2,0,0
+Pittsburgh Ward 19 Dist 2,730,Presidential Electors,553,190,144,6,157,48,4,2,0,0,1,0,0,0,0,0
+Pittsburgh Ward 19 Dist 3,515,Presidential Electors,402,160,85,6,97,36,2,2,2,0,3,1,0,2,3,0
+Pittsburgh Ward 19 Dist 4,405,Presidential Electors,331,122,105,1,74,22,0,2,0,0,2,0,0,1,0,0
+Pittsburgh Ward 19 Dist 5,416,Presidential Electors,320,129,58,5,106,17,0,2,1,0,1,0,0,1,0,0
+Pittsburgh Ward 19 Dist 6,517,Presidential Electors,360,144,85,7,94,25,1,1,1,0,0,2,0,0,0,0
+Pittsburgh Ward 19 Dist 7,193,Presidential Electors,138,68,27,1,34,5,0,1,0,1,0,0,0,1,0,0
+Pittsburgh Ward 19 Dist 8,610,Presidential Electors,421,208,93,4,101,10,1,0,1,0,2,0,0,0,1,0
+Pittsburgh Ward 19 Dist 9,532,Presidential Electors,351,161,76,5,91,11,2,1,0,0,1,0,1,1,1,0
+Pittsburgh Ward 19 Dist 10,685,Presidential Electors,464,186,105,11,116,33,7,4,0,0,0,1,0,1,0,0
+Pittsburgh Ward 19 Dist 11,449,Presidential Electors,311,114,72,2,92,18,3,1,0,0,6,0,0,0,0,0
+Pittsburgh Ward 19 Dist 12,415,Presidential Electors,343,101,93,2,115,27,0,3,0,0,1,0,0,0,0,0
+Pittsburgh Ward 19 Dist 13,459,Presidential Electors,304,148,48,4,85,9,2,2,0,0,1,1,0,2,0,0
+Pittsburgh Ward 19 Dist 14,557,Presidential Electors,378,142,113,4,82,28,3,2,0,0,1,1,0,1,1,0
+Pittsburgh Ward 19 Dist 15,613,Presidential Electors,438,199,107,1,101,20,2,3,4,0,0,0,0,1,0,0
+Pittsburgh Ward 19 Dist 16,570,Presidential Electors,414,201,108,7,70,18,1,2,1,0,2,1,0,2,1,0
+Pittsburgh Ward 19 Dist 17,542,Presidential Electors,417,195,102,8,89,18,1,1,0,0,0,1,1,1,0,0
+Pittsburgh Ward 19 Dist 18,452,Presidential Electors,336,194,61,5,49,16,1,5,1,0,3,0,0,0,1,0
+Pittsburgh Ward 19 Dist 19,502,Presidential Electors,366,158,86,5,96,13,1,3,0,0,1,0,0,1,1,0
+Pittsburgh Ward 19 Dist 20,523,Presidential Electors,394,141,86,4,119,32,1,3,1,1,0,0,0,5,0,0
+Pittsburgh Ward 19 Dist 21,642,Presidential Electors,480,208,115,7,108,33,0,1,1,0,4,0,0,2,1,0
+Pittsburgh Ward 19 Dist 22,556,Presidential Electors,425,177,105,8,95,30,4,1,1,0,1,0,0,0,0,0
+Pittsburgh Ward 19 Dist 23,613,Presidential Electors,452,162,112,3,138,27,0,1,1,0,5,0,0,3,0,0
+Pittsburgh Ward 19 Dist 24,504,Presidential Electors,388,176,84,0,108,14,0,2,0,0,3,0,0,0,0,0
+Pittsburgh Ward 19 Dist 25,536,Presidential Electors,415,177,100,3,95,28,3,1,2,0,2,1,0,0,0,0
+Pittsburgh Ward 19 Dist 26,460,Presidential Electors,357,155,92,1,83,15,4,2,0,0,1,1,0,1,0,0
+Pittsburgh Ward 19 Dist 27,455,Presidential Electors,345,123,80,6,100,27,3,1,0,0,2,0,0,2,1,0
+Pittsburgh Ward 19 Dist 28,626,Presidential Electors,530,224,160,1,106,27,2,1,1,0,2,1,0,2,0,0
+Pittsburgh Ward 19 Dist 29,492,Presidential Electors,399,169,77,3,119,23,2,2,0,0,2,0,0,2,0,0
+Pittsburgh Ward 19 Dist 30,537,Presidential Electors,445,158,129,3,122,29,1,1,1,0,0,0,0,0,1,0
+Pittsburgh Ward 19 Dist 31,491,Presidential Electors,412,165,75,3,141,25,0,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 32,533,Presidential Electors,434,214,83,4,96,28,2,3,0,0,1,0,0,3,0,0
+Pittsburgh Ward 19 Dist 33,456,Presidential Electors,376,136,74,2,121,34,1,3,0,0,2,0,0,1,1,0
+Pittsburgh Ward 19 Dist 34,533,Presidential Electors,416,160,114,5,97,31,2,1,0,0,3,0,0,1,1,0
+Pittsburgh Ward 19 Dist 35,506,Presidential Electors,389,142,101,3,119,15,2,0,1,0,1,0,1,2,0,0
+Pittsburgh Ward 19 Dist 36,702,Presidential Electors,569,196,134,11,165,51,4,2,1,0,0,1,0,1,0,0
+Pittsburgh Ward 19 Dist 37,444,Presidential Electors,353,121,87,2,121,11,3,2,0,0,2,1,0,2,0,0
+Pittsburgh Ward 19 Dist 38,586,Presidential Electors,427,168,102,1,122,19,3,2,5,0,0,0,0,3,1,0
+Pittsburgh Ward 20 Dist 1,601,Presidential Electors,476,139,97,5,186,38,5,1,0,0,3,0,0,0,0,0
+Pittsburgh Ward 20 Dist 2,219,Presidential Electors,160,57,31,0,59,10,0,1,0,0,1,0,0,0,0,0
+Pittsburgh Ward 20 Dist 3,664,Presidential Electors,510,164,126,4,171,35,0,1,1,0,5,1,0,1,0,0
+Pittsburgh Ward 20 Dist 4,83,Presidential Electors,50,16,16,1,12,5,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 20 Dist 5,544,Presidential Electors,382,159,88,7,93,26,2,3,3,0,0,0,0,0,0,0
+Pittsburgh Ward 20 Dist 6,527,Presidential Electors,316,137,70,9,60,28,3,3,2,0,0,0,0,3,0,0
+Pittsburgh Ward 20 Dist 7,632,Presidential Electors,375,223,65,7,62,14,1,0,0,0,1,1,0,0,1,0
+Pittsburgh Ward 20 Dist 8,738,Presidential Electors,491,218,97,28,103,26,2,5,4,1,1,1,0,1,0,0
+Pittsburgh Ward 20 Dist 9,209,Presidential Electors,119,45,29,5,36,4,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 20 Dist 10,615,Presidential Electors,353,191,72,9,63,9,2,0,1,1,4,0,0,0,0,0
+Pittsburgh Ward 20 Dist 11,661,Presidential Electors,364,217,67,8,55,8,3,0,1,1,2,0,0,0,0,0
+Pittsburgh Ward 20 Dist 12,911,Presidential Electors,582,276,145,7,109,35,0,3,1,0,1,0,0,2,0,0
+Pittsburgh Ward 20 Dist 13,404,Presidential Electors,291,161,81,3,39,5,0,0,0,0,0,1,0,1,0,0
+Pittsburgh Ward 20 Dist 14,849,Presidential Electors,590,299,101,6,142,32,3,2,0,0,2,0,0,2,0,0
+Pittsburgh Ward 20 Dist 15,867,Presidential Electors,561,230,127,11,136,42,4,6,0,0,2,1,0,1,0,0
+Pittsburgh Ward 20 Dist 16,600,Presidential Electors,501,130,123,2,176,57,4,2,1,0,2,0,0,1,1,0
+Pittsburgh Ward 20 Dist 17,418,Presidential Electors,352,104,79,0,127,39,2,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 20 Dist 18,490,Presidential Electors,415,128,75,2,153,50,3,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 21 Dist 1,520,Presidential Electors,289,168,73,5,27,11,0,0,2,0,1,0,0,1,0,0
+Pittsburgh Ward 21 Dist 2,472,Presidential Electors,335,214,81,9,25,2,0,1,0,0,2,0,0,1,0,0
+Pittsburgh Ward 21 Dist 3,608,Presidential Electors,402,246,114,10,20,8,0,1,0,0,1,1,0,1,0,0
+Pittsburgh Ward 21 Dist 4,579,Presidential Electors,391,229,107,5,30,11,0,1,3,0,1,2,1,0,1,0
+Pittsburgh Ward 22 Dist 1,790,Presidential Electors,583,303,167,3,69,28,0,2,0,0,1,2,0,4,2,0
+Pittsburgh Ward 22 Dist 2,671,Presidential Electors,487,251,167,3,31,23,1,5,1,0,3,0,0,1,1,0
+Pittsburgh Ward 22 Dist 3,751,Presidential Electors,511,248,172,13,49,18,1,3,0,0,0,3,0,0,2,0
+Pittsburgh Ward 22 Dist 4,1007,Presidential Electors,502,260,136,13,67,17,3,3,1,0,2,0,0,0,0,0
+Pittsburgh Ward 23 Dist 1,1363,Presidential Electors,792,351,235,22,130,36,4,1,4,0,1,2,0,4,1,0
+Pittsburgh Ward 23 Dist 2,792,Presidential Electors,525,242,170,10,62,27,2,3,0,0,1,1,0,2,4,0
+Pittsburgh Ward 23 Dist 3,351,Presidential Electors,213,109,48,0,42,12,0,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 24 Dist 1,377,Presidential Electors,262,82,85,3,62,25,0,1,2,0,1,0,0,1,0,0
+Pittsburgh Ward 24 Dist 2,418,Presidential Electors,301,105,71,2,83,31,3,1,1,0,1,1,0,2,0,0
+Pittsburgh Ward 24 Dist 3,320,Presidential Electors,216,100,43,5,53,9,2,3,0,0,0,0,0,0,0,0
+Pittsburgh Ward 24 Dist 4,569,Presidential Electors,442,192,119,6,84,32,2,1,1,0,2,0,1,2,0,0
+Pittsburgh Ward 24 Dist 5,491,Presidential Electors,328,133,86,10,76,14,1,3,3,0,0,0,0,0,1,0
+Pittsburgh Ward 24 Dist 6,553,Presidential Electors,383,174,90,4,83,22,1,2,0,0,2,0,0,2,0,0
+Pittsburgh Ward 25 Dist 1,430,Presidential Electors,292,159,102,6,13,4,0,2,0,0,0,1,0,1,0,0
+Pittsburgh Ward 25 Dist 2,456,Presidential Electors,305,171,87,4,26,9,1,2,1,0,3,0,0,0,0,0
+Pittsburgh Ward 25 Dist 3,610,Presidential Electors,396,246,93,12,29,9,1,0,3,0,0,0,0,1,0,0
+Pittsburgh Ward 25 Dist 4,301,Presidential Electors,177,109,38,6,16,4,0,1,0,0,0,0,0,2,0,0
+Pittsburgh Ward 25 Dist 5,356,Presidential Electors,224,141,54,5,16,3,1,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 25 Dist 6,348,Presidential Electors,170,96,45,4,15,2,0,0,0,0,1,1,1,3,0,0
+Pittsburgh Ward 25 Dist 7,408,Presidential Electors,298,116,77,3,67,29,0,1,2,0,0,0,0,1,1,0
+Pittsburgh Ward 26 Dist 1,508,Presidential Electors,313,169,89,11,29,9,0,2,1,0,0,0,0,1,0,0
+Pittsburgh Ward 26 Dist 2,411,Presidential Electors,261,138,89,7,14,9,2,0,0,1,1,0,0,0,0,0
+Pittsburgh Ward 26 Dist 3,454,Presidential Electors,285,161,75,12,28,4,1,0,0,0,0,0,1,2,0,0
+Pittsburgh Ward 26 Dist 4,376,Presidential Electors,237,148,47,1,25,9,3,2,0,0,0,0,0,1,1,0
+Pittsburgh Ward 26 Dist 5,512,Presidential Electors,216,154,22,9,17,6,3,2,0,1,1,0,0,0,0,0
+Pittsburgh Ward 26 Dist 6,389,Presidential Electors,167,124,23,6,7,4,3,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 26 Dist 7,275,Presidential Electors,169,93,46,3,18,5,0,0,0,1,0,0,0,0,0,0
+Pittsburgh Ward 26 Dist 8,635,Presidential Electors,237,119,47,5,49,10,3,1,2,0,0,0,0,0,0,0
+Pittsburgh Ward 26 Dist 9,361,Presidential Electors,283,131,56,4,66,20,3,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 26 Dist 10,626,Presidential Electors,437,221,148,4,48,9,1,1,3,0,0,0,0,1,0,0
+Pittsburgh Ward 26 Dist 11,705,Presidential Electors,504,282,121,11,60,23,0,2,1,0,1,0,0,0,0,0
+Pittsburgh Ward 26 Dist 12,476,Presidential Electors,316,146,77,4,67,11,3,3,0,0,1,0,0,1,1,0
+Pittsburgh Ward 26 Dist 13,562,Presidential Electors,398,181,80,3,111,13,3,1,1,0,2,0,1,0,0,0
+Pittsburgh Ward 26 Dist 14,566,Presidential Electors,458,155,79,6,180,32,1,0,1,0,1,0,0,2,1,0
+Pittsburgh Ward 26 Dist 15,510,Presidential Electors,402,151,97,3,107,35,2,2,2,0,1,1,0,0,1,0
+Pittsburgh Ward 26 Dist 16,709,Presidential Electors,518,283,120,4,70,28,4,1,2,0,0,0,0,4,0,0
+Pittsburgh Ward 26 Dist 17,197,Presidential Electors,122,37,13,2,57,7,1,1,3,0,0,0,0,0,0,0
+Pittsburgh Ward 27 Dist 1,796,Presidential Electors,646,252,165,8,147,65,2,0,2,0,1,1,0,1,2,0
+Pittsburgh Ward 27 Dist 2,670,Presidential Electors,551,206,142,2,136,55,1,2,0,0,2,1,0,1,3,0
+Pittsburgh Ward 27 Dist 3,576,Presidential Electors,443,206,108,0,96,24,2,1,0,0,2,2,0,0,1,0
+Pittsburgh Ward 27 Dist 4,804,Presidential Electors,593,279,134,9,118,36,3,1,1,0,0,2,0,4,2,1
+Pittsburgh Ward 27 Dist 5,706,Presidential Electors,551,230,160,5,108,27,2,1,2,0,1,0,0,7,5,0
+Pittsburgh Ward 27 Dist 6,761,Presidential Electors,498,238,118,7,89,28,6,2,1,1,1,0,0,2,1,0
+Pittsburgh Ward 27 Dist 7,605,Presidential Electors,466,245,99,4,97,13,0,2,1,0,2,0,0,0,2,0
+Pittsburgh Ward 27 Dist 8,574,Presidential Electors,408,197,87,3,101,13,1,2,0,0,1,1,0,0,1,0
+Pittsburgh Ward 27 Dist 9,577,Presidential Electors,356,174,65,6,82,19,4,2,2,0,1,0,0,0,1,0
+Pittsburgh Ward 27 Dist 10,633,Presidential Electors,415,235,85,6,60,20,3,2,0,0,2,0,0,1,1,0
+Pittsburgh Ward 27 Dist 11,648,Presidential Electors,408,225,76,8,74,15,4,2,0,0,2,0,1,1,0,0
+Pittsburgh Ward 27 Dist 12,569,Presidential Electors,347,183,66,5,73,15,2,2,0,0,0,0,0,1,0,0
+Pittsburgh Ward 27 Dist 13,514,Presidential Electors,350,175,78,11,58,17,2,1,3,0,0,1,0,4,0,0
+Pittsburgh Ward 28 Dist 1,629,Presidential Electors,499,178,82,9,160,50,4,9,0,0,0,1,0,4,1,0
+Pittsburgh Ward 28 Dist 2,516,Presidential Electors,353,144,70,10,90,25,7,1,1,0,1,0,0,0,1,0
+Pittsburgh Ward 28 Dist 3,918,Presidential Electors,746,266,150,4,233,69,5,5,0,0,3,0,0,4,2,0
+Pittsburgh Ward 28 Dist 4,644,Presidential Electors,511,163,113,9,184,30,6,0,0,0,1,1,0,3,0,0
+Pittsburgh Ward 28 Dist 5,664,Presidential Electors,483,229,88,5,144,13,1,1,0,0,1,0,0,1,0,0
+Pittsburgh Ward 28 Dist 6,556,Presidential Electors,443,147,119,12,117,41,3,2,0,0,0,0,0,1,0,0
+Pittsburgh Ward 28 Dist 7,621,Presidential Electors,341,167,75,7,73,14,1,3,0,0,0,0,0,0,0,0
+Pittsburgh Ward 28 Dist 8,899,Presidential Electors,719,297,150,5,221,35,3,1,1,0,0,0,0,1,2,0
+Pittsburgh Ward 28 Dist 9,608,Presidential Electors,443,218,115,9,76,21,0,1,0,0,0,0,0,1,0,0
+Pittsburgh Ward 28 Dist 10,577,Presidential Electors,313,178,79,3,36,11,1,2,1,0,0,1,0,0,0,0
+Pittsburgh Ward 28 Dist 11,130,Presidential Electors,89,58,20,0,9,1,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 29 Dist 1,620,Presidential Electors,399,140,54,2,156,41,5,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 29 Dist 2,536,Presidential Electors,389,164,74,4,108,31,4,0,0,0,1,0,0,2,0,0
+Pittsburgh Ward 29 Dist 3,490,Presidential Electors,333,106,82,3,108,26,3,1,0,0,2,0,0,0,1,0
+Pittsburgh Ward 29 Dist 4,518,Presidential Electors,334,121,57,2,116,27,5,4,0,1,0,0,0,1,0,0
+Pittsburgh Ward 29 Dist 5,539,Presidential Electors,348,137,70,3,110,20,2,1,0,0,2,0,0,1,0,0
+Pittsburgh Ward 29 Dist 6,641,Presidential Electors,435,164,77,6,155,25,4,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 29 Dist 7,666,Presidential Electors,475,158,128,8,129,39,3,1,1,0,0,2,0,2,2,0
+Pittsburgh Ward 29 Dist 8,581,Presidential Electors,345,135,70,4,100,26,3,2,0,0,2,0,0,1,0,0
+Pittsburgh Ward 29 Dist 9,455,Presidential Electors,266,125,39,1,77,19,0,4,1,0,0,0,0,0,0,0
+Pittsburgh Ward 29 Dist 10,524,Presidential Electors,390,170,65,1,125,22,3,1,0,0,0,2,0,1,0,0
+Pittsburgh Ward 29 Dist 11,657,Presidential Electors,488,226,70,7,149,26,2,2,0,0,1,0,0,1,0,0
+Pittsburgh Ward 29 Dist 12,603,Presidential Electors,385,154,65,3,134,21,1,1,0,0,2,1,0,3,0,0
+Pittsburgh Ward 30 Dist 1,409,Presidential Electors,208,125,43,3,25,8,2,0,0,0,2,0,0,0,0,0
+Pittsburgh Ward 30 Dist 2,375,Presidential Electors,236,156,45,3,24,6,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 30 Dist 3,354,Presidential Electors,142,82,27,2,23,7,0,0,0,0,0,1,0,0,0,0
+Pittsburgh Ward 30 Dist 4,633,Presidential Electors,327,163,75,10,50,20,3,2,0,0,2,0,0,1,0,0
+Pittsburgh Ward 30 Dist 5,653,Presidential Electors,372,206,66,10,74,8,2,1,0,0,1,0,0,1,1,0
+Pittsburgh Ward 31 Dist 1,236,Presidential Electors,138,52,13,2,60,10,0,0,0,0,0,0,0,0,1,0
+Pittsburgh Ward 31 Dist 2,455,Presidential Electors,400,95,71,1,179,52,1,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 31 Dist 3,528,Presidential Electors,445,124,88,7,174,31,14,1,2,0,3,0,0,1,0,0
+Pittsburgh Ward 31 Dist 4,588,Presidential Electors,460,147,76,2,199,27,2,2,0,0,2,1,0,0,1,0
+Pittsburgh Ward 31 Dist 5,701,Presidential Electors,590,148,140,0,228,59,4,2,1,0,1,0,0,4,1,0
+Pittsburgh Ward 31 Dist 6,554,Presidential Electors,453,100,77,0,215,49,3,2,0,0,1,0,0,0,4,0
+Pittsburgh Ward 31 Dist 7,142,Presidential Electors,107,54,24,1,25,1,0,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 32 Dist 1,494,Presidential Electors,388,90,77,4,173,35,3,1,0,0,0,0,0,4,0,0
+Pittsburgh Ward 32 Dist 2,637,Presidential Electors,454,150,75,5,178,34,3,1,1,0,3,1,0,0,0,0
+Pittsburgh Ward 32 Dist 3,527,Presidential Electors,409,150,86,5,135,21,4,1,0,0,1,2,0,0,0,0
+Pittsburgh Ward 32 Dist 4,335,Presidential Electors,254,104,61,1,64,20,0,0,2,0,0,1,0,1,0,0
+Pittsburgh Ward 32 Dist 5,552,Presidential Electors,455,173,103,2,128,35,4,1,2,1,1,0,0,3,0,0
+Pittsburgh Ward 32 Dist 6,600,Presidential Electors,471,125,78,1,206,54,1,1,0,0,3,0,0,1,0,0
+Pittsburgh Ward 32 Dist 7,561,Presidential Electors,440,165,108,2,135,19,2,2,0,0,2,0,0,3,2,0
+Pittsburgh Ward 32 Dist 8,663,Presidential Electors,543,181,107,4,197,49,4,0,0,0,1,0,0,0,0,0
+Pleasant Hl Dist 1,740,Presidential Electors,579,191,109,5,210,43,7,3,1,1,3,3,0,0,1,0
+Pleasant Hl Dist 2,578,Presidential Electors,478,165,74,2,178,42,3,2,0,0,0,0,0,9,0,0
+Pleasant Hl Dist 3,566,Presidential Electors,498,145,99,4,188,48,4,4,1,0,0,2,0,1,2,0
+Pleasant Hl Dist 4,545,Presidential Electors,456,143,78,2,182,45,2,0,0,0,1,0,0,2,0,0
+Pleasant Hl Dist 5,691,Presidential Electors,534,125,138,2,190,70,4,2,0,0,0,0,0,0,0,0
+Pleasant Hl Dist 6,1051,Presidential Electors,899,247,155,5,379,86,8,3,0,0,8,0,0,3,0,0
+Pleasant Hl Dist 7,560,Presidential Electors,463,161,87,2,155,42,2,2,0,0,2,1,0,7,0,0
+Pleasant Hl Dist 8,541,Presidential Electors,474,119,80,0,203,60,3,0,0,0,4,0,0,2,0,0
+Pleasant Hl Dist 9,645,Presidential Electors,562,155,116,1,227,52,5,1,0,0,1,0,0,1,0,0
+Pleasant Hl Dist 10,522,Presidential Electors,454,100,82,3,203,52,4,1,3,0,4,0,0,0,0,0
+Plum Dist 1,1824,Presidential Electors,1552,361,354,9,602,196,6,5,0,0,5,3,0,4,2,0
+Plum Dist 2,641,Presidential Electors,532,124,74,4,267,53,4,1,0,0,1,1,0,2,0,0
+Plum Dist 3,1080,Presidential Electors,879,218,266,7,283,95,2,2,1,1,1,0,0,1,1,0
+Plum Dist 4,870,Presidential Electors,721,180,116,2,328,77,3,1,0,0,5,2,0,5,0,0
+Plum Dist 5,926,Presidential Electors,772,183,170,0,340,71,2,0,2,0,2,1,0,0,0,0
+Plum Dist 6,1294,Presidential Electors,1123,282,173,8,543,101,3,3,0,0,3,0,0,3,2,0
+Plum Dist 7,1266,Presidential Electors,1064,272,188,9,454,119,7,4,2,0,5,0,0,4,0,0
+Plum Dist 8,633,Presidential Electors,545,122,106,3,250,54,0,1,1,0,0,3,0,2,2,0
+Plum Dist 9,1144,Presidential Electors,1008,232,233,2,408,117,5,1,0,0,4,1,0,1,1,0
+Plum Dist 10,598,Presidential Electors,502,126,82,3,225,52,6,1,2,0,4,0,0,1,0,0
+Plum Dist 11,821,Presidential Electors,706,204,136,3,304,51,0,1,0,0,0,1,0,2,1,0
+Plum Dist 12,1180,Presidential Electors,1025,271,219,10,402,110,5,1,0,0,0,1,0,3,0,0
+Plum Dist 13,582,Presidential Electors,494,130,90,2,219,46,3,0,1,0,0,1,0,0,0,0
+Plum Dist 14,773,Presidential Electors,615,164,113,4,256,68,1,6,0,0,1,0,0,1,1,0
+Plum Dist 15,840,Presidential Electors,638,208,118,6,232,56,2,5,2,0,3,0,0,3,0,1
+Plum Dist 16,612,Presidential Electors,515,134,100,0,217,60,1,0,0,0,2,0,0,0,1,0
+Plum Dist 17,701,Presidential Electors,579,170,107,5,249,33,6,1,0,1,0,0,0,6,1,0
+Plum Dist 18,849,Presidential Electors,746,189,139,2,327,76,2,2,3,0,1,1,0,2,0,0
+Plum Dist 19,2159,Presidential Electors,1860,412,338,7,811,251,8,8,1,0,5,2,0,5,1,0
+Plum Dist 20,1018,Presidential Electors,808,199,138,0,366,87,3,2,0,0,4,2,0,3,1,0
+Plum Dist 21,446,Presidential Electors,375,53,56,0,199,59,3,0,0,0,3,0,0,2,0,0
+Port Vue Dist 1,608,Presidential Electors,459,127,60,4,230,31,2,2,1,0,0,0,1,1,0,0
+Port Vue Dist 2,509,Presidential Electors,397,112,45,2,207,28,2,1,0,0,0,0,0,0,0,0
+Port Vue Dist 3,524,Presidential Electors,449,118,57,3,223,35,7,1,0,0,1,0,0,3,1,0
+Port Vue Dist 4,710,Presidential Electors,555,164,62,3,269,45,4,2,0,0,2,1,0,1,1,0
+Rankin Ward 1,314,Presidential Electors,183,107,42,4,15,5,0,3,2,0,2,0,0,1,0,0
+Rankin Ward 2,393,Presidential Electors,239,156,36,10,25,4,2,0,0,0,0,1,0,4,0,0
+Rankin Ward 3,399,Presidential Electors,169,103,39,4,16,6,1,0,0,0,0,0,0,0,0,0
+Reserve Ward 1,537,Presidential Electors,437,204,59,1,148,18,1,2,0,0,2,0,0,2,0,0
+Reserve Ward 2,554,Presidential Electors,481,164,86,3,196,25,1,2,0,0,0,0,0,4,0,0
+Reserve Ward 3,538,Presidential Electors,458,159,84,0,169,33,1,4,0,0,6,2,0,0,0,0
+Reserve Ward 4,824,Presidential Electors,685,174,145,2,283,71,0,4,1,0,2,0,0,2,0,0
+Richland Dist 1,1256,Presidential Electors,1071,274,205,10,429,131,5,1,2,0,3,4,0,1,2,0
+Richland Dist 2,1250,Presidential Electors,1038,241,212,5,455,104,3,6,0,0,4,2,0,3,1,0
+Richland Dist 3,1190,Presidential Electors,1008,270,193,4,394,128,8,1,0,0,2,0,0,1,1,0
+Richland Dist 4,1155,Presidential Electors,991,251,168,7,425,113,7,5,0,0,3,1,0,3,1,0
+Richland Dist 5,1047,Presidential Electors,879,199,170,3,355,129,6,3,2,0,0,1,0,8,0,0
+Richland Dist 6,1165,Presidential Electors,1001,227,195,6,441,119,4,1,0,0,1,0,0,5,1,0
+Richland Dist 7,1206,Presidential Electors,1062,280,136,4,503,116,3,6,0,0,5,1,0,4,0,0
+Richland Dist 8,1080,Presidential Electors,902,183,202,3,346,143,7,1,1,0,3,1,0,0,5,0
+Robinson Dist 1,1698,Presidential Electors,1443,279,404,6,479,245,5,4,2,0,9,2,0,3,3,0
+Robinson Dist 2,1289,Presidential Electors,1114,280,265,6,415,129,5,3,1,0,3,2,0,1,0,0
+Robinson Dist 3,708,Presidential Electors,584,149,99,3,262,62,0,0,1,0,0,1,0,3,1,0
+Robinson Dist 4,1025,Presidential Electors,861,216,203,5,314,99,7,2,2,0,7,0,0,3,0,0
+Robinson Dist 5,626,Presidential Electors,540,111,122,1,234,63,2,1,0,0,2,0,0,2,0,0
+Robinson Dist 6,922,Presidential Electors,729,204,156,4,263,82,4,0,1,0,2,5,0,2,2,0
+Robinson Dist 7,1428,Presidential Electors,1268,284,254,5,535,166,6,2,2,0,5,3,0,5,0,0
+Robinson Dist 8,1820,Presidential Electors,1324,340,295,9,528,125,6,3,2,0,4,3,0,5,0,1
+Robinson Dist 9,2532,Presidential Electors,2008,441,511,13,696,314,8,5,2,0,4,3,0,2,3,0
+Ross Ward 1 Dist 1,752,Presidential Electors,657,200,114,2,245,89,1,2,0,0,2,0,0,0,2,0
+Ross Ward 1 Dist 2,628,Presidential Electors,530,156,157,4,160,50,1,1,0,0,0,0,0,0,1,0
+Ross Ward 1 Dist 3,485,Presidential Electors,402,116,87,1,150,39,1,1,0,0,2,1,0,2,1,0
+Ross Ward 1 Dist 4,870,Presidential Electors,725,280,127,5,238,64,4,2,1,0,2,1,0,0,1,0
+Ross Ward 2 Dist 1,1300,Presidential Electors,1034,293,268,4,347,100,5,2,1,0,5,1,0,2,2,0
+Ross Ward 2 Dist 2,927,Presidential Electors,837,255,182,0,313,79,0,3,0,0,2,0,0,0,0,0
+Ross Ward 2 Dist 3,685,Presidential Electors,594,190,127,4,185,76,3,1,0,0,1,0,0,2,0,0
+Ross Ward 3 Dist 1,681,Presidential Electors,586,198,127,2,197,46,2,1,1,0,2,2,0,5,2,0
+Ross Ward 3 Dist 2,702,Presidential Electors,618,191,155,3,207,54,1,0,0,0,2,1,0,1,1,0
+Ross Ward 3 Dist 3,596,Presidential Electors,499,145,82,1,211,49,2,4,0,0,2,0,0,1,0,0
+Ross Ward 3 Dist 4,683,Presidential Electors,599,193,109,2,216,63,3,2,0,0,7,0,0,1,1,0
+Ross Ward 4 Dist 1,830,Presidential Electors,705,229,140,1,264,46,2,2,1,0,6,1,0,6,2,0
+Ross Ward 4 Dist 2,1089,Presidential Electors,915,319,180,6,314,79,1,2,1,0,6,2,0,4,1,0
+Ross Ward 4 Dist 3,736,Presidential Electors,646,161,130,4,246,94,3,1,1,0,2,2,0,1,0,0
+Ross Ward 4 Dist 4,793,Presidential Electors,674,185,158,0,242,71,5,1,1,0,3,2,0,3,0,0
+Ross Ward 5 Dist 1,624,Presidential Electors,534,164,105,2,203,48,1,2,0,0,3,0,0,5,0,0
+Ross Ward 5 Dist 2,435,Presidential Electors,373,112,75,3,150,24,0,2,1,0,3,2,0,1,0,0
+Ross Ward 5 Dist 3,797,Presidential Electors,648,140,181,6,213,89,2,1,2,1,3,3,0,4,1,0
+Ross Ward 5 Dist 4,754,Presidential Electors,639,185,131,1,240,66,1,4,0,0,5,0,0,3,0,0
+Ross Ward 6 Dist 1,494,Presidential Electors,415,164,79,5,133,26,3,1,0,0,1,1,0,0,0,0
+Ross Ward 6 Dist 2,1008,Presidential Electors,803,273,197,3,238,65,6,4,2,0,4,2,0,3,4,0
+Ross Ward 6 Dist 3,693,Presidential Electors,564,224,102,1,182,44,1,2,0,0,4,0,0,2,1,0
+Ross Ward 6 Dist 4,601,Presidential Electors,485,172,78,0,193,33,3,3,0,0,1,0,0,0,0,1
+Ross Ward 7 Dist 1,599,Presidential Electors,520,137,114,2,206,50,1,3,1,0,2,1,0,1,1,0
+Ross Ward 7 Dist 2,640,Presidential Electors,456,162,95,6,153,30,5,0,0,0,1,0,0,2,2,0
+Ross Ward 7 Dist 3,750,Presidential Electors,636,183,139,5,233,62,3,3,2,0,0,0,0,2,0,0
+Ross Ward 7 Dist 4,613,Presidential Electors,502,158,95,4,200,33,3,1,1,0,1,1,0,5,0,0
+Ross Ward 8 Dist 1,1701,Presidential Electors,1351,370,348,16,411,182,6,5,2,0,3,1,0,2,2,0
+Ross Ward 8 Dist 2,508,Presidential Electors,395,134,93,4,128,28,4,0,0,0,3,0,0,1,0,0
+Ross Ward 8 Dist 3,600,Presidential Electors,522,149,117,5,187,46,4,5,1,0,1,0,1,2,2,0
+Ross Ward 9 Dist 1,803,Presidential Electors,715,211,145,1,280,71,1,0,1,0,2,1,0,1,0,0
+Ross Ward 9 Dist 2,975,Presidential Electors,825,247,185,4,280,89,5,2,1,0,6,1,1,2,1,0
+Ross Ward 9 Dist 3,791,Presidential Electors,668,184,126,4,252,81,4,0,1,0,3,2,0,5,1,0
+Rosslyn Farms,415,Presidential Electors,362,136,52,2,126,36,1,0,0,0,3,1,0,4,0,1
+Scott Ward 1 Dist 1,587,Presidential Electors,420,143,66,5,177,19,3,0,0,0,4,0,0,0,1,0
+Scott Ward 1 Dist 2,671,Presidential Electors,489,168,61,5,212,29,1,4,1,1,3,0,0,3,0,0
+Scott Ward 2 Dist 1,447,Presidential Electors,347,112,98,3,98,31,2,0,0,1,1,1,0,0,0,0
+Scott Ward 2 Dist 2,654,Presidential Electors,569,186,84,6,250,34,1,1,1,0,1,1,0,1,0,0
+Scott Ward 3 Dist 1,543,Presidential Electors,476,141,99,1,187,41,2,0,0,0,3,0,0,1,1,0
+Scott Ward 3 Dist 2,697,Presidential Electors,591,148,144,6,228,53,3,1,2,0,4,0,0,2,0,0
+Scott Ward 4 Dist 1,753,Presidential Electors,650,234,145,3,202,49,1,2,1,0,2,3,0,5,1,1
+Scott Ward 4 Dist 2,605,Presidential Electors,521,167,124,0,177,39,0,2,0,0,1,2,0,1,2,0
+Scott Ward 5 Dist 1,611,Presidential Electors,515,169,83,5,214,36,3,1,0,0,1,0,0,1,0,0
+Scott Ward 5 Dist 2,719,Presidential Electors,590,182,138,5,176,75,2,2,0,0,1,1,0,2,1,0
+Scott Ward 6 Dist 1,645,Presidential Electors,509,185,97,4,162,45,7,5,0,0,1,2,0,1,0,0
+Scott Ward 6 Dist 2,836,Presidential Electors,704,221,176,11,239,48,3,3,1,0,0,0,0,2,0,0
+Scott Ward 7 Dist 1,914,Presidential Electors,741,219,234,4,192,73,2,2,5,0,2,2,0,2,1,0
+Scott Ward 7 Dist 2,660,Presidential Electors,566,172,140,1,192,50,0,4,1,0,3,0,0,2,0,0
+Scott Ward 8 Dist 1,525,Presidential Electors,467,135,100,2,173,44,2,1,3,0,3,0,0,2,0,0
+Scott Ward 8 Dist 2,1057,Presidential Electors,892,204,273,5,240,150,4,0,1,0,1,3,1,2,1,0
+Scott Ward 9 Dist 1,347,Presidential Electors,238,86,52,3,66,18,2,3,2,0,1,1,0,1,0,1
+Scott Ward 9 Dist 2,367,Presidential Electors,293,116,68,3,80,22,0,3,0,0,0,0,0,0,0,0
+Sewickley Ward 1,972,Presidential Electors,783,301,183,4,202,60,2,3,1,0,7,2,0,10,3,0
+Sewickley Ward 2 Dist 1,533,Presidential Electors,403,121,105,5,113,46,5,0,1,0,0,2,0,3,0,0
+Sewickley Ward 2 Dist 2,595,Presidential Electors,473,151,129,2,148,35,1,1,0,0,1,1,0,1,1,0
+Sewickley Ward 3,1061,Presidential Electors,848,318,192,11,232,76,3,3,4,0,1,1,0,4,1,0
+Sewickley Hts,790,Presidential Electors,635,169,116,1,239,92,3,1,1,0,3,0,0,3,3,0
+Sewickley Hills,578,Presidential Electors,467,161,79,3,179,39,0,2,0,1,1,0,0,1,0,0
+Shaler Ward 1 Dist 1,532,Presidential Electors,461,144,94,1,189,25,2,1,0,0,2,1,0,1,0,0
+Shaler Ward 1 Dist 2,532,Presidential Electors,447,142,85,0,186,28,2,0,1,0,0,0,0,2,0,0
+Shaler Ward 1 Dist 3,575,Presidential Electors,470,126,84,2,219,28,2,1,0,0,2,0,0,2,0,0
+Shaler Ward 1 Dist 4,614,Presidential Electors,548,179,113,2,204,42,1,1,1,0,0,2,0,0,0,2
+Shaler Ward 1 Dist 5,639,Presidential Electors,529,202,89,2,168,49,3,3,0,0,4,0,0,2,2,0
+Shaler Ward 2 Dist 1,1049,Presidential Electors,910,242,190,3,391,75,2,1,2,0,0,0,0,3,0,0
+Shaler Ward 2 Dist 2,778,Presidential Electors,673,189,112,3,278,76,1,1,1,0,4,2,0,1,1,0
+Shaler Ward 2 Dist 3,619,Presidential Electors,523,195,78,3,201,35,6,0,0,0,3,0,0,2,0,0
+Shaler Ward 2 Dist 4,784,Presidential Electors,694,242,133,1,258,47,2,0,3,0,5,2,0,0,1,0
+Shaler Ward 2 Dist 5,363,Presidential Electors,318,99,71,1,119,20,2,1,1,0,1,0,0,2,0,0
+Shaler Ward 3 Dist 1,603,Presidential Electors,521,149,128,1,185,48,1,0,0,0,2,0,0,1,2,0
+Shaler Ward 3 Dist 2,607,Presidential Electors,526,166,103,2,203,40,2,5,0,0,1,0,0,2,0,0
+Shaler Ward 3 Dist 3,579,Presidential Electors,514,138,96,1,223,48,4,0,0,0,1,0,0,1,1,0
+Shaler Ward 3 Dist 4,719,Presidential Electors,635,196,123,2,248,56,3,2,1,0,1,0,0,3,0,0
+Shaler Ward 3 Dist 5,660,Presidential Electors,569,135,104,3,260,56,1,1,0,0,3,1,0,1,2,0
+Shaler Ward 4 Dist 1,869,Presidential Electors,753,233,131,4,315,52,2,1,0,0,6,2,0,2,0,0
+Shaler Ward 4 Dist 2,456,Presidential Electors,374,133,62,0,142,26,3,1,0,0,2,2,0,0,0,0
+Shaler Ward 4 Dist 3,631,Presidential Electors,545,173,106,1,201,53,1,1,1,0,2,1,0,3,0,0
+Shaler Ward 4 Dist 4,660,Presidential Electors,571,150,122,1,240,53,2,0,1,0,2,0,0,0,0,0
+Shaler Ward 4 Dist 5,520,Presidential Electors,441,148,86,0,168,31,0,0,0,0,3,1,0,1,0,0
+Shaler Ward 5 Dist 1,760,Presidential Electors,665,189,110,2,266,76,3,3,1,0,6,2,0,4,0,0
+Shaler Ward 5 Dist 2,665,Presidential Electors,602,205,100,2,245,31,4,3,1,0,2,1,0,6,1,0
+Shaler Ward 5 Dist 3,544,Presidential Electors,491,137,114,1,180,47,2,1,2,0,4,1,0,0,1,0
+Shaler Ward 5 Dist 4,363,Presidential Electors,321,106,43,0,130,33,0,1,2,0,0,1,0,2,0,0
+Shaler Ward 5 Dist 5,776,Presidential Electors,664,201,118,1,258,76,2,0,1,0,1,1,0,3,0,0
+Shaler Ward 6 Dist 1,620,Presidential Electors,556,159,102,2,248,42,2,0,0,0,0,0,0,0,0,0
+Shaler Ward 6 Dist 2,735,Presidential Electors,622,176,97,5,275,50,6,2,3,0,3,0,0,3,1,0
+Shaler Ward 6 Dist 3,582,Presidential Electors,519,146,106,0,210,45,0,4,0,0,3,1,0,2,0,0
+Shaler Ward 6 Dist 4,335,Presidential Electors,295,85,63,1,112,28,3,0,1,0,0,0,0,0,0,0
+Shaler Ward 6 Dist 5,555,Presidential Electors,487,167,110,0,152,51,2,1,1,0,1,0,0,0,1,0
+Shaler Ward 7 Dist 1,596,Presidential Electors,508,173,112,3,175,29,3,2,0,0,4,2,0,2,1,0
+Shaler Ward 7 Dist 2,782,Presidential Electors,652,219,116,2,241,57,1,3,0,0,6,2,0,4,0,0
+Shaler Ward 7 Dist 3,640,Presidential Electors,513,155,89,4,209,41,3,3,0,0,4,1,1,2,0,0
+Shaler Ward 7 Dist 4,1025,Presidential Electors,863,240,171,5,359,78,2,2,0,0,1,1,0,2,1,0
+Sharpsburg Dist 1,619,Presidential Electors,421,184,73,6,126,18,3,6,0,0,2,1,0,2,0,0
+Sharpsburg Dist 2,850,Presidential Electors,593,296,83,4,164,36,6,3,0,0,0,0,0,1,0,0
+Sharpsburg Dist 3,843,Presidential Electors,654,256,97,8,233,46,2,2,4,0,2,0,0,1,0,0
+S Fayette Dist 1,582,Presidential Electors,512,132,114,0,203,54,1,1,0,0,3,0,0,2,1,0
+S Fayette Dist 2,1157,Presidential Electors,989,256,160,3,447,94,6,6,2,0,1,1,0,4,2,0
+S Fayette Dist 3,2001,Presidential Electors,1698,464,352,10,652,186,6,9,4,0,4,0,0,3,0,0
+S Fayette Dist 4,875,Presidential Electors,731,199,147,4,282,83,6,1,0,0,1,2,0,2,2,0
+S Fayette Dist 5,1074,Presidential Electors,910,273,132,4,406,78,4,2,0,0,4,2,0,2,0,0
+S Fayette Dist 6,1289,Presidential Electors,1038,327,186,8,414,79,6,4,2,0,4,0,0,7,0,0
+S Fayette Dist 7,734,Presidential Electors,601,143,118,1,254,70,3,3,1,1,3,2,0,0,1,0
+S Fayette Dist 8,1603,Presidential Electors,1384,401,317,4,454,180,8,0,1,0,2,4,0,6,1,0
+S Fayette Dist 9,708,Presidential Electors,515,143,113,1,192,51,6,1,0,0,2,1,0,2,1,0
+S Fayette Dist 10,740,Presidential Electors,600,177,99,6,245,55,2,5,0,0,3,3,0,2,0,0
+S Fayette Dist 11,1140,Presidential Electors,935,249,159,7,413,87,10,1,1,0,1,1,0,1,1,0
+S Fayette Dist 12,1051,Presidential Electors,875,208,212,8,323,105,10,1,1,0,2,0,0,1,2,0
+South Park Dist 1,775,Presidential Electors,659,128,111,2,293,103,6,1,1,0,7,1,1,3,1,0
+South Park Dist 2,777,Presidential Electors,639,184,122,2,258,61,2,1,0,0,2,0,1,4,0,0
+South Park Dist 3,714,Presidential Electors,618,164,92,4,289,53,3,2,0,0,2,0,0,3,1,0
+South Park Dist 4,918,Presidential Electors,743,250,131,8,282,61,6,1,0,0,2,1,0,1,0,0
+South Park Dist 5,747,Presidential Electors,644,206,91,2,290,44,1,3,0,0,2,0,0,4,0,0
+South Park Dist 6,924,Presidential Electors,734,219,132,2,292,71,2,2,0,0,5,1,0,2,1,0
+South Park Dist 7,1100,Presidential Electors,915,213,237,4,346,105,3,0,0,0,3,0,0,1,2,1
+South Park Dist 8,527,Presidential Electors,470,132,98,1,194,35,1,3,0,0,1,0,0,1,1,0
+South Park Dist 9,853,Presidential Electors,697,165,161,4,247,109,3,0,1,0,2,1,0,3,1,0
+South Park Dist 10,897,Presidential Electors,765,182,135,5,349,80,3,1,3,0,3,0,0,1,0,0
+South Park Dist 11,598,Presidential Electors,465,124,63,3,216,48,2,0,0,0,5,0,0,1,1,0
+South Park Dist 12,601,Presidential Electors,516,133,107,0,223,43,5,2,0,0,2,0,0,1,0,0
+South Park Dist 13,1177,Presidential Electors,1015,206,190,7,432,159,6,1,0,0,4,1,0,2,1,0
+S Versailles,222,Presidential Electors,191,32,21,0,129,8,0,0,0,0,1,0,0,0,0,0
+Springdale Br Dist 1,690,Presidential Electors,535,165,96,7,221,39,2,1,0,0,1,2,0,1,0,0
+Springdale Br Dist 2,599,Presidential Electors,513,135,77,0,247,40,3,1,0,0,4,0,0,5,1,0
+Springdale Br Dist 3,577,Presidential Electors,450,138,69,6,199,31,2,0,0,0,2,0,0,1,1,0
+Springdale Br Dist 4,473,Presidential Electors,368,110,59,2,169,23,4,0,1,0,0,0,0,0,0,0
+Springdale Twp,1187,Presidential Electors,993,228,181,6,439,116,12,1,1,0,2,2,0,1,1,0
+Stowe Ward 1,454,Presidential Electors,268,118,47,4,79,13,3,1,0,0,0,0,0,3,0,0
+Stowe Ward 2 Dist 1,188,Presidential Electors,94,36,13,2,33,6,2,0,0,0,1,0,0,0,0,0
+Stowe Ward 2 Dist 2,688,Presidential Electors,453,177,87,11,141,28,1,1,3,0,1,0,0,2,0,0
+Stowe Ward 3,359,Presidential Electors,221,65,31,4,98,17,2,1,1,0,1,0,0,0,0,0
+Stowe Ward 4 Dist 1,330,Presidential Electors,238,77,46,3,78,27,4,1,0,0,0,1,0,0,0,0
+Stowe Ward 4 Dist 2,360,Presidential Electors,306,65,70,0,126,40,1,0,1,0,0,0,0,1,1,0
+Stowe Ward 5,443,Presidential Electors,259,87,58,2,90,17,2,0,1,0,1,0,0,0,0,0
+Stowe Ward 6,478,Presidential Electors,281,137,60,7,61,8,2,1,0,0,2,1,0,0,1,0
+Stowe Ward 7,293,Presidential Electors,139,76,16,2,36,6,0,1,0,0,1,0,0,1,0,0
+Stowe Ward 8,397,Presidential Electors,169,83,12,0,67,4,1,0,0,0,1,1,0,0,0,0
+Stowe Ward 9,299,Presidential Electors,138,69,24,3,30,10,2,0,0,0,0,0,0,0,0,0
+Swissvale Dist 1,849,Presidential Electors,526,262,150,12,74,15,2,4,1,0,1,0,0,3,0,0
+Swissvale Dist 2,744,Presidential Electors,488,282,116,7,47,21,1,5,5,0,1,0,0,0,0,0
+Swissvale Dist 3,687,Presidential Electors,461,251,145,5,41,8,0,0,1,0,3,1,0,3,0,0
+Swissvale Dist 4,619,Presidential Electors,446,212,127,8,66,17,4,5,1,0,3,1,0,1,0,0
+Swissvale Dist 5,736,Presidential Electors,567,265,190,4,74,25,1,1,1,0,2,0,0,1,1,0
+Swissvale Dist 6,404,Presidential Electors,242,149,53,6,22,4,1,3,1,1,0,0,0,0,1,0
+Swissvale Dist 7,675,Presidential Electors,527,264,156,10,67,19,2,3,3,0,0,0,0,1,2,0
+Swissvale Dist 8,710,Presidential Electors,514,279,137,1,58,23,1,2,2,0,0,1,0,5,2,0
+Swissvale Dist 9,670,Presidential Electors,497,275,132,8,57,9,2,4,1,0,3,0,0,4,0,0
+Swissvale Dist 10,240,Presidential Electors,146,99,27,1,14,1,0,2,1,1,0,0,0,0,0,0
+Swissvale Dist 11,678,Presidential Electors,550,300,185,3,44,13,0,1,0,0,1,0,0,2,0,0
+Tarentum Ward 1 Dist 1,687,Presidential Electors,460,154,55,0,224,18,4,1,0,0,3,0,0,1,0,0
+Tarentum Ward 1 Dist 2,470,Presidential Electors,378,112,55,3,164,33,0,2,0,0,3,0,0,3,1,0
+Tarentum Ward 2,558,Presidential Electors,367,100,69,0,155,32,5,0,0,0,1,1,0,0,0,0
+Tarentum Ward 3 Dist 1,278,Presidential Electors,186,59,20,2,92,13,0,0,0,0,0,0,0,0,0,0
+Tarentum Ward 3 Dist 2,593,Presidential Electors,409,104,44,2,215,34,3,2,0,0,4,0,0,1,0,0
+Thornburg,407,Presidential Electors,355,158,52,3,116,19,1,1,1,0,2,0,0,0,0,0
+Pennsbury Vill,569,Presidential Electors,478,190,79,2,179,23,3,0,0,0,1,0,0,0,0,0
+Trafford,55,Presidential Electors,40,15,6,0,17,1,1,0,0,0,0,0,0,0,0,0
+Turtle Creek Ward 1 Dist 1,841,Presidential Electors,630,213,119,10,233,49,2,1,0,0,0,1,0,0,1,0
+Turtle Creek Ward 1 Dist 2,415,Presidential Electors,263,121,43,3,76,18,1,0,0,0,0,0,0,0,1,0
+Turtle Creek Ward 2 Dist 1,704,Presidential Electors,424,201,81,8,112,15,2,1,0,0,0,0,0,2,0,0
+Turtle Creek Ward 2 Dist 2,316,Presidential Electors,197,91,28,11,44,21,2,0,0,0,0,0,0,0,0,0
+Turtle Creek Ward 3 Dist 1,553,Presidential Electors,335,157,49,3,94,23,3,0,0,0,2,1,0,1,1,0
+Turtle Creek Ward 3 Dist 2,453,Presidential Electors,324,107,61,7,114,28,4,0,0,0,0,0,0,0,0,0
+Up St Clair Ward 1 Dist 1,501,Presidential Electors,418,144,88,3,134,44,0,0,2,0,1,0,0,0,0,0
+Up St Clair Ward 1 Dist 2,822,Presidential Electors,697,206,182,1,228,61,1,2,3,1,4,0,0,4,2,0
+Up St Clair Ward 1 Dist 3,1194,Presidential Electors,1022,313,224,6,337,116,6,4,1,1,2,0,0,3,4,0
+Up St Clair Ward 1 Dist 4,810,Presidential Electors,666,231,175,4,170,70,0,7,2,0,0,2,0,0,2,0
+Up St Clair Ward 2 Dist 1,988,Presidential Electors,811,257,184,3,268,87,1,1,1,0,1,3,0,0,0,0
+Up St Clair Ward 2 Dist 2,711,Presidential Electors,588,188,105,4,191,92,2,1,0,0,2,0,0,0,1,0
+Up St Clair Ward 2 Dist 3,1082,Presidential Electors,907,292,204,9,283,103,3,1,0,0,4,0,0,4,1,0
+Up St Clair Ward 2 Dist 4,545,Presidential Electors,464,160,100,2,151,36,2,1,6,0,1,0,0,2,0,0
+Up St Clair Ward 3 Dist 1,1040,Presidential Electors,845,281,200,4,255,86,4,2,1,0,4,0,0,2,2,0
+Up St Clair Ward 3 Dist 2,860,Presidential Electors,751,218,159,5,277,73,4,2,2,0,5,0,0,2,1,0
+Up St Clair Ward 3 Dist 3,1432,Presidential Electors,1190,315,255,4,406,188,3,0,2,0,1,1,0,8,2,0
+Up St Clair Ward 4 Dist 1,1024,Presidential Electors,870,272,204,3,297,81,1,1,0,0,4,0,0,0,2,0
+Up St Clair Ward 4 Dist 2,594,Presidential Electors,484,138,98,7,180,48,5,0,1,0,2,0,0,1,1,0
+Up St Clair Ward 4 Dist 3,649,Presidential Electors,549,164,130,2,190,54,1,0,0,0,1,1,0,2,3,0
+Up St Clair Ward 4 Dist 4,1120,Presidential Electors,881,210,250,6,254,134,3,2,0,0,2,1,0,5,4,0
+Up St Clair Ward 5 Dist 1,1149,Presidential Electors,957,263,207,2,372,95,3,1,1,1,0,1,2,4,2,0
+Up St Clair Ward 5 Dist 2,1193,Presidential Electors,1032,294,227,3,374,109,1,6,1,0,9,1,0,5,1,0
+Up St Clair Ward 5 Dist 3,921,Presidential Electors,793,253,192,5,246,73,3,4,0,0,1,1,0,8,3,0
+Verona Dist 1,516,Presidential Electors,359,160,52,6,115,16,5,1,0,0,1,0,0,1,1,0
+Verona Dist 2,571,Presidential Electors,450,188,71,2,156,26,2,1,0,0,1,1,0,2,0,0
+Verona Dist 3,613,Presidential Electors,480,187,69,3,185,28,4,0,0,0,1,0,0,1,1,0
+Versailles Dist 1,517,Presidential Electors,359,116,58,5,153,21,3,0,0,0,0,1,0,2,0,0
+Versailles Dist 2,468,Presidential Electors,325,101,73,7,117,19,2,0,0,0,4,0,0,2,0,0
+Wall,324,Presidential Electors,206,56,38,0,93,12,0,1,0,0,3,0,0,3,0,0
+West Deer Dist 1,1669,Presidential Electors,1436,288,242,1,729,154,2,1,1,0,3,2,0,7,3,0
+West Deer Dist 2,653,Presidential Electors,549,118,56,3,323,33,8,1,1,0,3,0,0,1,0,0
+West Deer Dist 3,840,Presidential Electors,684,114,104,0,376,80,0,0,0,0,3,0,0,2,0,0
+West Deer Dist 4,833,Presidential Electors,741,149,178,1,313,91,2,0,1,0,1,0,0,2,1,0
+West Deer Dist 5,914,Presidential Electors,761,156,83,1,442,67,5,1,0,0,2,0,0,3,0,0
+West Deer Dist 6,802,Presidential Electors,683,160,89,6,359,57,6,2,0,0,2,0,0,0,1,0
+West Deer Dist 7,1846,Presidential Electors,1623,244,383,8,691,260,11,2,1,0,7,3,0,4,2,0
+West Deer Dist 8,1589,Presidential Electors,1417,262,364,8,534,222,13,1,2,0,2,0,0,1,2,0
+W Elizabeth,249,Presidential Electors,189,47,17,3,112,6,2,1,0,0,0,0,0,0,0,1
+W Homestead Dist 1,424,Presidential Electors,247,131,44,12,38,11,3,0,0,0,3,2,0,2,0,0
+W Homestead Dist 2,465,Presidential Electors,407,112,58,3,190,38,2,0,0,0,3,1,0,0,0,0
+W Homestead Dist 3,523,Presidential Electors,448,128,71,0,187,57,0,1,1,0,1,1,0,1,0,0
+West Mifflin Dist 1,699,Presidential Electors,561,162,107,2,241,38,1,0,1,0,3,1,0,2,0,0
+West Mifflin Dist 2,478,Presidential Electors,357,178,85,6,65,21,0,0,0,0,0,0,0,0,0,0
+West Mifflin Dist 3,481,Presidential Electors,380,143,67,0,127,24,5,1,0,0,6,2,0,3,0,0
+West Mifflin Dist 4,396,Presidential Electors,105,70,20,1,13,1,0,0,0,0,0,0,0,0,0,0
+West Mifflin Dist 5,829,Presidential Electors,707,242,103,3,290,63,0,1,0,0,2,0,0,1,0,0
+West Mifflin Dist 6,336,Presidential Electors,270,67,51,1,122,20,4,1,0,0,3,0,0,1,0,0
+West Mifflin Dist 7,752,Presidential Electors,595,184,91,4,268,34,6,1,1,0,0,2,0,2,0,0
+West Mifflin Dist 8,579,Presidential Electors,418,208,78,8,95,23,1,1,0,0,2,0,0,1,0,0
+West Mifflin Dist 9,786,Presidential Electors,620,210,139,2,206,52,3,2,0,0,1,1,0,2,0,1
+West Mifflin Dist 10,520,Presidential Electors,418,115,78,4,178,36,2,3,0,0,1,0,0,0,0,0
+West Mifflin Dist 11,788,Presidential Electors,607,165,104,7,272,43,4,3,2,0,1,0,0,4,1,0
+West Mifflin Dist 12,1025,Presidential Electors,757,215,145,5,323,56,6,2,0,0,1,0,0,2,1,0
+West Mifflin Dist 13,543,Presidential Electors,397,121,80,2,155,31,3,0,0,0,3,1,0,0,1,0
+West Mifflin Dist 14,933,Presidential Electors,802,222,141,7,349,72,3,2,0,0,3,1,0,0,1,0
+West Mifflin Dist 15,596,Presidential Electors,485,170,88,4,168,42,2,5,1,0,1,0,0,3,0,0
+West Mifflin Dist 16,1160,Presidential Electors,1005,213,257,4,392,122,3,2,0,0,2,2,1,4,0,0
+West Mifflin Dist 17,575,Presidential Electors,473,127,85,0,203,51,1,3,0,0,2,0,0,0,1,0
+West Mifflin Dist 18,859,Presidential Electors,715,213,152,2,276,56,5,1,0,0,3,0,0,3,0,0
+West Mifflin Dist 19,656,Presidential Electors,552,136,83,1,275,48,2,1,1,0,3,1,0,0,1,0
+West Mifflin Dist 20,477,Presidential Electors,412,111,91,0,163,39,2,1,0,0,2,0,0,1,1,0
+West Mifflin Dist 21,713,Presidential Electors,562,146,140,9,206,48,6,0,2,0,4,0,0,1,0,0
+West View Dist 1,679,Presidential Electors,552,192,102,7,200,40,2,3,1,0,3,1,0,1,0,0
+West View Dist 2,758,Presidential Electors,576,205,98,2,221,38,3,3,0,0,4,0,0,1,0,0
+West View Dist 3,579,Presidential Electors,458,156,77,2,170,47,2,1,0,0,1,0,0,2,0,0
+West View Dist 4,600,Presidential Electors,500,162,94,8,191,28,8,2,0,0,2,0,0,2,0,0
+West View Dist 5,796,Presidential Electors,665,218,149,8,228,46,5,3,0,0,1,2,0,1,0,0
+West View Dist 6,726,Presidential Electors,619,232,118,3,216,36,2,4,0,0,4,1,0,0,2,0
+West View Dist 7,620,Presidential Electors,532,192,133,4,149,44,1,1,1,0,3,1,0,2,0,0
+Whitaker Dist 1,455,Presidential Electors,327,138,42,1,131,9,1,1,1,0,1,0,0,0,0,0
+Whitaker Dist 2,347,Presidential Electors,250,79,48,6,101,13,1,0,1,0,0,0,0,0,0,0
+Whitehall Dist 1,568,Presidential Electors,489,135,108,1,175,57,3,1,0,0,5,1,0,1,0,0
+Whitehall Dist 2,595,Presidential Electors,499,149,90,2,217,29,1,6,1,0,1,0,0,1,1,0
+Whitehall Dist 3,758,Presidential Electors,622,164,118,7,231,93,4,2,0,0,1,1,0,0,0,0
+Whitehall Dist 4,662,Presidential Electors,590,173,133,3,233,39,2,1,0,0,0,0,0,4,1,0
+Whitehall Dist 5,741,Presidential Electors,610,221,148,9,185,43,0,1,1,0,1,0,0,0,0,0
+Whitehall Dist 6,1099,Presidential Electors,564,211,141,27,116,46,15,2,1,0,1,1,0,2,1,0
+Whitehall Dist 7,472,Presidential Electors,384,128,94,3,119,27,6,1,0,0,1,0,0,1,2,0
+Whitehall Dist 8,823,Presidential Electors,724,235,147,2,244,81,6,3,1,0,1,1,0,1,1,0
+Whitehall Dist 9,587,Presidential Electors,504,153,123,5,165,48,2,1,0,0,2,0,0,2,0,0
+Whitehall Dist 10,652,Presidential Electors,553,166,107,5,224,44,2,2,0,0,1,0,0,1,0,0
+Whitehall Dist 11,637,Presidential Electors,557,136,101,5,257,51,0,1,1,0,2,0,0,1,1,0
+Whitehall Dist 12,588,Presidential Electors,503,161,92,4,202,35,6,0,0,0,0,0,0,3,0,0
+Whitehall Dist 13,752,Presidential Electors,681,176,193,1,223,75,2,0,3,0,2,0,0,2,1,0
+Whitehall Dist 14,616,Presidential Electors,530,146,113,3,192,62,3,2,0,0,3,1,0,1,0,0
+Whitehall Dist 15,1024,Presidential Electors,887,206,247,0,319,104,1,0,0,0,2,1,0,0,1,0
+Whitehall Dist 16,627,Presidential Electors,526,149,123,4,181,58,2,0,1,0,0,1,0,2,1,0
+White Oak Dist 1,736,Presidential Electors,568,154,91,3,264,46,1,3,1,1,3,0,0,1,0,0
+White Oak Dist 2,830,Presidential Electors,632,190,101,7,270,55,3,2,0,0,1,0,0,3,0,0
+White Oak Dist 3,900,Presidential Electors,736,191,145,7,322,58,3,1,1,0,3,1,0,1,0,0
+White Oak Dist 4,737,Presidential Electors,617,177,128,3,247,54,1,1,1,0,0,0,0,2,0,0
+White Oak Dist 5,821,Presidential Electors,675,192,122,4,278,67,5,1,0,2,0,0,0,1,1,0
+White Oak Dist 6,754,Presidential Electors,620,115,104,2,319,68,5,0,1,0,1,0,0,5,0,0
+White Oak Dist 7,1106,Presidential Electors,908,222,165,6,419,79,5,0,3,0,1,3,0,2,1,0
+Wilkins Ward 1 Dist 1,772,Presidential Electors,564,229,122,4,166,29,2,3,1,0,4,1,0,2,0,0
+Wilkins Ward 1 Dist 2,667,Presidential Electors,574,221,131,6,164,35,5,0,1,0,3,0,0,4,1,0
+Wilkins Ward 1 Dist 3,846,Presidential Electors,709,293,175,5,165,57,4,2,0,1,3,0,0,2,2,0
+Wilkins Ward 1 Dist 4,633,Presidential Electors,531,227,108,0,159,24,2,1,0,0,0,1,0,1,2,0
+Wilkins Ward 1 Dist 5,454,Presidential Electors,317,141,96,4,51,16,0,2,0,0,0,0,0,2,1,0
+Wilkins Ward 2 Dist 1,669,Presidential Electors,554,231,111,4,162,30,2,7,1,0,3,1,0,1,0,0
+Wilkins Ward 2 Dist 2,924,Presidential Electors,692,282,181,8,156,44,7,3,0,0,3,2,0,0,1,0
+Wilkinsburg Ward 1 Dist 1,922,Presidential Electors,513,290,158,18,28,4,2,4,2,0,1,1,1,0,2,0
+Wilkinsburg Ward 1 Dist 2,695,Presidential Electors,370,258,81,11,11,3,1,1,0,0,1,0,0,2,1,0
+Wilkinsburg Ward 1 Dist 3,415,Presidential Electors,206,132,52,7,8,1,2,1,0,0,0,1,0,0,1,0
+Wilkinsburg Ward 1 Dist 4,631,Presidential Electors,467,255,152,6,33,12,0,1,0,0,2,1,0,3,0,0
+Wilkinsburg Ward 1 Dist 5,540,Presidential Electors,405,195,140,4,45,15,1,1,0,0,1,0,0,1,0,0
+Wilkinsburg Ward 1 Dist 6,930,Presidential Electors,586,258,235,38,23,14,2,4,0,0,3,0,0,7,1,0
+Wilkinsburg Ward 2 Dist 1,734,Presidential Electors,433,210,147,17,30,19,4,0,1,0,3,0,0,0,0,0
+Wilkinsburg Ward 2 Dist 2,981,Presidential Electors,729,349,260,11,77,20,3,1,0,0,1,2,0,4,0,0
+Wilkinsburg Ward 2 Dist 3,754,Presidential Electors,386,234,100,15,17,12,3,2,0,0,1,0,0,0,0,0
+Wilkinsburg Ward 2 Dist 4,506,Presidential Electors,246,147,62,9,17,4,1,1,1,0,0,0,0,2,0,0
+Wilkinsburg Ward 2 Dist 5,762,Presidential Electors,387,218,127,15,8,7,3,4,2,0,0,0,0,0,1,0
+Wilkinsburg Ward 3 Dist 1,733,Presidential Electors,592,343,175,4,48,13,1,1,1,0,1,0,0,2,2,0
+Wilkinsburg Ward 3 Dist 2,692,Presidential Electors,505,291,135,1,38,19,1,4,5,0,1,2,0,4,3,0
+Wilkinsburg Ward 3 Dist 3,799,Presidential Electors,385,243,89,14,20,9,3,2,0,0,1,1,0,2,0,0
+Wilkinsburg Ward 3 Dist 4,1061,Presidential Electors,705,389,207,9,53,25,2,6,5,0,2,1,0,6,0,0
+Wilkinsburg Ward 3 Dist 5,1090,Presidential Electors,656,371,212,15,29,6,4,10,2,0,2,0,0,2,1,0
+Wilkinsburg Ward 3 Dist 6,516,Presidential Electors,269,178,52,13,16,6,0,2,0,0,1,0,0,0,0,0
+Wilmerding Dist 1,481,Presidential Electors,248,118,50,5,59,13,2,0,0,0,0,0,0,1,0,0
+Wilmerding Dist 2,695,Presidential Electors,437,206,84,6,112,18,0,3,0,0,2,1,0,1,1,0

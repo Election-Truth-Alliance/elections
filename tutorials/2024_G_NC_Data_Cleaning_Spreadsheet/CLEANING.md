@@ -13,7 +13,7 @@ of some significance but for our general analysis, we are interested in statewid
 candidate contests. This is because we have found these contests show stronger patterns and since they have more
 data, they are more statistically significant when we find these patterns.
 
-Extract the voting data: [results_pct_20241105.zip](../../data/US_NC/2024/results_pct_20241105.zip)
+Extract the voting data: [results_pct_20241105.zip](../../data/raw/US_NC/2024/results_pct_20241105.zip)
 
 These are the fields available in the precinct data for the North Carolina data:
 
@@ -112,7 +112,7 @@ You will be left with:
 > Every pivot table should have exactly the same number of rows because the number of precincts in the state is the 
 > same for each contest.
 
-Next, we need to add registration data. Extract the [voter_stats_20241105.zip](../../data/US_NC/2024/voter_stats_20241105.zip) file.
+Next, we need to add registration data. Extract the [voter_stats_20241105.zip](../../data/raw/US_NC/2024/voter_stats_20241105.zip) file.
 Here are the fields in that file:
 
 | Field | Description                             | Needed                                               |

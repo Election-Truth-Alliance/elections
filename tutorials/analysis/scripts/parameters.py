@@ -2,6 +2,27 @@ default_candidate_a_color = "#e63946"
 default_candidate_b_color = "#4287f5"
 
 params = {
+    "2024_general_pa_allegheny_election_day": {
+        "president": {
+            "file": "../../../data/clean/US_PA/Allegheny/2024/president.csv",
+            "candidate_a_column": "Donald J. Trump - Election Day",
+            "candidate_b_column": "Kamala D. Harris - Election Day",
+            "total_column": "total_votes_cast",
+            "registration_column": "registered_voters",
+            "candidate_a_color": default_candidate_a_color,
+            "candidate_b_color": default_candidate_b_color,
+            "scatter_plot": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Precinct Vote Total",
+                "x_axis_label": "Total Votes",
+                "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "turnout_scatter_plot": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
+                "x_axis_label": "Voter Turnout Percentage",
+                "y_axis_label": "Candidate Vote Share (%)",
+            }
+        }
+    },
     "2024_general_north_carolina_wake": {
         "president": {
             "file": "../files/2024_G_NC_President.xlsx",

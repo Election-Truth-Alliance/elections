@@ -1,0 +1,1328 @@
+precinct_id,registered_voters,contest_name,total_votes_cast,Malcolm Kenyatta - Election Day,Malcolm Kenyatta - Absentee,Malcolm Kenyatta - Provisional,Tim DeFoor - Election Day,Tim DeFoor - Absentee,Tim DeFoor - Provisional,Reece Smith - Election Day,Reece Smith - Absentee,Reece Smith - Provisional,Bob Goodrich - Election Day,Bob Goodrich - Absentee,Bob Goodrich - Provisional,Eric K. Anton - Election Day,Eric K. Anton - Absentee,Eric K. Anton - Provisional,Write-in - Election Day,Write-in - Absentee,Write-in - Provisional
+Aleppo,1363,Auditor General,1128,264,243,6,367,177,7,13,4,0,2,0,0,2,0,0,0,0,0
+Aspinwall Dist 1,855,Auditor General,730,311,125,7,214,30,0,16,3,0,5,0,1,0,0,0,0,0,0
+Aspinwall Dist 2,582,Auditor General,472,200,84,8,120,15,1,8,3,0,6,0,0,1,1,0,0,1,0
+Aspinwall Dist 3,827,Auditor General,698,318,123,8,159,44,2,8,1,0,2,0,0,1,0,0,1,0,0
+Avalon Ward 1,1115,Auditor General,849,375,157,16,191,40,5,15,4,1,8,3,0,5,0,0,3,0,0
+Avalon Ward 2 Dist 1,712,Auditor General,554,233,95,6,135,35,3,17,2,0,10,0,0,0,0,0,0,0,0
+Avalon Ward 2 Dist 2,472,Auditor General,369,142,82,8,85,34,0,10,0,0,0,0,0,0,0,0,0,0,0
+Avalon Ward 3 Dist 1,335,Auditor General,281,98,62,0,75,22,1,4,1,0,3,1,0,1,1,0,1,0,0
+Avalon Ward 3 Dist 2,459,Auditor General,356,112,101,4,81,24,1,8,3,0,4,1,0,3,0,0,0,0,0
+Avalon Ward 3 Dist 3,517,Auditor General,377,153,91,3,74,33,2,6,1,0,3,1,0,0,0,0,0,0,0
+Baldwin Br Dist 1,613,Auditor General,505,147,102,3,174,49,0,4,4,0,2,1,0,1,0,0,0,0,0
+Baldwin Br Dist 2,1041,Auditor General,881,246,205,0,280,76,1,11,5,0,7,3,0,1,0,0,1,1,0
+Baldwin Br Dist 3,857,Auditor General,713,253,127,4,224,49,2,16,4,0,3,1,0,1,1,0,1,0,0
+Baldwin Br Dist 4,798,Auditor General,671,173,106,5,254,61,2,15,5,0,4,5,1,3,2,0,0,0,0
+Baldwin Br Dist 5,840,Auditor General,690,203,116,6,235,63,4,10,4,0,7,0,1,3,1,0,0,0,0
+Baldwin Br Dist 6,743,Auditor General,616,143,124,4,236,61,3,12,1,0,3,2,1,2,0,0,0,0,0
+Baldwin Br Dist 7,833,Auditor General,705,201,140,3,240,67,2,14,2,0,6,1,0,1,0,0,0,0,1
+Baldwin Br Dist 8,729,Auditor General,631,157,119,1,218,67,2,11,5,0,5,0,0,0,0,1,0,0,0
+Baldwin Br Dist 9,776,Auditor General,636,168,147,5,195,52,5,11,3,1,13,2,0,2,0,1,0,1,0
+Baldwin Br Dist 10,1029,Auditor General,637,212,116,10,166,59,8,10,1,1,8,2,0,5,3,1,0,0,0
+Baldwin Br Dist 11,1308,Auditor General,826,294,183,26,186,54,7,7,6,1,11,3,0,2,2,0,3,0,0
+Baldwin Br Dist 12,660,Auditor General,565,168,95,2,203,47,0,9,0,1,5,0,1,1,1,0,1,0,0
+Baldwin Br Dist 13,685,Auditor General,605,175,84,3,236,58,2,10,0,1,5,0,0,6,1,0,0,0,0
+Baldwin Br Dist 14,614,Auditor General,520,161,72,1,191,60,2,5,1,0,5,2,0,0,0,0,0,1,0
+Baldwin Br Dist 15,806,Auditor General,705,185,143,2,264,64,2,12,2,0,2,3,0,1,1,0,0,0,0
+Baldwin Br Dist 16,916,Auditor General,741,246,126,2,258,68,2,3,1,0,3,2,1,1,0,0,1,0,0
+Baldwin Br Dist 17,678,Auditor General,564,163,101,6,181,68,2,8,4,0,2,2,0,2,0,0,0,0,0
+Baldwin Br Dist 18,972,Auditor General,820,216,174,10,262,77,4,14,3,0,4,0,0,3,0,0,0,1,0
+Baldwin Tp Dist 1,809,Auditor General,696,241,119,2,246,46,0,9,1,0,5,0,0,2,0,0,0,0,0
+Baldwin Tp Dist 2,762,Auditor General,625,207,103,2,224,39,3,13,1,0,3,3,0,2,0,0,0,0,0
+Bell Acres,1188,Auditor General,991,257,163,3,402,114,1,9,3,0,7,3,0,4,1,0,0,0,0
+Bellevue Ward 1 Dist 1,973,Auditor General,717,271,166,9,179,42,2,16,3,1,5,2,0,0,1,0,0,0,0
+Bellevue Ward 1 Dist 2,984,Auditor General,743,326,162,6,161,37,2,15,1,0,7,1,0,4,1,0,0,0,0
+Bellevue Ward 2 Dist 1,1092,Auditor General,788,338,149,9,189,47,3,9,6,1,7,2,0,4,0,0,0,1,0
+Bellevue Ward 2 Dist 2,989,Auditor General,738,295,145,10,176,42,3,21,3,0,7,1,0,4,0,1,1,0,1
+Bellevue Ward 3 Dist 1,1048,Auditor General,786,324,166,8,170,41,1,18,5,1,5,0,0,4,2,0,3,0,0
+Bellevue Ward 3 Dist 2,981,Auditor General,761,286,135,12,212,51,2,15,4,1,9,3,1,5,0,0,1,0,0
+Ben Avon Dist 1,496,Auditor General,428,205,85,0,96,18,0,5,2,0,2,1,0,2,0,0,2,0,0
+Ben Avon Dist 2,994,Auditor General,841,353,144,5,230,60,1,20,5,0,0,1,0,0,0,0,1,1,0
+Ben Avon Ht,341,Auditor General,298,100,47,0,100,33,1,3,0,0,3,3,0,0,0,0,0,0,0
+Bethel Park Ward 1 Dist 1,869,Auditor General,719,149,170,1,285,70,1,7,2,0,6,1,0,2,0,0,1,1,0
+Bethel Park Ward 1 Dist 2,801,Auditor General,672,196,143,4,219,53,0,16,4,0,7,3,0,1,1,0,0,0,0
+Bethel Park Ward 1 Dist 3,840,Auditor General,707,182,124,4,258,88,2,9,2,0,1,3,0,2,0,0,0,1,0
+Bethel Park Ward 2 Dist 1,748,Auditor General,636,150,108,1,267,63,0,10,2,0,2,1,0,2,0,0,0,1,0
+Bethel Park Ward 2 Dist 2,939,Auditor General,808,199,149,4,288,108,7,12,1,0,2,0,0,1,0,0,0,0,0
+Bethel Park Ward 2 Dist 3,1099,Auditor General,940,193,192,2,374,122,1,14,4,0,3,0,0,1,0,0,0,0,0
+Bethel Park Ward 3 Dist 1,791,Auditor General,686,160,107,4,278,99,2,11,0,0,1,0,0,1,0,0,1,0,0
+Bethel Park Ward 3 Dist 2,1100,Auditor General,961,197,210,6,353,127,2,10,2,1,6,2,0,1,0,0,1,0,0
+Bethel Park Ward 3 Dist 3,1055,Auditor General,926,200,180,6,352,129,4,9,1,0,5,1,0,0,0,0,0,0,0
+Bethel Park Ward 4 Dist 1,1351,Auditor General,1170,258,224,5,440,166,5,11,5,0,8,3,0,5,1,0,2,0,0
+Bethel Park Ward 4 Dist 2,808,Auditor General,687,177,145,3,219,90,6,7,7,1,3,3,0,1,0,0,0,1,0
+Bethel Park Ward 4 Dist 3,878,Auditor General,727,189,143,5,248,101,3,8,0,0,4,1,0,0,0,0,1,0,0
+Bethel Park Ward 5 Dist 1,712,Auditor General,590,129,92,0,229,85,3,10,3,0,6,0,0,1,1,0,0,0,0
+Bethel Park Ward 5 Dist 2,653,Auditor General,537,154,84,3,207,53,1,6,2,0,5,2,0,3,0,0,1,0,0
+Bethel Park Ward 5 Dist 3,1481,Auditor General,1189,269,332,4,332,174,3,15,7,0,7,1,1,2,2,0,1,0,0
+Bethel Park Ward 6 Dist 1,1285,Auditor General,1102,245,195,6,434,165,1,9,5,0,2,1,0,1,0,0,0,0,0
+Bethel Park Ward 6 Dist 2,945,Auditor General,821,224,153,1,302,100,4,2,1,0,3,0,0,0,0,0,2,0,0
+Bethel Park Ward 6 Dist 3,908,Auditor General,753,173,155,4,275,100,2,7,3,0,6,1,0,1,0,0,1,0,0
+Bethel Park Ward 7 Dist 1,1182,Auditor General,1023,258,171,6,380,144,3,17,2,0,5,2,0,4,0,0,1,0,0
+Bethel Park Ward 7 Dist 2,1286,Auditor General,1035,244,234,6,344,147,3,18,2,1,3,0,0,0,0,0,2,0,0
+Bethel Park Ward 7 Dist 3,760,Auditor General,649,146,150,0,237,70,3,12,2,0,3,1,0,1,0,0,0,1,0
+Bethel Park Ward 8 Dist 1,556,Auditor General,470,135,75,0,165,63,0,6,2,0,4,0,0,1,0,0,0,0,0
+Bethel Park Ward 8 Dist 2,526,Auditor General,394,122,101,3,84,47,1,6,2,1,2,1,0,2,0,0,0,0,0
+Bethel Park Ward 8 Dist 3,1322,Auditor General,1134,267,241,2,421,123,2,19,3,0,12,2,0,1,1,0,1,0,0
+Bethel Park Ward 8 Dist 4,468,Auditor General,404,113,83,0,141,42,5,2,1,0,4,0,0,0,0,0,0,0,0
+Bethel Park Ward 9 Dist 1,594,Auditor General,513,160,74,3,181,55,3,7,2,0,2,2,0,1,0,0,1,0,0
+Bethel Park Ward 9 Dist 2,750,Auditor General,614,187,119,2,206,51,2,9,4,0,2,1,0,2,2,0,3,0,0
+Bethel Park Ward 9 Dist 3,1398,Auditor General,1191,278,249,3,427,173,5,15,4,0,7,3,0,1,0,0,0,0,0
+Blawnox,1010,Auditor General,791,264,158,11,233,55,4,20,0,0,5,2,0,2,2,1,1,1,0
+Brackenridge Ward 1,481,Auditor General,331,117,31,0,132,25,3,5,1,0,3,1,0,0,0,0,0,0,0
+Brackenridge Ward 2,800,Auditor General,633,178,90,2,246,45,1,16,4,0,3,8,0,4,0,0,0,0,0
+Brackenridge Ward 3,683,Auditor General,484,124,61,2,229,28,2,15,2,0,7,1,0,2,0,0,0,0,0
+Braddock Ward 1,440,Auditor General,241,136,54,12,13,3,2,4,0,0,4,1,1,2,0,0,0,0,0
+Braddock Ward 2,607,Auditor General,355,218,74,10,23,11,0,3,0,0,2,1,0,1,1,0,0,0,0
+Braddock Ward 3,461,Auditor General,220,152,34,2,16,2,0,4,0,0,1,1,1,1,0,0,0,0,0
+Braddock Hl Dist 1,798,Auditor General,532,220,142,7,97,26,3,8,2,0,3,2,0,1,0,0,0,0,0
+Braddock Hl Dist 2,525,Auditor General,439,191,84,7,98,27,1,6,1,1,2,1,0,0,0,0,0,0,0
+Bradford Woods,1021,Auditor General,873,198,165,5,338,122,0,9,0,0,4,0,0,0,0,0,0,0,0
+Brentwood Dist 1,547,Auditor General,455,159,78,1,145,25,1,12,3,0,7,0,0,1,0,0,0,0,0
+Brentwood Dist 2,767,Auditor General,574,187,105,4,194,39,3,16,3,0,4,0,0,1,1,0,2,0,0
+Brentwood Dist 3,650,Auditor General,509,175,81,1,174,30,1,23,0,0,6,0,0,1,0,0,1,0,0
+Brentwood Dist 4,806,Auditor General,637,188,120,10,202,50,0,13,1,2,6,5,0,1,1,0,1,0,0
+Brentwood Dist 5,735,Auditor General,506,227,81,4,118,28,4,10,3,0,5,0,0,4,1,0,1,0,0
+Brentwood Dist 6,672,Auditor General,478,176,104,10,109,30,6,3,3,0,4,3,0,1,1,0,1,0,0
+Brentwood Dist 7,772,Auditor General,578,194,109,11,162,47,1,12,2,0,11,0,0,0,0,0,1,0,0
+Brentwood Dist 8,728,Auditor General,598,183,116,4,197,57,2,5,3,0,2,3,1,1,0,0,1,1,0
+Brentwood Dist 9,600,Auditor General,496,153,111,3,153,36,2,10,0,0,2,0,0,2,0,0,0,0,0
+Brentwood Dist 10,565,Auditor General,446,136,53,3,176,46,2,7,0,0,4,2,0,0,0,0,0,0,0
+Bridgeville Dist 1,792,Auditor General,612,180,82,6,248,43,7,15,1,0,3,0,0,1,1,0,0,0,0
+Bridgeville Dist 2,875,Auditor General,688,231,95,5,259,51,4,11,2,0,7,0,0,3,0,0,0,0,0
+Bridgeville Dist 3,850,Auditor General,685,171,104,3,309,50,5,14,2,0,1,3,0,3,0,0,0,0,0
+Bridgeville Dist 4,1008,Auditor General,813,235,158,5,268,61,5,16,5,0,4,2,0,4,3,0,1,0,0
+Carnegie Ward 1 Dist 1,548,Auditor General,415,145,66,9,130,18,4,14,3,0,6,1,0,1,0,0,1,1,0
+Carnegie Ward 1 Dist 2,1218,Auditor General,932,344,138,14,287,65,7,23,3,1,8,1,0,1,1,0,2,0,0
+Carnegie Ward 1 Dist 3,871,Auditor General,687,240,106,5,245,43,4,20,2,0,1,3,0,1,0,0,1,0,0
+Carnegie Ward 1 Dist 4,373,Auditor General,245,85,55,5,55,21,1,7,2,0,2,3,0,3,1,0,0,0,0
+Carnegie Ward 2 Dist 1,667,Auditor General,485,176,69,13,145,39,5,12,0,0,3,2,0,1,0,0,2,0,0
+Carnegie Ward 2 Dist 2,514,Auditor General,402,152,83,7,111,24,1,9,3,0,4,0,0,0,1,0,1,0,0
+Carnegie Ward 2 Dist 3,494,Auditor General,417,119,69,1,137,59,1,8,2,0,1,1,0,0,0,0,1,0,0
+Carnegie Ward 2 Dist 4,836,Auditor General,563,199,101,8,147,43,3,13,3,0,5,1,0,2,1,0,2,1,0
+Casl Shannon Dist 1,1069,Auditor General,779,265,173,9,197,64,3,13,4,1,8,2,1,3,1,0,0,0,0
+Casl Shannon Dist 2,799,Auditor General,622,220,101,4,210,34,2,20,1,1,6,1,0,2,1,0,0,1,0
+Casl Shannon Dist 3,872,Auditor General,702,217,131,4,245,53,5,13,3,0,8,1,0,2,1,0,1,1,0
+Casl Shannon Dist 4,655,Auditor General,523,179,123,2,143,40,2,4,2,0,4,3,0,2,0,1,1,0,0
+Casl Shannon Dist 5,842,Auditor General,654,226,127,4,195,40,3,15,1,0,5,2,1,1,0,0,1,0,0
+Casl Shannon Dist 6,653,Auditor General,547,165,110,3,160,56,3,10,0,0,6,1,0,1,0,0,1,0,0
+Casl Shannon Dist 7,744,Auditor General,624,184,117,6,211,63,4,7,1,1,5,0,0,2,0,0,0,0,0
+Casl Shannon Dist 8,551,Auditor General,441,130,86,2,151,32,2,8,1,0,2,0,0,1,0,0,0,0,0
+Chalfant Dist 1,606,Auditor General,461,170,82,5,125,30,2,8,2,0,1,0,0,3,1,0,1,0,0
+Cheswick Dist 1,661,Auditor General,565,150,93,1,230,48,5,12,0,0,1,2,0,1,0,0,1,0,0
+Cheswick Dist 2,652,Auditor General,575,149,112,2,235,45,2,7,1,1,3,0,0,1,0,0,0,0,0
+Churchill Dist 1,717,Auditor General,611,256,170,1,113,45,1,4,0,0,1,0,0,1,0,0,0,0,0
+Churchill Dist 2,701,Auditor General,588,227,174,1,114,40,1,9,1,0,3,0,0,0,0,0,0,0,0
+Churchill Dist 3,650,Auditor General,571,232,133,4,113,55,0,8,2,0,4,0,0,1,3,0,1,0,0
+Churchill Dist 4,701,Auditor General,590,195,158,1,156,51,2,5,2,0,2,0,0,0,0,0,1,0,0
+Clairton Ward 1 Dist 1,361,Auditor General,213,106,31,6,45,8,0,7,1,0,5,0,0,0,0,0,0,0,0
+Clairton Ward 1 Dist 2,429,Auditor General,282,119,33,3,78,26,1,5,0,0,4,0,0,0,0,0,0,0,0
+Clairton Ward 1 Dist 3,338,Auditor General,237,78,22,3,97,9,2,9,2,0,3,1,0,1,0,0,1,1,0
+Clairton Ward 2 Dist 1,94,Auditor General,55,46,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Clairton Ward 2 Dist 2,281,Auditor General,165,102,38,6,6,3,1,1,0,0,1,0,0,0,1,0,1,0,0
+Clairton Ward 2 Dist 3,421,Auditor General,238,135,49,2,20,13,1,3,1,0,1,0,0,0,0,0,0,0,0
+Clairton Ward 3 Dist 1,448,Auditor General,304,122,62,5,79,15,1,2,2,0,2,0,0,0,1,0,0,0,0
+Clairton Ward 3 Dist 2,318,Auditor General,202,81,51,3,39,8,0,3,1,0,4,1,0,1,0,0,0,0,0
+Clairton Ward 3 Dist 3,350,Auditor General,192,73,32,5,46,18,2,2,0,1,3,1,0,0,1,0,0,0,1
+Clairton Ward 4 Dist 1,347,Auditor General,211,137,34,0,13,5,0,5,0,0,3,0,0,2,0,0,0,0,0
+Clairton Ward 4 Dist 2,377,Auditor General,219,129,25,7,23,16,1,1,0,0,1,0,0,1,0,0,1,0,0
+Clairton Ward 4 Dist 3,421,Auditor General,297,106,44,2,91,23,1,6,0,0,6,0,0,3,0,1,0,0,0
+Collier Dist 1,1662,Auditor General,1427,314,254,9,596,173,12,15,2,1,4,4,0,1,0,0,0,0,0
+Collier Dist 2,1416,Auditor General,1213,284,160,4,530,139,7,27,5,0,10,0,0,4,1,0,0,0,0
+Collier Dist 3,1309,Auditor General,1090,262,245,6,384,140,3,8,4,0,2,1,0,3,0,0,2,0,0
+Collier Dist 4,762,Auditor General,633,191,126,3,211,52,0,12,2,0,4,1,0,1,0,0,0,0,0
+Collier Dist 5,1005,Auditor General,827,152,112,5,338,176,6,9,3,0,3,1,0,0,1,0,0,0,0
+Collier Dist 6,1154,Auditor General,911,234,184,3,333,71,5,18,3,1,7,1,0,2,1,1,0,0,0
+Coraopolis Ward 1 Dist 1,456,Auditor General,332,151,54,1,80,16,2,3,3,1,2,1,0,3,2,0,0,0,0
+Coraopolis Ward 1 Dist 2,481,Auditor General,367,129,65,6,128,14,1,4,1,0,6,0,0,2,1,0,0,0,0
+Coraopolis Ward 2,813,Auditor General,555,180,133,4,146,39,4,13,1,0,9,3,0,1,0,0,1,0,0
+Coraopolis Ward 3 Dist 1,593,Auditor General,454,150,100,2,139,30,2,8,2,1,6,0,0,0,1,0,0,0,0
+Coraopolis Ward 3 Dist 2,557,Auditor General,448,135,88,9,151,25,0,10,1,1,2,1,0,4,1,1,0,0,0
+Coraopolis Ward 4 Dist 1,457,Auditor General,343,111,60,3,117,18,1,8,0,1,4,0,0,2,0,0,1,0,0
+Coraopolis Ward 4 Dist 2,523,Auditor General,408,117,68,5,141,33,0,12,2,1,9,1,0,1,0,0,2,1,0
+Crafton Ward 1 Dist 1,905,Auditor General,713,262,141,2,146,51,2,72,9,1,5,2,0,0,1,0,1,0,0
+Crafton Ward 1 Dist 2,598,Auditor General,468,147,86,6,117,32,1,48,2,1,3,0,0,3,0,0,1,1,1
+Crafton Ward 2 Dist 1,608,Auditor General,486,168,92,1,142,25,0,30,5,0,2,0,0,0,0,0,0,0,0
+Crafton Ward 2 Dist 2,786,Auditor General,578,202,130,4,135,43,0,30,4,1,3,2,0,1,1,0,1,1,0
+Crafton Ward 3 Dist 1,1005,Auditor General,810,273,166,4,206,36,3,71,5,3,3,1,0,4,1,0,0,0,0
+Crafton Ward 3 Dist 2,563,Auditor General,454,175,62,4,142,29,2,23,2,0,3,1,0,0,0,0,0,0,0
+Crescent Ward 1,1078,Auditor General,886,250,110,5,366,94,4,20,5,0,1,4,0,0,0,0,3,0,0
+Crescent Ward 2,698,Auditor General,563,130,87,1,267,36,1,15,3,0,5,0,0,1,1,0,0,0,0
+Dormont Dist 1,729,Auditor General,561,220,139,0,132,32,0,8,2,0,4,1,0,1,1,0,0,0,0
+Dormont Dist 2,546,Auditor General,476,197,104,0,131,15,1,10,0,0,1,1,0,1,0,0,1,0,0
+Dormont Dist 3,927,Auditor General,726,325,154,4,164,25,3,15,3,0,4,0,0,2,1,0,0,0,0
+Dormont Dist 4,662,Auditor General,513,219,120,3,102,34,0,8,3,0,6,1,0,0,0,0,3,1,0
+Dormont Dist 5,1026,Auditor General,811,351,170,15,167,52,3,14,3,0,4,0,0,1,0,0,3,0,0
+Dormont Dist 6,519,Auditor General,427,165,91,6,87,38,2,14,3,0,3,1,0,4,0,0,1,0,0
+Dormont Dist 7,521,Auditor General,425,186,101,1,90,16,1,5,5,0,4,0,0,1,1,0,1,0,0
+Dormont Dist 8,407,Auditor General,336,145,61,1,81,21,1,6,2,0,2,1,0,1,0,0,0,0,0
+Dormont Dist 9,544,Auditor General,444,195,93,4,102,28,0,10,0,0,2,0,0,2,1,0,0,1,0
+Dormont Dist 10,636,Auditor General,527,259,87,5,128,19,3,9,0,0,2,1,0,2,0,0,1,0,0
+Dravosburg Dist 1,540,Auditor General,387,110,59,2,143,29,0,8,0,0,8,2,0,4,0,0,1,0,0
+Dravosburg Dist 2,341,Auditor General,279,55,43,0,134,27,0,2,0,0,2,1,0,0,0,0,0,0,0
+Dravosburg Dist 3,257,Auditor General,210,60,38,1,69,13,1,4,1,0,6,0,0,2,0,0,0,0,0
+Duquesne Ward 1 Dist 1,449,Auditor General,320,143,52,6,69,16,3,4,2,1,5,2,0,1,1,0,1,0,0
+Duquesne Ward 1 Dist 2,485,Auditor General,268,125,53,12,32,9,1,4,3,0,6,1,0,1,0,1,0,1,0
+Duquesne Ward 1 Dist 3,296,Auditor General,142,98,20,4,7,5,1,1,0,0,2,1,0,0,0,0,0,0,0
+Duquesne Ward 1 Dist 4,192,Auditor General,98,49,13,5,15,6,0,0,0,0,3,0,1,0,1,0,0,0,0
+Duquesne Ward 2 Dist 1,328,Auditor General,166,96,41,4,17,5,0,0,0,0,0,0,0,0,1,0,0,0,0
+Duquesne Ward 2 Dist 2,362,Auditor General,191,103,41,7,22,3,1,3,0,0,0,0,0,4,1,0,0,0,0
+Duquesne Ward 2 Dist 3,426,Auditor General,256,117,44,7,51,11,0,5,3,0,3,1,0,0,0,0,2,0,0
+Duquesne Ward 3 Dist 1,224,Auditor General,124,65,25,8,12,5,0,2,0,0,0,0,0,1,0,0,0,0,0
+Duquesne Ward 3 Dist 2,146,Auditor General,77,46,14,3,5,3,0,0,1,0,1,0,1,1,0,0,0,0,0
+Duquesne Ward 3 Dist 3,528,Auditor General,320,157,67,3,53,4,2,4,5,0,7,0,0,1,0,0,1,0,0
+East Deer Ward 1,349,Auditor General,283,95,24,1,112,20,1,10,1,0,3,0,0,0,0,0,0,0,0
+East Deer Ward 2,604,Auditor General,474,124,70,4,197,47,2,2,1,0,6,0,1,4,0,0,1,0,0
+E McKeesport Dist 1,400,Auditor General,306,100,54,6,108,13,0,5,0,0,4,1,0,2,1,0,0,0,0
+E McKeesport Dist 2,531,Auditor General,404,162,61,6,125,21,1,6,1,0,2,0,0,3,0,0,0,0,0
+E McKeesport Dist 3,474,Auditor General,352,140,59,3,107,13,0,7,2,0,3,1,0,1,0,0,1,0,0
+E Pittsburgh Ward 1,342,Auditor General,183,104,32,6,22,4,0,5,1,0,3,0,0,1,0,0,0,0,0
+E Pittsburgh Ward 2,387,Auditor General,218,119,35,4,28,9,1,5,1,0,3,0,0,0,0,0,0,0,0
+E Pittsburgh Ward 3,514,Auditor General,260,128,51,3,40,17,0,3,1,0,2,0,0,2,0,0,0,0,0
+Edgewood Dist 1,1074,Auditor General,865,413,259,9,92,36,4,8,5,0,1,1,0,0,2,0,0,0,0
+Edgewood Dist 2,938,Auditor General,787,379,241,3,85,39,3,9,2,0,0,1,0,1,0,0,1,0,0
+Edgewood Dist 3,882,Auditor General,729,330,250,13,58,35,0,3,4,0,2,0,0,0,0,0,0,0,0
+Edgeworth Dist 1,675,Auditor General,567,168,88,2,180,94,2,8,1,0,2,0,0,1,0,0,0,0,0
+Edgeworth Dist 2,801,Auditor General,647,182,124,1,228,71,2,4,4,0,2,0,0,3,1,0,1,0,0
+Elizabeth Br,894,Auditor General,686,178,69,4,329,44,4,18,6,0,3,1,1,2,1,0,1,0,0
+Elizabeth Tp Ward 1 Dist 1,565,Auditor General,477,114,58,0,227,40,2,6,0,0,1,0,0,2,0,0,0,0,0
+Elizabeth Tp Ward 1 Dist 2,969,Auditor General,825,170,98,2,423,81,5,15,4,0,4,1,0,0,0,1,1,0,0
+Elizabeth Tp Ward 2,1353,Auditor General,1152,249,154,1,552,111,5,18,1,0,9,1,0,8,0,0,2,0,0
+Elizabeth Tp Ward 3,1388,Auditor General,1199,216,161,3,588,134,2,15,4,0,16,1,0,4,0,0,1,0,0
+Elizabeth Tp Ward 4 Dist 1,883,Auditor General,726,137,106,4,339,76,2,10,3,0,9,2,0,2,0,0,0,1,0
+Elizabeth Tp Ward 4 Dist 2,435,Auditor General,385,70,51,1,194,44,2,3,1,0,1,1,0,2,0,0,1,0,0
+Elizabeth Tp Ward 5 Dist 1,439,Auditor General,340,65,31,2,198,26,1,7,0,0,1,0,0,0,0,0,0,0,0
+Elizabeth Tp Ward 5 Dist 2,790,Auditor General,627,144,88,5,290,50,2,16,3,1,6,0,0,4,0,0,0,0,0
+Elizabeth Tp Ward 6 Dist 1,610,Auditor General,528,81,58,4,301,42,3,10,3,0,1,0,0,1,0,0,0,0,0
+Elizabeth Tp Ward 6 Dist 2,751,Auditor General,620,95,71,1,355,64,2,7,2,0,4,0,1,1,0,1,0,0,0
+Elizabeth Tp Ward 7,1231,Auditor General,1047,209,150,2,520,87,3,12,3,0,8,0,0,5,1,0,1,0,0
+Emsworth Dist 1,795,Auditor General,634,207,102,2,225,48,2,13,3,0,6,0,0,4,0,0,0,1,0
+Emsworth Dist 2,1006,Auditor General,778,244,133,4,263,65,3,27,4,0,9,3,0,2,1,0,0,1,0
+Etna Ward 1,828,Auditor General,632,248,87,5,207,30,1,13,4,1,4,1,0,0,0,0,2,1,0
+Etna Ward 2,688,Auditor General,488,158,96,7,151,35,3,7,2,0,2,3,0,1,1,0,1,0,0
+Etna Ward 3,714,Auditor General,567,187,76,5,222,35,1,13,0,0,8,2,0,1,1,0,0,0,0
+Fawn Dist 1,571,Auditor General,487,89,54,1,265,39,1,11,0,0,6,1,1,0,0,0,2,1,0
+Fawn Dist 2,948,Auditor General,800,135,108,4,424,68,3,14,2,0,9,1,0,0,0,0,2,0,0
+Findlay Dist 1,1800,Auditor General,1442,287,166,4,759,157,3,18,3,0,4,4,0,2,0,0,0,1,0
+Findlay Dist 2,2053,Auditor General,1671,389,261,8,746,172,6,21,6,0,7,2,1,3,0,0,0,1,0
+Findlay Dist 3,1293,Auditor General,1106,267,163,4,497,100,3,17,2,0,10,1,0,3,0,0,1,2,0
+Forest Hills Dist 1,626,Auditor General,550,229,157,1,108,31,1,4,0,0,1,2,0,2,0,0,1,0,0
+Forest Hills Dist 2,653,Auditor General,545,232,137,7,102,31,1,6,2,0,1,0,0,1,1,0,0,0,0
+Forest Hills Dist 3,643,Auditor General,536,198,137,6,134,28,3,5,1,0,6,0,0,2,0,0,0,0,1
+Forest Hills Dist 4,775,Auditor General,598,274,142,5,105,31,0,9,3,0,3,0,0,0,0,0,0,1,0
+Forest Hills Dist 5,710,Auditor General,604,242,130,3,148,42,0,12,1,0,5,0,0,0,0,0,1,0,0
+Forest Hills Dist 6,608,Auditor General,529,240,135,3,93,31,0,8,1,1,0,0,0,0,1,0,1,1,0
+Forest Hills Dist 7,773,Auditor General,527,284,96,5,81,14,3,9,1,0,5,0,0,2,0,0,2,0,0
+Forest Hills Dist 8,726,Auditor General,589,223,135,4,135,46,3,8,1,0,2,0,0,1,1,0,0,0,0
+Forward Dist 1,374,Auditor General,315,38,20,0,187,34,0,6,2,0,7,0,0,1,0,0,0,0,0
+Forward Dist 2,866,Auditor General,707,121,100,5,366,57,3,6,3,0,6,0,0,2,0,0,0,0,0
+Forward Dist 3,395,Auditor General,324,59,37,1,168,25,1,1,1,0,2,0,0,1,0,0,0,0,0
+Forward Dist 4,466,Auditor General,393,76,47,0,204,21,0,6,1,0,10,0,0,1,0,0,1,0,0
+Fox Chapel Dist 1,852,Auditor General,717,218,162,5,193,102,3,8,1,1,1,0,0,1,1,0,0,0,0
+Fox Chapel Dist 2,1020,Auditor General,837,245,189,4,247,107,0,6,5,0,1,0,0,0,1,0,0,1,0
+Fox Chapel Dist 3,752,Auditor General,632,190,135,4,185,85,1,2,5,0,1,1,0,0,0,0,0,0,0
+Fox Chapel Dist 4,1210,Auditor General,1000,329,233,7,270,110,1,7,5,1,0,0,0,1,0,0,0,0,0
+Fox Chapel Dist 5,963,Auditor General,770,165,138,5,260,150,3,7,4,0,0,0,0,0,0,0,0,0,0
+Franklin Pk Ward 1 Dist 1,1228,Auditor General,1042,219,172,2,433,152,3,9,9,0,6,5,0,2,0,0,0,0,0
+Franklin Pk Ward 1 Dist 2,1519,Auditor General,1253,258,301,8,421,198,9,11,2,1,1,3,0,1,1,0,2,2,0
+Franklin Pk Ward 1 Dist 3,1292,Auditor General,1081,269,239,0,350,164,3,13,8,0,3,2,0,1,0,0,1,0,0
+Franklin Pk Ward 2 Dist 1,1310,Auditor General,1144,275,241,7,396,163,3,13,4,0,8,0,0,1,0,0,1,0,0
+Franklin Pk Ward 2 Dist 2,1298,Auditor General,1092,188,298,4,353,205,4,9,1,0,2,1,0,0,0,0,0,0,0
+Franklin Pk Ward 2 Dist 3,1454,Auditor General,1271,342,252,3,415,192,2,12,7,1,7,0,0,2,1,0,4,0,0
+Franklin Pk Ward 3 Dist 1,1359,Auditor General,1132,226,253,5,379,220,3,8,5,0,2,1,0,1,0,0,0,0,0
+Franklin Pk Ward 3 Dist 2,778,Auditor General,677,171,128,0,262,69,3,11,6,0,6,2,0,0,2,0,0,0,0
+Franklin Pk Ward 3 Dist 3,1294,Auditor General,1122,257,247,6,390,178,3,7,1,0,1,0,0,2,0,0,0,0,0
+Frazer,826,Auditor General,726,113,93,2,416,49,3,12,1,0,5,1,0,1,1,0,0,0,0
+Glassport Dist 1,566,Auditor General,428,112,70,6,164,34,4,10,1,0,2,1,0,1,0,0,0,0,0
+Glassport Dist 2,409,Auditor General,232,74,22,9,83,11,1,2,2,0,6,1,0,2,0,0,0,1,0
+Glassport Dist 3,561,Auditor General,340,105,68,2,106,22,2,5,0,0,6,0,0,3,0,0,2,1,0
+Glassport Dist 4,260,Auditor General,159,45,20,0,71,7,0,3,0,0,1,0,0,2,0,0,0,0,0
+Glassport Dist 5,475,Auditor General,356,85,57,5,152,28,2,3,1,0,5,2,0,0,0,0,0,0,0
+Glassport Dist 6,438,Auditor General,317,92,33,8,115,33,2,8,0,0,1,0,0,4,0,0,1,0,0
+Glenfield,148,Auditor General,124,41,11,0,59,8,0,3,0,1,1,0,0,0,0,0,0,0,0
+Green Tree Dist 1,788,Auditor General,700,238,111,2,242,51,3,13,3,0,2,1,0,0,1,1,1,0,0
+Green Tree Dist 2,1066,Auditor General,931,284,167,4,338,74,1,17,3,0,5,0,0,1,1,0,1,0,0
+Green Tree Dist 3,1100,Auditor General,884,291,166,3,301,65,1,16,4,0,4,0,0,2,0,0,0,1,0
+Green Tree Dist 4,896,Auditor General,711,227,136,4,226,56,2,17,4,0,5,1,0,2,3,0,0,0,0
+Hampton Dist 1,1218,Auditor General,1051,236,189,4,403,160,5,10,4,0,7,0,0,0,2,0,0,0,0
+Hampton Dist 2,1302,Auditor General,1100,240,200,0,452,136,5,12,6,0,8,0,0,3,1,0,1,0,0
+Hampton Dist 3,1370,Auditor General,1164,253,255,7,405,177,0,20,5,0,7,1,0,1,0,0,0,0,0
+Hampton Dist 4,649,Auditor General,550,148,84,3,234,39,5,8,1,0,6,2,0,1,0,0,0,1,0
+Hampton Dist 5,707,Auditor General,603,173,110,4,206,78,5,6,1,0,1,1,0,1,0,0,1,0,0
+Hampton Dist 6,644,Auditor General,537,137,96,4,184,87,2,5,2,0,1,2,0,1,0,0,0,0,0
+Hampton Dist 7,1444,Auditor General,1224,274,220,1,456,187,5,9,9,1,5,3,0,0,0,0,1,1,0
+Hampton Dist 8,975,Auditor General,834,203,164,6,306,104,2,11,1,0,2,0,0,3,1,0,1,0,0
+Hampton Dist 9,1493,Auditor General,1330,291,224,1,554,178,2,19,2,0,9,1,0,1,0,0,2,0,0
+Hampton Dist 10,1604,Auditor General,1337,284,282,6,497,190,4,15,4,0,3,2,0,3,0,0,1,0,0
+Hampton Dist 11,1708,Auditor General,1497,382,266,6,578,180,4,18,3,1,7,4,0,3,1,0,0,0,0
+Hampton Dist 12,898,Auditor General,774,235,137,4,279,77,1,8,3,0,4,2,0,0,2,0,1,0,0
+Hampton Dist 13,766,Auditor General,665,164,129,2,241,75,1,7,2,1,4,2,0,1,0,0,0,0,0
+Harmar Dist 1,1269,Auditor General,1020,197,259,1,346,151,9,9,3,1,8,5,0,3,0,0,1,0,0
+Harmar Dist 2,670,Auditor General,507,113,80,2,204,56,6,12,3,0,3,0,0,4,0,1,0,1,0
+Harmar Dist 3,360,Auditor General,298,70,39,0,133,32,3,4,1,1,3,0,0,0,0,0,0,0,0
+Harrison Ward 1 Dist 1,293,Auditor General,259,70,28,0,116,26,1,3,0,1,4,0,0,0,0,0,2,0,0
+Harrison Ward 1 Dist 2,603,Auditor General,518,119,97,2,209,56,2,7,3,0,6,2,0,0,0,0,0,0,0
+Harrison Ward 1 Dist 3,727,Auditor General,592,149,78,2,280,39,3,14,1,0,7,0,0,0,0,0,1,0,0
+Harrison Ward 2 Dist 1,362,Auditor General,295,79,46,2,125,19,1,6,0,0,4,0,0,1,0,0,0,0,0
+Harrison Ward 2 Dist 2,577,Auditor General,379,116,49,3,159,20,3,10,2,0,3,0,0,5,0,0,1,0,0
+Harrison Ward 3 Dist 1,1078,Auditor General,929,199,172,4,402,90,6,12,3,0,3,2,0,3,0,0,3,0,0
+Harrison Ward 3 Dist 2,649,Auditor General,564,153,80,2,245,37,2,8,4,0,4,0,0,3,0,0,2,0,0
+Harrison Ward 4 Dist 1,710,Auditor General,593,139,81,1,289,42,0,12,2,0,5,1,0,0,0,0,0,0,0
+Harrison Ward 4 Dist 2,616,Auditor General,488,111,76,0,224,39,3,12,0,0,8,1,0,1,0,0,0,0,0
+Harrison Ward 5 Dist 1,521,Auditor General,317,113,60,2,93,21,1,5,0,0,1,1,0,6,1,0,1,1,0
+Harrison Ward 5 Dist 2,829,Auditor General,678,168,82,1,324,50,2,8,0,0,9,2,0,2,1,0,0,0,0
+Haysville,60,Auditor General,57,15,12,0,21,2,1,2,0,0,0,0,0,0,0,0,0,0,0
+Heidelberg,917,Auditor General,716,258,93,8,262,33,3,21,1,0,2,0,0,2,2,0,0,0,0
+Homestead Ward 1 Dist 1,571,Auditor General,339,147,81,5,55,18,0,3,0,1,3,0,0,3,1,0,1,0,0
+Homestead Ward 1 Dist 2,345,Auditor General,204,137,41,3,12,3,1,1,0,0,1,0,0,0,0,0,0,0,0
+Homestead Ward 2 Dist 1,470,Auditor General,284,162,59,11,26,3,1,2,0,2,3,1,0,3,0,0,1,0,0
+Homestead Ward 2 Dist 2,278,Auditor General,177,124,30,2,16,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Homestead Ward 3 Dist 1,439,Auditor General,247,161,31,7,24,3,0,5,0,0,4,1,0,0,0,1,0,2,0
+Homestead Ward 3 Dist 2,261,Auditor General,149,104,26,1,5,2,0,2,1,0,1,0,0,0,0,0,0,0,0
+Indiana Dist 1,970,Auditor General,815,213,119,5,336,80,8,15,1,0,4,1,0,3,1,0,0,0,0
+Indiana Dist 2,871,Auditor General,738,165,122,6,308,86,5,10,1,0,4,2,0,3,0,0,0,0,0
+Indiana Dist 3,1598,Auditor General,1305,309,217,4,527,142,2,22,7,0,9,1,0,3,2,0,0,0,0
+Indiana Dist 4,1199,Auditor General,1002,273,196,6,338,120,4,13,4,0,6,1,0,2,0,0,0,1,0
+Indiana Dist 5,1000,Auditor General,855,216,182,8,312,81,4,6,5,0,3,1,0,6,1,0,0,1,0
+Ingram Dist 1,844,Auditor General,671,244,113,8,197,33,0,25,2,0,10,0,0,3,0,0,2,0,0
+Ingram Dist 2,626,Auditor General,485,182,81,2,152,26,0,16,6,0,5,0,0,1,0,0,1,0,0
+Ingram Dist 3,921,Auditor General,767,276,126,3,241,48,3,18,4,0,17,3,0,5,0,0,0,0,0
+Jefferson Hl Dist 1,1199,Auditor General,1039,234,166,7,425,127,6,16,3,0,7,1,0,1,0,2,1,0,0
+Jefferson Hl Dist 2,934,Auditor General,793,139,91,6,407,90,5,13,5,0,3,0,0,1,1,0,0,1,0
+Jefferson Hl Dist 3,1160,Auditor General,911,184,163,3,368,116,4,10,6,0,7,0,1,2,0,0,2,0,0
+Jefferson Hl Dist 4,968,Auditor General,773,151,141,2,314,86,3,20,4,0,7,4,0,1,0,0,2,0,0
+Jefferson Hl Dist 5,1191,Auditor General,1021,181,168,6,440,176,5,8,3,0,2,1,0,3,0,0,2,1,0
+Jefferson Hl Dist 6,820,Auditor General,700,96,64,0,434,58,1,12,2,0,9,1,0,1,0,0,0,0,0
+Jefferson Hl Dist 7,673,Auditor General,587,85,73,3,301,92,4,8,1,0,1,0,0,2,0,0,0,0,0
+Jefferson Hl Dist 8,1077,Auditor General,945,217,161,4,370,123,4,8,2,0,7,0,0,5,0,0,0,0,0
+Jefferson Hl Dist 9,1101,Auditor General,975,181,192,3,397,143,5,9,1,0,2,3,0,4,2,0,0,0,0
+Kennedy Dist 1,1500,Auditor General,1310,327,234,3,502,145,3,16,2,0,6,0,1,5,3,0,1,0,0
+Kennedy Dist 2,988,Auditor General,774,210,174,8,266,68,2,5,1,0,7,0,0,2,0,0,1,0,0
+Kennedy Dist 3,988,Auditor General,843,208,161,2,332,71,1,9,3,0,5,3,0,3,1,0,0,0,0
+Kennedy Dist 4,455,Auditor General,388,112,77,2,129,37,1,4,0,0,3,2,0,2,0,0,1,0,0
+Kennedy Dist 5,1439,Auditor General,1246,330,209,4,494,111,7,18,2,0,4,0,0,5,1,0,2,0,0
+Kennedy Dist 6,949,Auditor General,747,203,153,3,281,50,3,9,1,0,3,1,0,4,0,0,0,1,0
+Kennedy Dist 7,564,Auditor General,502,133,90,2,199,46,4,9,0,1,0,0,0,1,0,0,0,0,0
+Kilbuck,608,Auditor General,525,154,92,1,184,54,0,6,0,0,4,1,0,0,3,0,0,0,0
+Leet Dist 1,423,Auditor General,344,121,45,2,134,13,0,17,1,0,2,1,0,0,1,0,1,0,0
+Leet Dist 2,796,Auditor General,668,184,134,4,227,82,1,14,1,0,1,1,0,0,1,1,0,0,0
+Leetsdale,841,Auditor General,635,232,83,4,220,41,3,9,4,0,5,0,0,5,0,0,2,0,0
+Liberty Dist 1,889,Auditor General,729,173,76,2,354,45,1,13,1,0,6,0,0,2,0,0,0,0,0
+Liberty Dist 2,783,Auditor General,650,162,63,2,327,34,1,12,2,0,10,1,0,2,0,0,1,0,1
+Lincoln,662,Auditor General,567,96,60,1,326,43,1,16,0,0,8,0,0,4,0,0,0,0,0
+Marshall Dist 1,971,Auditor General,780,157,169,0,283,116,5,12,3,0,3,2,0,1,1,0,0,0,0
+Marshall Dist 2,1306,Auditor General,1089,215,200,5,408,193,2,12,4,0,5,3,0,2,1,0,0,1,0
+Marshall Dist 3,837,Auditor General,675,141,152,2,213,130,2,5,2,0,3,1,0,1,0,0,0,0,0
+Marshall Dist 4,1211,Auditor General,1035,205,239,5,377,160,5,11,4,0,2,2,0,1,1,0,0,0,0
+Marshall Dist 5,983,Auditor General,814,183,169,4,266,129,5,8,9,1,6,2,0,0,1,0,1,2,0
+Marshall Dist 6,990,Auditor General,813,179,178,7,286,129,4,10,1,0,0,0,0,1,0,0,0,0,0
+Marshall Dist 7,1321,Auditor General,1014,200,201,2,365,184,2,7,7,0,4,1,0,2,0,0,0,3,0
+McCandless Ward 1 Dist 1,1165,Auditor General,967,200,216,2,340,162,0,12,2,0,1,0,0,1,0,0,1,2,0
+McCandless Ward 1 Dist 2,775,Auditor General,602,162,156,2,182,67,4,7,1,1,2,0,0,5,0,0,0,1,0
+McCandless Ward 1 Dist 3,1316,Auditor General,1012,216,228,9,331,154,4,22,3,1,4,2,0,1,0,0,1,0,0
+McCandless Ward 2 Dist 1,1404,Auditor General,1192,301,293,5,331,197,6,11,8,0,2,2,0,0,0,0,1,2,0
+McCandless Ward 2 Dist 2,877,Auditor General,769,158,151,2,306,113,3,6,4,1,2,3,0,0,0,0,0,0,0
+McCandless Ward 2 Dist 3,901,Auditor General,747,178,150,1,281,97,2,9,2,0,6,1,0,0,0,0,1,0,0
+McCandless Ward 3 Dist 1,951,Auditor General,814,232,187,0,271,83,2,8,4,0,1,0,0,4,1,0,0,0,0
+McCandless Ward 3 Dist 2,1067,Auditor General,909,231,166,5,340,114,4,14,4,0,2,2,0,1,0,0,2,0,0
+McCandless Ward 3 Dist 3,1110,Auditor General,960,215,195,2,356,138,5,6,5,0,4,2,0,1,0,0,0,0,0
+McCandless Ward 4 Dist 1,1483,Auditor General,1274,305,265,5,432,175,5,21,4,0,6,2,0,2,0,0,0,0,0
+McCandless Ward 4 Dist 2,977,Auditor General,811,223,154,8,305,72,1,10,0,0,6,5,0,3,0,0,0,0,0
+McCandless Ward 4 Dist 3,776,Auditor General,681,157,154,1,259,80,4,5,1,0,3,0,0,0,0,0,1,0,0
+McCandless Ward 5 Dist 1,896,Auditor General,772,202,111,3,305,111,0,10,2,0,1,0,0,0,0,0,0,0,0
+McCandless Ward 5 Dist 2,1484,Auditor General,1185,327,242,7,392,128,3,19,2,0,7,3,0,4,0,0,0,0,0
+McCandless Ward 5 Dist 3,1086,Auditor General,916,238,248,5,239,114,4,9,1,0,6,3,0,0,2,0,1,0,0
+McCandless Ward 6 Dist 1,475,Auditor General,406,81,106,0,144,51,0,4,2,0,1,1,1,0,1,0,0,0,0
+McCandless Ward 6 Dist 2,1044,Auditor General,895,199,195,1,317,122,3,15,5,0,4,2,0,0,2,0,0,0,0
+McCandless Ward 6 Dist 3,1885,Auditor General,1615,340,407,5,478,282,4,20,8,0,3,2,0,4,3,1,0,0,0
+McCandless Ward 7 Dist 1,1625,Auditor General,1334,303,336,5,398,218,2,17,5,0,5,1,0,2,0,0,3,0,0
+McCandless Ward 7 Dist 2,1044,Auditor General,900,206,229,2,284,122,2,10,2,0,3,3,0,2,1,0,1,2,0
+McCandless Ward 7 Dist 3,535,Auditor General,466,121,95,0,148,78,0,7,4,0,1,1,0,0,0,0,1,0,0
+McDonald,240,Auditor General,184,33,17,0,109,14,0,3,0,0,6,0,0,0,0,0,0,0,0
+McKeesport Ward 1,13,Auditor General,7,5,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+McKeesport Ward 2,217,Auditor General,74,30,17,3,11,2,0,1,0,0,1,0,0,1,0,0,1,0,0
+McKeesport Ward 3 Dist 1,299,Auditor General,152,89,21,0,4,15,0,3,0,0,1,6,0,1,0,0,0,0,0
+McKeesport Ward 3 Dist 2,105,Auditor General,57,36,16,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+McKeesport Ward 4,317,Auditor General,113,61,23,2,11,2,0,0,0,0,1,1,0,0,1,0,0,0,1
+McKeesport Ward 5,480,Auditor General,204,109,37,4,19,7,2,1,0,1,5,1,0,0,0,0,0,0,0
+McKeesport Ward 6 Dist 1,327,Auditor General,151,63,31,8,26,5,0,6,1,0,2,0,0,1,0,0,0,0,0
+McKeesport Ward 6 Dist 2,287,Auditor General,144,74,21,3,21,4,0,3,1,0,3,0,0,0,1,0,0,0,0
+McKeesport Ward 7 Dist 1,462,Auditor General,264,149,52,4,15,15,0,4,0,0,3,0,0,1,0,0,1,0,0
+McKeesport Ward 7 Dist 2,270,Auditor General,156,96,30,4,5,2,2,1,0,2,0,0,0,0,1,0,0,0,0
+McKeesport Ward 7 Dist 3,311,Auditor General,173,99,18,4,27,5,1,4,0,0,4,1,0,0,0,0,0,1,0
+McKeesport Ward 7 Dist 4,403,Auditor General,204,99,24,10,34,14,1,2,1,0,2,1,0,2,0,0,1,0,0
+McKeesport Ward 7 Dist 5,535,Auditor General,305,141,48,10,51,15,1,5,0,1,2,1,0,5,0,0,2,0,0
+McKeesport Ward 7 Dist 6,425,Auditor General,242,136,30,7,43,7,0,2,1,0,3,0,0,0,0,0,0,0,0
+McKeesport Ward 7 Dist 7,327,Auditor General,181,103,41,12,13,1,0,2,0,0,2,1,0,0,0,0,0,0,0
+McKeesport Ward 8 Dist 1,267,Auditor General,172,49,24,5,63,3,2,7,0,0,3,1,0,1,0,0,0,0,0
+McKeesport Ward 8 Dist 2,531,Auditor General,350,129,81,3,77,17,2,8,3,0,6,0,0,3,0,0,0,0,0
+McKeesport Ward 8 Dist 3,498,Auditor General,285,143,44,14,38,9,0,3,0,0,5,0,0,0,0,0,0,0,0
+McKeesport Ward 8 Dist 4,462,Auditor General,324,114,48,5,95,35,4,6,2,0,1,2,0,1,0,0,0,0,0
+McKeesport Ward 8 Dist 5,511,Auditor General,186,100,36,7,15,2,0,4,0,1,4,1,0,3,1,0,0,0,0
+McKeesport Ward 8 Dist 6,202,Auditor General,135,41,19,1,45,13,0,1,0,1,0,0,0,1,0,0,0,0,0
+McKeesport Ward 9 Dist 1,475,Auditor General,312,112,46,4,92,20,1,5,0,1,5,2,0,2,1,0,0,0,0
+McKeesport Ward 9 Dist 2,572,Auditor General,372,176,39,11,104,13,2,3,0,0,4,3,0,2,0,1,0,0,0
+McKeesport Ward 9 Dist 3,387,Auditor General,254,103,47,7,52,23,0,9,3,0,1,1,0,0,0,0,0,0,0
+McKeesport Ward 10 Dist 1,277,Auditor General,149,60,16,3,45,3,0,4,0,0,1,0,0,2,0,0,0,0,0
+McKeesport Ward 10 Dist 2,312,Auditor General,206,61,34,2,75,14,0,5,1,0,1,0,0,0,0,0,0,0,0
+McKeesport Ward 11 Dist 1,428,Auditor General,288,109,34,3,90,14,2,3,0,0,5,3,1,1,1,0,0,0,0
+McKeesport Ward 11 Dist 2,377,Auditor General,267,80,29,4,96,22,1,4,1,0,3,2,0,2,0,0,0,0,0
+McKeesport Ward 11 Dist 3,264,Auditor General,184,67,49,0,33,16,1,3,0,0,2,0,0,1,0,0,0,0,0
+McKeesport Ward 12 Dist 1,334,Auditor General,238,56,43,3,93,15,0,4,0,0,5,0,1,2,0,0,0,0,0
+McKeesport Ward 12 Dist 2,370,Auditor General,282,85,38,0,104,27,0,6,0,0,2,0,0,0,0,0,1,0,0
+McKeesport Ward 12 Dist 3,556,Auditor General,475,132,93,2,173,30,1,5,0,0,5,1,0,0,1,0,1,0,0
+McKees Rocks Ward 1 Dist 1,179,Auditor General,31,19,5,2,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+McKees Rocks Ward 1 Dist 2,523,Auditor General,281,141,53,6,38,19,1,3,0,1,5,4,0,0,1,0,0,0,1
+McKees Rocks Ward 2 Dist 1,659,Auditor General,327,151,54,8,76,11,1,6,1,1,4,0,0,1,0,0,0,0,0
+McKees Rocks Ward 2 Dist 2,591,Auditor General,301,156,35,2,68,12,1,6,1,0,4,0,1,1,0,0,0,0,0
+McKees Rocks Ward 3 Dist 1,762,Auditor General,494,176,90,16,135,30,4,8,1,0,2,0,1,3,1,0,0,0,0
+McKees Rocks Ward 3 Dist 2,534,Auditor General,272,107,57,7,62,11,3,3,0,0,5,0,1,2,0,0,1,0,0
+McKees Rocks Ward 3 Dist 3,511,Auditor General,286,134,41,5,64,19,1,3,2,0,2,0,0,2,0,0,0,0,0
+Millvale Dist 1,510,Auditor General,357,158,70,2,76,16,1,10,2,0,4,0,0,3,0,0,2,0,0
+Millvale Dist 2,463,Auditor General,334,127,37,0,124,11,1,10,0,0,6,1,0,0,0,0,1,0,0
+Millvale Dist 3,453,Auditor General,334,149,72,1,64,17,0,5,1,0,4,1,0,2,0,0,3,0,0
+Millvale Dist 4,452,Auditor General,325,134,44,3,98,19,1,6,1,0,0,0,0,1,0,0,0,1,0
+Millvale Dist 5,521,Auditor General,401,161,72,2,99,25,0,9,0,0,5,3,0,2,0,0,2,1,0
+Monroeville Ward 1 Dist 1,703,Auditor General,540,176,87,0,192,38,1,10,0,0,2,1,0,2,0,0,1,0,0
+Monroeville Ward 1 Dist 2,636,Auditor General,535,132,105,7,219,38,0,8,1,0,3,2,0,1,0,0,0,0,0
+Monroeville Ward 1 Dist 3,802,Auditor General,678,218,150,4,190,68,1,7,4,0,2,1,0,1,1,0,0,0,0
+Monroeville Ward 1 Dist 4,918,Auditor General,608,227,146,10,138,38,1,8,3,0,3,1,0,0,2,0,0,0,0
+Monroeville Ward 2 Dist 1,956,Auditor General,795,263,140,1,258,66,2,14,2,0,5,1,1,3,0,0,1,2,0
+Monroeville Ward 2 Dist 2,979,Auditor General,818,270,190,4,227,75,0,13,3,1,4,0,0,1,0,0,0,0,0
+Monroeville Ward 2 Dist 3,1094,Auditor General,896,258,198,5,290,97,3,8,3,0,5,1,0,2,1,0,0,0,0
+Monroeville Ward 3 Dist 1,1192,Auditor General,954,199,230,5,326,128,6,7,6,1,6,2,0,1,0,0,0,1,0
+Monroeville Ward 3 Dist 2,650,Auditor General,537,146,90,2,218,39,3,5,2,0,5,1,0,1,1,0,0,0,0
+Monroeville Ward 3 Dist 3,989,Auditor General,817,230,168,3,294,81,1,3,3,0,4,0,0,5,0,0,0,1,0
+Monroeville Ward 3 Dist 4,448,Auditor General,383,117,72,0,117,43,0,5,1,1,5,0,0,0,0,0,1,0,0
+Monroeville Ward 4 Dist 1,676,Auditor General,570,162,103,1,205,61,0,9,1,0,2,0,1,1,0,0,2,0,0
+Monroeville Ward 4 Dist 2,1058,Auditor General,845,260,168,7,279,77,2,10,1,1,3,3,0,1,0,0,2,1,0
+Monroeville Ward 4 Dist 3,1006,Auditor General,847,260,140,5,312,59,2,18,5,1,4,6,0,1,1,0,0,0,0
+Monroeville Ward 5 Dist 1,613,Auditor General,510,138,84,1,207,45,0,12,1,0,2,1,1,0,0,0,0,0,0
+Monroeville Ward 5 Dist 2,891,Auditor General,568,207,156,5,118,42,1,5,2,0,4,2,0,1,1,0,0,0,0
+Monroeville Ward 5 Dist 3,1005,Auditor General,762,217,200,9,211,78,2,10,1,0,4,2,0,1,1,0,0,0,0
+Monroeville Ward 5 Dist 4,653,Auditor General,433,168,89,4,112,29,3,6,1,0,3,3,0,0,0,0,1,0,0
+Monroeville Ward 6 Dist 1,835,Auditor General,671,204,133,4,228,48,2,8,5,0,7,1,0,1,0,0,3,0,0
+Monroeville Ward 6 Dist 2,879,Auditor General,668,212,150,6,178,67,2,9,3,0,2,2,0,4,0,0,1,0,0
+Monroeville Ward 6 Dist 3,1087,Auditor General,676,265,130,15,177,35,3,7,3,0,3,1,1,1,0,1,1,0,0
+Monroeville Ward 6 Dist 4,377,Auditor General,250,83,80,5,38,25,1,4,1,0,3,0,0,0,1,0,0,0,0
+Monroeville Ward 7 Dist 1,1561,Auditor General,1278,431,311,12,329,111,4,22,3,0,6,1,0,1,1,2,1,2,0
+Monroeville Ward 7 Dist 2,840,Auditor General,667,283,131,8,161,50,0,6,2,0,2,2,0,0,0,0,1,0,0
+Monroeville Ward 7 Dist 3,705,Auditor General,550,183,124,7,170,34,2,5,1,1,2,0,0,0,1,0,0,1,0
+Moon Dist 1,892,Auditor General,528,137,76,4,226,55,1,7,0,0,0,0,1,0,0,0,2,0,0
+Moon Dist 2,1045,Auditor General,864,203,176,1,326,102,6,12,4,0,5,0,1,1,0,0,0,0,0
+Moon Dist 3,1173,Auditor General,847,256,153,5,296,68,7,17,1,0,3,1,0,4,1,0,0,1,0
+Moon Dist 4,1206,Auditor General,1037,223,231,5,394,120,2,16,11,0,3,0,0,1,1,0,1,0,0
+Moon Dist 5,1664,Auditor General,1393,284,276,5,559,177,5,18,6,0,5,3,0,2,3,0,2,0,0
+Moon Dist 6,1748,Auditor General,1400,309,245,8,546,193,8,16,6,1,5,3,1,1,1,0,0,2,0
+Moon Dist 7,1239,Auditor General,897,233,178,7,327,85,11,11,4,0,4,0,0,3,0,0,2,0,0
+Moon Dist 8,1314,Auditor General,1086,236,230,1,430,108,4,16,4,0,7,2,0,3,1,0,0,0,0
+Moon Dist 9,1130,Auditor General,874,171,155,6,342,131,2,21,7,0,5,3,0,3,0,0,1,0,0
+Moon Dist 10,1232,Auditor General,1030,229,218,6,382,131,3,14,6,0,6,1,0,3,1,0,0,0,0
+Moon Dist 11,1179,Auditor General,963,146,183,3,411,162,6,12,4,0,5,2,0,0,0,0,0,0,0
+Moon Dist 12,1117,Auditor General,945,261,151,5,361,118,4,6,2,0,3,0,0,0,1,0,0,1,0
+Moon Dist 13,1303,Auditor General,1100,240,205,15,414,163,4,17,2,0,2,2,0,2,0,0,0,1,0
+Moon Dist 14,810,Auditor General,549,122,133,4,184,54,2,5,6,0,7,3,0,1,1,0,0,0,0
+Moon Dist 15,1058,Auditor General,848,248,152,7,294,83,5,13,1,0,2,2,1,3,1,0,1,0,0
+Moon Dist 16,1193,Auditor General,1010,248,167,5,373,149,11,16,2,0,2,0,0,1,2,0,0,0,0
+Mt Lebanon Ward 1 Dist 1,847,Auditor General,711,191,168,4,185,126,0,5,3,0,3,0,0,1,0,0,1,0,0
+Mt Lebanon Ward 1 Dist 2,634,Auditor General,512,236,104,4,102,26,1,10,0,0,3,1,1,0,0,0,1,0,0
+Mt Lebanon Ward 1 Dist 3,643,Auditor General,567,226,129,4,119,53,2,11,2,0,1,0,0,1,0,0,1,0,0
+Mt Lebanon Ward 1 Dist 4,782,Auditor General,657,237,163,4,154,64,1,8,3,0,3,0,0,0,1,0,1,0,0
+Mt Lebanon Ward 1 Dist 5,617,Auditor General,536,198,132,1,133,43,3,4,2,0,0,0,0,0,0,0,1,0,0
+Mt Lebanon Ward 1 Dist 6,1061,Auditor General,886,286,223,7,188,131,2,10,2,0,2,2,1,0,0,0,0,0,0
+Mt Lebanon Ward 1 Dist 7,774,Auditor General,622,246,153,4,131,45,3,17,2,1,2,3,0,0,0,0,1,0,0
+Mt Lebanon Ward 2 Dist 1,998,Auditor General,856,294,225,4,187,105,0,7,2,1,3,0,0,1,0,0,0,0,0
+Mt Lebanon Ward 2 Dist 2,645,Auditor General,524,197,120,2,113,56,2,8,3,0,4,1,0,0,0,0,0,0,0
+Mt Lebanon Ward 2 Dist 3,697,Auditor General,567,201,165,0,117,54,1,6,0,0,3,1,0,0,0,0,1,0,0
+Mt Lebanon Ward 2 Dist 4,559,Auditor General,458,157,127,2,109,39,0,6,1,0,2,0,0,0,0,0,0,0,0
+Mt Lebanon Ward 2 Dist 5,594,Auditor General,499,171,109,6,130,43,2,4,1,0,2,0,0,0,0,0,0,1,0
+Mt Lebanon Ward 2 Dist 6,600,Auditor General,519,177,98,0,161,51,0,10,2,0,2,1,0,1,0,0,1,0,0
+Mt Lebanon Ward 2 Dist 7,671,Auditor General,568,218,123,1,150,36,2,10,3,0,3,1,0,1,0,0,1,0,0
+Mt Lebanon Ward 2 Dist 8,957,Auditor General,791,188,264,6,150,132,2,3,2,1,1,3,0,1,0,0,2,1,0
+Mt Lebanon Ward 3 Dist 1,686,Auditor General,572,195,122,2,130,95,1,2,1,0,2,1,0,0,0,1,1,0,0
+Mt Lebanon Ward 3 Dist 2,911,Auditor General,782,328,146,3,201,56,3,11,2,0,6,0,2,0,0,0,0,0,0
+Mt Lebanon Ward 3 Dist 3,702,Auditor General,598,191,129,3,160,72,3,5,0,0,0,1,0,0,0,0,1,0,0
+Mt Lebanon Ward 3 Dist 4,719,Auditor General,566,191,135,6,144,49,1,12,2,0,4,1,0,0,0,0,0,0,0
+Mt Lebanon Ward 3 Dist 5,745,Auditor General,647,225,133,2,156,72,4,12,2,0,4,1,0,2,0,0,0,1,0
+Mt Lebanon Ward 3 Dist 6,471,Auditor General,409,156,101,2,101,21,0,3,3,0,1,1,0,0,0,0,0,0,0
+Mt Lebanon Ward 3 Dist 7,886,Auditor General,746,189,196,2,192,115,1,6,4,0,8,3,0,4,0,0,0,0,0
+Mt Lebanon Ward 3 Dist 8,322,Auditor General,278,92,51,3,87,26,1,5,2,0,0,0,0,0,0,0,1,1,0
+Mt Lebanon Ward 4 Dist 1,800,Auditor General,629,247,149,5,144,51,1,10,3,0,1,1,0,0,0,0,0,0,0
+Mt Lebanon Ward 4 Dist 2,912,Auditor General,740,301,168,4,190,40,1,11,1,0,5,1,0,1,2,0,1,0,0
+Mt Lebanon Ward 4 Dist 3,668,Auditor General,533,222,112,2,119,41,3,4,1,1,2,0,0,0,1,0,0,0,0
+Mt Lebanon Ward 4 Dist 4,678,Auditor General,583,193,130,0,165,57,0,11,3,0,0,0,0,0,0,0,0,0,0
+Mt Lebanon Ward 4 Dist 5,646,Auditor General,558,231,104,3,157,39,1,3,2,0,2,0,0,0,0,0,0,0,0
+Mt Lebanon Ward 4 Dist 6,702,Auditor General,592,235,123,0,158,43,0,2,3,0,3,0,0,1,0,0,1,0,0
+Mt Lebanon Ward 4 Dist 7,938,Auditor General,795,249,237,2,152,95,1,9,6,0,7,1,0,3,0,0,1,0,0
+Mt Lebanon Ward 5 Dist 1,600,Auditor General,515,159,139,5,145,44,0,3,2,0,2,0,0,0,0,0,1,0,0
+Mt Lebanon Ward 5 Dist 2,449,Auditor General,315,108,80,2,72,29,2,4,2,0,1,2,0,0,0,0,0,1,0
+Mt Lebanon Ward 5 Dist 3,606,Auditor General,499,182,128,3,105,51,2,5,0,0,6,0,0,1,0,0,0,0,0
+Mt Lebanon Ward 5 Dist 4,635,Auditor General,539,212,122,1,140,42,2,8,0,0,1,1,0,0,0,0,0,0,0
+Mt Lebanon Ward 5 Dist 5,642,Auditor General,558,212,137,2,113,64,2,8,1,0,1,0,0,1,0,0,0,0,0
+Mt Lebanon Ward 5 Dist 6,473,Auditor General,407,160,100,1,94,30,2,3,1,0,1,0,0,1,0,0,2,0,0
+Mt Lebanon Ward 5 Dist 7,842,Auditor General,710,262,209,3,148,53,1,9,4,0,1,0,0,0,0,0,1,0,0
+Mt Lebanon Ward 5 Dist 8,955,Auditor General,739,288,215,8,144,43,4,8,1,0,4,0,0,0,0,0,2,0,0
+Mt Oliver Dist 1,722,Auditor General,371,174,64,17,59,12,7,3,4,1,5,1,1,3,1,0,1,0,1
+Mt Oliver Dist 2,782,Auditor General,440,202,78,8,73,28,4,8,2,1,3,2,0,4,1,0,0,0,0
+Mt Oliver Dist 3,522,Auditor General,311,168,36,4,62,14,1,4,1,0,5,0,0,3,0,0,0,0,0
+Mt Oliver Dist 4,307,Auditor General,197,88,35,5,43,8,1,5,1,0,2,1,0,0,0,0,0,0,0
+Munhall Dist 1,472,Auditor General,295,95,67,5,91,16,0,4,1,0,0,0,0,2,1,0,2,0,0
+Munhall Dist 2,520,Auditor General,327,146,67,7,51,10,2,7,1,0,5,3,0,0,0,0,2,0,0
+Munhall Dist 3,523,Auditor General,324,204,42,7,51,3,1,1,0,0,1,1,0,0,2,0,0,0,1
+Munhall Dist 4,414,Auditor General,272,134,52,6,38,16,1,5,0,0,1,1,0,2,3,0,0,0,1
+Munhall Dist 5,759,Auditor General,588,222,96,9,175,34,3,9,3,0,6,1,0,1,0,0,0,0,0
+Munhall Dist 6,724,Auditor General,595,187,101,3,200,33,2,9,1,0,11,1,0,2,1,0,1,0,0
+Munhall Dist 7,1131,Auditor General,894,286,191,5,254,62,3,22,2,0,11,2,0,5,2,0,1,0,0
+Munhall Dist 8,669,Auditor General,573,195,78,4,213,42,3,10,1,0,0,1,0,2,0,0,0,0,0
+Munhall Dist 9,724,Auditor General,545,188,98,2,166,46,3,10,0,0,4,0,0,1,3,0,0,0,0
+Munhall Dist 10,514,Auditor General,404,123,71,4,136,20,2,6,0,0,5,0,0,2,0,0,0,1,0
+Munhall Dist 11,953,Auditor General,820,268,138,6,278,58,3,9,5,0,7,1,0,0,0,0,1,0,0
+Munhall Dist 12,554,Auditor General,481,147,62,2,192,34,1,5,2,0,10,1,0,1,0,0,0,0,0
+Neville Ward 1,263,Auditor General,192,63,16,0,85,10,0,1,3,0,0,2,0,0,1,0,1,0,0
+Neville Ward 2,210,Auditor General,137,45,14,0,52,13,0,1,0,0,0,0,0,1,0,0,0,0,0
+Neville Ward 3,261,Auditor General,218,74,38,3,69,12,0,6,1,1,3,0,0,0,0,0,0,0,0
+N Braddock Ward 1 Dist 1,232,Auditor General,191,59,55,3,32,28,1,4,1,0,2,0,0,0,0,0,0,1,0
+N Braddock Ward 1 Dist 2,479,Auditor General,338,159,48,4,67,29,1,5,0,0,3,0,1,4,1,0,0,0,0
+N Braddock Ward 1 Dist 3,471,Auditor General,283,153,46,6,48,9,0,3,1,0,4,1,0,1,0,0,0,0,0
+N Braddock Ward 2 Dist 1,444,Auditor General,235,134,35,4,35,4,0,3,0,1,2,1,0,5,0,0,1,0,0
+N Braddock Ward 2 Dist 2,548,Auditor General,348,158,84,6,63,19,1,5,0,0,2,0,0,1,0,0,0,0,0
+N Braddock Ward 3 Dist 1,419,Auditor General,218,135,48,7,8,3,1,2,0,0,1,0,0,1,0,0,0,0,0
+N Braddock Ward 3 Dist 2,471,Auditor General,233,153,41,11,12,7,1,1,0,0,0,0,1,1,0,0,0,0,0
+N Fayette Dist 1,2253,Auditor General,1885,310,368,6,786,292,7,23,9,1,8,3,0,3,2,0,0,0,0
+N Fayette Dist 2,2567,Auditor General,1916,417,400,20,680,254,24,24,8,0,11,3,0,4,0,0,4,0,1
+N Fayette Dist 3,2448,Auditor General,1914,400,399,12,705,268,16,22,8,0,11,2,1,3,1,1,1,0,0
+N Fayette Dist 4,1242,Auditor General,892,142,169,14,394,96,18,12,1,0,6,0,0,4,1,1,0,0,0
+N Fayette Dist 5,3294,Auditor General,2656,497,518,12,1068,386,13,34,9,0,10,10,0,2,2,0,2,1,0
+N Versailles Ward 1 Dist 1,677,Auditor General,512,151,82,4,180,43,4,9,3,0,6,1,0,1,0,0,0,0,0
+N Versailles Ward 1 Dist 2,646,Auditor General,525,179,73,1,215,20,3,6,1,0,5,2,0,1,0,0,0,0,0
+N Versailles Ward 2 Dist 1,668,Auditor General,500,171,74,4,175,26,4,11,2,0,5,1,1,2,1,0,1,1,0
+N Versailles Ward 2 Dist 2,206,Auditor General,148,46,43,2,41,9,0,0,1,0,0,0,0,0,0,0,0,0,0
+N Versailles Ward 3 Dist 1,518,Auditor General,414,111,83,0,150,35,1,3,3,0,3,0,0,0,0,0,0,0,0
+N Versailles Ward 3 Dist 2,617,Auditor General,460,101,106,9,157,42,2,8,1,0,3,1,0,1,0,0,0,1,0
+N Versailles Ward 4 Dist 1,511,Auditor General,375,123,49,5,133,28,1,9,0,0,8,1,0,0,0,0,0,0,0
+N Versailles Ward 4 Dist 2,418,Auditor General,321,106,36,1,120,34,1,3,2,0,6,2,0,1,1,0,0,0,0
+N Versailles Ward 5 Dist 1,520,Auditor General,309,110,55,2,95,14,1,3,2,0,3,0,0,3,0,0,0,0,0
+N Versailles Ward 5 Dist 2,370,Auditor General,213,72,43,2,66,13,3,0,0,0,2,0,0,1,0,0,0,0,0
+N Versailles Ward 6 Dist 1,647,Auditor General,529,123,99,3,236,35,1,7,3,0,4,0,0,0,0,0,0,0,0
+N Versailles Ward 6 Dist 2,549,Auditor General,457,104,87,1,182,37,3,9,0,0,5,4,0,1,0,0,0,0,0
+N Versailles Ward 7,623,Auditor General,418,218,85,7,65,22,0,5,0,0,2,0,0,4,0,0,0,0,0
+Oakdale Dist 1,615,Auditor General,506,174,58,1,210,27,2,5,1,0,5,4,0,1,0,0,0,0,0
+Oakdale Dist 2,447,Auditor General,377,79,68,0,169,38,1,4,1,0,3,0,0,3,0,0,0,0,0
+Oakmont Dist 1,869,Auditor General,749,254,139,4,224,78,2,9,3,0,2,1,0,4,0,0,0,1,0
+Oakmont Dist 2,1079,Auditor General,899,231,205,2,277,127,2,3,3,0,1,3,0,0,0,0,0,0,0
+Oakmont Dist 3,763,Auditor General,616,216,89,8,208,43,8,8,1,0,5,1,0,3,0,0,1,0,0
+Oakmont Dist 4,874,Auditor General,736,256,125,3,221,67,1,16,1,1,3,0,0,1,0,0,0,0,0
+Oakmont Dist 5,666,Auditor General,548,212,93,2,182,22,2,8,1,0,5,1,0,1,0,0,0,1,0
+Oakmont Dist 6,1312,Auditor General,1092,279,261,3,326,139,2,13,3,1,10,4,0,2,1,0,1,0,0
+O'Hara Ward 1 Dist 1,861,Auditor General,647,153,185,4,168,85,4,4,1,0,3,1,0,1,1,0,1,0,0
+O'Hara Ward 1 Dist 2,651,Auditor General,540,169,107,1,166,50,6,11,2,0,2,0,0,1,0,0,1,0,0
+O'Hara Ward 2 Dist 1,630,Auditor General,544,197,121,0,150,43,1,8,1,0,3,3,0,2,0,0,1,0,0
+O'Hara Ward 2 Dist 2,940,Auditor General,784,213,195,0,226,99,0,10,3,0,7,0,0,2,0,0,2,1,0
+O'Hara Ward 3 Dist 1,868,Auditor General,745,245,169,4,210,68,1,9,2,0,4,2,0,1,0,0,0,0,0
+O'Hara Ward 3 Dist 2,553,Auditor General,466,135,69,0,189,35,0,6,3,0,2,2,0,1,1,0,0,0,0
+O'Hara Ward 4 Dist 1,844,Auditor General,682,199,204,4,156,67,2,7,0,0,5,0,0,1,2,0,0,0,0
+O'Hara Ward 4 Dist 2,620,Auditor General,543,192,159,3,108,53,0,4,3,0,2,0,0,0,0,0,0,0,0
+O'Hara Ward 5 Dist 1,772,Auditor General,670,180,171,4,189,76,3,8,4,0,1,2,1,1,0,0,0,0,0
+O'Hara Ward 5 Dist 2,919,Auditor General,780,243,210,3,187,78,2,15,6,0,1,1,0,0,0,0,0,0,0
+Ohio Dist 1,1704,Auditor General,1466,320,316,6,559,175,7,17,8,1,3,2,0,1,0,0,3,0,0
+Ohio Dist 2,1840,Auditor General,1619,330,386,5,552,251,2,12,6,0,14,1,0,1,0,0,0,0,0
+Ohio Dist 3,2162,Auditor General,1789,493,384,5,566,229,5,25,9,0,8,0,0,4,0,0,1,0,0
+Glen Osborne,478,Auditor General,399,135,73,0,136,34,0,7,1,0,1,0,0,0,0,0,0,0,0
+Penn Hills Ward 1 Dist 1,707,Auditor General,479,246,177,9,25,7,2,2,1,0,1,0,0,1,1,0,0,0,0
+Penn Hills Ward 1 Dist 2,736,Auditor General,524,273,176,10,26,15,1,3,1,0,3,1,0,1,0,0,0,0,0
+Penn Hills Ward 1 Dist 3,479,Auditor General,301,174,93,9,12,2,0,0,0,0,1,0,0,0,1,0,0,0,0
+Penn Hills Ward 1 Dist 4,338,Auditor General,203,113,64,5,9,2,0,1,2,0,0,1,0,0,0,0,0,0,0
+Penn Hills Ward 1 Dist 5,192,Auditor General,118,73,38,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Penn Hills Ward 2 Dist 1,695,Auditor General,473,237,159,6,26,21,0,5,0,0,0,0,0,3,2,0,2,1,0
+Penn Hills Ward 2 Dist 2,768,Auditor General,484,271,135,7,28,10,2,3,0,0,2,0,0,1,0,0,1,0,0
+Penn Hills Ward 2 Dist 3,898,Auditor General,628,343,158,9,61,24,1,5,1,1,4,0,0,2,1,0,0,0,0
+Penn Hills Ward 2 Dist 4,591,Auditor General,479,226,158,3,51,16,0,5,0,0,0,2,0,5,0,0,1,0,0
+Penn Hills Ward 3 Dist 1,768,Auditor General,601,205,160,4,123,58,4,6,1,0,5,3,0,1,0,0,2,0,0
+Penn Hills Ward 3 Dist 2,499,Auditor General,392,205,90,5,43,23,0,1,3,1,5,3,0,3,0,0,2,1,0
+Penn Hills Ward 3 Dist 3,634,Auditor General,470,191,162,5,49,32,0,5,2,0,1,0,0,1,0,0,0,0,0
+Penn Hills Ward 3 Dist 4,824,Auditor General,589,241,188,5,82,42,0,7,4,0,1,1,0,0,0,0,0,1,0
+Penn Hills Ward 3 Dist 5,448,Auditor General,299,156,63,7,29,20,2,6,0,0,2,0,0,2,0,0,0,0,1
+Penn Hills Ward 3 Dist 6,470,Auditor General,328,141,65,3,74,18,0,5,2,0,2,0,0,1,0,0,0,0,0
+Penn Hills Ward 4 Dist 1,565,Auditor General,438,194,121,0,60,24,1,11,0,0,3,2,0,1,0,1,0,0,0
+Penn Hills Ward 4 Dist 2,721,Auditor General,545,239,139,6,88,28,0,15,3,0,0,0,0,4,0,0,0,0,0
+Penn Hills Ward 4 Dist 3,751,Auditor General,571,219,149,7,120,40,4,9,2,0,2,0,0,2,0,1,1,0,0
+Penn Hills Ward 4 Dist 4,638,Auditor General,479,200,133,12,78,30,4,2,1,0,2,1,0,3,2,0,0,0,0
+Penn Hills Ward 4 Dist 5,640,Auditor General,474,196,130,9,87,24,2,6,0,0,2,0,0,0,0,0,1,0,0
+Penn Hills Ward 5 Dist 1,703,Auditor General,502,226,116,14,88,34,2,5,0,1,2,2,0,1,0,0,1,1,0
+Penn Hills Ward 5 Dist 2,614,Auditor General,426,193,100,6,77,25,2,3,1,0,3,0,0,0,0,0,0,0,0
+Penn Hills Ward 5 Dist 3,684,Auditor General,539,214,123,14,122,36,1,3,1,0,1,1,0,1,0,0,0,0,0
+Penn Hills Ward 5 Dist 4,613,Auditor General,501,164,133,6,105,55,4,6,1,0,7,0,0,0,1,0,1,0,0
+Penn Hills Ward 5 Dist 5,542,Auditor General,436,187,113,4,85,20,1,7,2,0,3,1,0,1,0,0,0,0,0
+Penn Hills Ward 5 Dist 6,739,Auditor General,562,206,135,12,126,47,2,9,2,0,2,0,0,1,0,0,0,0,0
+Penn Hills Ward 6 Dist 1,562,Auditor General,413,157,73,7,119,25,0,4,2,0,5,2,0,2,0,0,0,1,0
+Penn Hills Ward 6 Dist 2,670,Auditor General,500,256,98,3,78,30,2,4,4,0,3,0,0,2,2,0,1,1,0
+Penn Hills Ward 6 Dist 3,521,Auditor General,405,196,97,2,66,24,0,3,0,0,3,1,0,1,0,0,0,0,0
+Penn Hills Ward 6 Dist 4,579,Auditor General,380,204,99,2,42,11,0,6,0,0,0,1,0,2,0,0,0,0,0
+Penn Hills Ward 6 Dist 5,608,Auditor General,442,206,124,9,54,25,0,6,1,0,5,0,0,1,0,0,1,0,0
+Penn Hills Ward 6 Dist 6,549,Auditor General,420,176,95,3,75,36,1,5,1,0,7,0,0,0,1,0,1,0,0
+Penn Hills Ward 7 Dist 1,648,Auditor General,496,247,129,3,71,18,0,5,0,0,1,0,0,3,0,0,0,0,0
+Penn Hills Ward 7 Dist 2,683,Auditor General,486,124,121,7,127,50,4,7,2,0,6,2,0,4,1,0,1,0,0
+Penn Hills Ward 7 Dist 3,896,Auditor General,674,283,177,8,116,50,1,11,2,0,5,0,0,0,0,0,1,0,0
+Penn Hills Ward 7 Dist 4,609,Auditor General,480,143,120,4,138,30,0,5,3,0,4,2,0,1,0,0,1,0,0
+Penn Hills Ward 7 Dist 5,741,Auditor General,584,241,117,3,119,44,1,7,10,0,9,5,0,0,0,0,2,0,0
+Penn Hills Ward 7 Dist 6,715,Auditor General,533,226,119,7,110,24,1,12,0,0,4,1,1,1,0,0,0,0,0
+Penn Hills Ward 7 Dist 7,722,Auditor General,517,140,122,10,161,43,5,3,4,0,5,2,0,1,0,0,0,0,0
+Penn Hills Ward 8 Dist 1,637,Auditor General,519,146,121,5,144,67,1,4,1,1,6,3,0,1,0,0,0,0,0
+Penn Hills Ward 8 Dist 2,579,Auditor General,483,165,77,4,166,27,4,8,2,0,6,1,0,2,0,0,0,0,0
+Penn Hills Ward 8 Dist 3,546,Auditor General,452,143,78,2,142,50,1,11,1,0,4,0,1,1,0,0,0,0,0
+Penn Hills Ward 8 Dist 4,613,Auditor General,515,155,132,3,142,48,3,5,1,1,2,0,0,0,0,0,1,0,0
+Penn Hills Ward 8 Dist 5,953,Auditor General,751,215,192,10,191,82,5,13,4,0,7,3,1,1,1,0,0,0,0
+Penn Hills Ward 8 Dist 6,484,Auditor General,401,117,91,1,123,43,1,4,1,0,1,0,0,2,1,0,0,0,0
+Penn Hills Ward 9 Dist 1,519,Auditor General,453,163,83,4,134,37,1,5,3,0,3,0,0,2,0,0,0,0,0
+Penn Hills Ward 9 Dist 2,593,Auditor General,476,136,107,4,143,32,2,9,3,1,3,0,0,4,0,0,1,0,0
+Penn Hills Ward 9 Dist 3,929,Auditor General,751,248,152,9,206,52,5,9,5,0,8,3,0,1,0,0,0,0,0
+Penn Hills Ward 9 Dist 4,627,Auditor General,520,177,106,2,156,41,2,8,1,0,7,2,0,1,0,0,0,0,0
+Penn Hills Ward 9 Dist 5,311,Auditor General,203,94,66,8,17,2,0,4,1,0,1,1,0,2,0,0,0,1,0
+Pine Dist 1,1568,Auditor General,1299,218,292,8,425,264,7,10,9,1,5,1,1,0,0,0,3,0,0
+Pine Dist 2,1419,Auditor General,1199,187,289,4,406,253,5,4,2,0,3,1,0,2,1,0,0,0,0
+Pine Dist 3,1406,Auditor General,1212,177,224,3,456,265,5,13,7,0,6,1,0,0,0,0,0,0,0
+Pine Dist 4,1518,Auditor General,1289,285,249,2,448,237,1,14,1,0,5,1,1,2,1,0,1,1,0
+Pine Dist 5,2030,Auditor General,1594,314,321,6,560,296,6,21,6,0,3,3,0,2,2,0,4,1,0
+Pine Dist 6,1075,Auditor General,934,185,167,6,367,161,3,10,2,0,3,2,0,0,1,0,0,0,0
+Pine Dist 7,1564,Auditor General,1298,289,285,4,453,182,4,16,7,0,1,0,0,1,0,0,1,1,0
+Pine Dist 8,1109,Auditor General,930,149,179,2,363,195,1,10,2,0,3,2,0,1,0,0,0,1,0
+Pitcairn Dist 1,869,Auditor General,566,234,84,5,159,32,3,8,0,0,4,2,0,2,1,0,1,0,0
+Pitcairn Dist 2,450,Auditor General,238,106,24,4,75,13,0,3,2,0,4,0,0,1,0,0,0,0,0
+Pitcairn Dist 3,629,Auditor General,484,162,54,0,175,40,0,8,0,0,8,2,0,3,0,0,1,0,0
+Pittsburgh Ward 1 Dist 1,3874,Auditor General,1407,638,309,33,200,85,9,15,8,6,4,7,2,2,0,0,2,0,0
+Pittsburgh Ward 1 Dist 2,572,Auditor General,332,163,96,5,30,10,2,5,0,0,2,0,0,2,0,0,0,1,0
+Pittsburgh Ward 2 Dist 1,2738,Auditor General,1602,556,520,30,237,134,10,22,10,0,2,6,0,0,1,0,1,0,0
+Pittsburgh Ward 2 Dist 2,2221,Auditor General,1512,446,451,20,333,169,9,9,6,2,0,0,0,1,2,0,1,2,0
+Pittsburgh Ward 3 Dist 1,237,Auditor General,148,84,39,2,3,5,0,1,1,0,2,0,0,2,0,0,1,0,0
+Pittsburgh Ward 3 Dist 2,607,Auditor General,401,237,113,4,12,5,0,0,0,0,3,1,1,3,1,1,0,0,0
+Pittsburgh Ward 3 Dist 3,358,Auditor General,223,125,78,3,2,3,0,0,0,0,3,0,1,0,0,0,0,0,0
+Pittsburgh Ward 3 Dist 4,571,Auditor General,300,151,79,8,20,15,0,5,1,0,2,0,0,0,0,0,0,1,0
+Pittsburgh Ward 3 Dist 5,569,Auditor General,295,169,77,12,11,8,1,3,1,0,2,0,0,0,0,0,1,1,0
+Pittsburgh Ward 4 Dist 1,217,Auditor General,86,45,14,10,2,2,0,0,1,0,0,0,0,0,1,0,2,0,0
+Pittsburgh Ward 4 Dist 2,787,Auditor General,424,213,110,12,48,9,4,7,1,0,2,0,0,0,2,0,1,0,1
+Pittsburgh Ward 4 Dist 3,318,Auditor General,185,93,48,8,12,1,1,1,0,0,0,0,1,0,0,0,0,1,0
+Pittsburgh Ward 4 Dist 4,230,Auditor General,123,83,24,0,11,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 4 Dist 5,1179,Auditor General,633,364,96,21,86,6,7,4,1,0,2,0,0,1,0,0,1,0,0
+Pittsburgh Ward 4 Dist 6,698,Auditor General,324,177,73,2,41,5,0,3,1,0,1,2,0,0,0,0,1,0,0
+Pittsburgh Ward 4 Dist 7,2252,Auditor General,1042,572,219,14,112,45,3,6,0,1,3,2,0,0,3,0,1,0,0
+Pittsburgh Ward 4 Dist 8,2646,Auditor General,1185,745,141,43,150,16,5,12,1,0,3,0,0,1,0,0,2,1,0
+Pittsburgh Ward 4 Dist 9,997,Auditor General,545,236,167,15,48,27,4,4,0,0,2,0,0,0,0,1,0,0,0
+Pittsburgh Ward 4 Dist 10,620,Auditor General,306,175,82,0,19,11,1,3,1,0,0,1,0,1,0,0,0,0,0
+Pittsburgh Ward 4 Dist 11,628,Auditor General,466,169,183,4,50,41,0,1,0,0,1,0,0,0,0,0,0,1,0
+Pittsburgh Ward 4 Dist 12,717,Auditor General,412,167,151,2,45,13,0,3,0,1,1,0,0,5,0,0,1,0,0
+Pittsburgh Ward 4 Dist 13,810,Auditor General,463,276,93,8,41,8,0,2,1,0,0,0,0,1,1,0,0,0,0
+Pittsburgh Ward 4 Dist 14,1632,Auditor General,849,533,145,7,96,10,1,7,3,0,3,0,0,0,1,0,4,0,0
+Pittsburgh Ward 4 Dist 15,1106,Auditor General,597,343,111,11,77,11,5,7,2,0,0,0,0,0,0,0,2,1,0
+Pittsburgh Ward 4 Dist 16,1649,Auditor General,875,523,156,17,97,17,1,14,3,1,2,0,1,0,0,0,3,0,0
+Pittsburgh Ward 4 Dist 17,736,Auditor General,459,256,104,5,55,8,2,3,1,1,3,0,1,1,0,0,0,0,0
+Pittsburgh Ward 4 Dist 18,805,Auditor General,425,229,83,17,42,12,8,9,2,0,3,0,0,1,0,0,1,0,0
+Pittsburgh Ward 4 Dist 19,351,Auditor General,174,102,35,1,19,3,0,0,1,0,0,0,1,0,0,0,0,1,0
+Pittsburgh Ward 5 Dist 1,293,Auditor General,155,117,24,1,3,2,0,1,0,0,0,0,1,1,0,0,0,0,0
+Pittsburgh Ward 5 Dist 2,364,Auditor General,198,129,45,7,1,0,1,4,0,0,0,0,0,2,0,1,1,0,0
+Pittsburgh Ward 5 Dist 3,133,Auditor General,98,61,25,2,2,2,0,0,1,0,0,0,0,0,1,0,0,0,0
+Pittsburgh Ward 5 Dist 4,278,Auditor General,147,89,42,3,5,0,1,3,0,0,1,0,1,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 5,176,Auditor General,104,67,22,3,3,4,0,0,0,0,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 5 Dist 6,583,Auditor General,220,134,40,16,7,1,0,4,0,0,4,1,1,1,0,0,0,0,0
+Pittsburgh Ward 5 Dist 7,372,Auditor General,236,155,60,3,4,5,0,1,0,1,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 8,423,Auditor General,287,160,91,3,12,7,1,4,0,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 9,1150,Auditor General,641,292,189,12,59,24,2,13,7,0,2,0,0,2,1,0,1,0,0
+Pittsburgh Ward 5 Dist 10,457,Auditor General,286,186,58,11,10,2,0,4,0,0,1,1,0,0,0,0,2,0,0
+Pittsburgh Ward 5 Dist 11,624,Auditor General,425,246,88,13,30,9,4,6,1,0,3,0,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 12,333,Auditor General,193,126,48,5,2,2,0,2,0,0,0,0,0,1,0,0,0,1,0
+Pittsburgh Ward 5 Dist 13,270,Auditor General,152,102,28,5,4,2,0,1,1,0,1,0,1,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 14,233,Auditor General,129,72,41,2,1,0,0,2,0,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 15,279,Auditor General,153,108,23,2,2,5,0,4,0,0,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 16,197,Auditor General,101,75,16,6,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 5 Dist 17,304,Auditor General,188,111,47,5,8,4,1,2,0,1,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 5 Dist 18,74,Auditor General,40,20,15,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 6 Dist 1,1742,Auditor General,1309,547,373,13,203,79,2,21,6,1,2,2,0,2,0,0,0,0,0
+Pittsburgh Ward 6 Dist 2,594,Auditor General,415,189,117,2,64,17,2,3,1,0,0,1,0,1,0,0,0,0,0
+Pittsburgh Ward 6 Dist 3,764,Auditor General,536,287,135,3,68,12,4,8,0,0,3,0,0,0,0,0,0,0,0
+Pittsburgh Ward 6 Dist 4,546,Auditor General,414,212,96,0,53,28,0,4,1,0,1,0,0,1,1,0,0,0,0
+Pittsburgh Ward 6 Dist 5,503,Auditor General,359,196,88,6,35,17,1,5,0,1,0,1,0,1,0,0,0,0,0
+Pittsburgh Ward 7 Dist 1,904,Auditor General,583,291,111,7,75,27,4,7,1,0,2,0,0,4,0,0,1,0,0
+Pittsburgh Ward 7 Dist 2,1143,Auditor General,797,297,230,6,150,53,2,3,2,0,1,0,0,1,0,0,1,0,0
+Pittsburgh Ward 7 Dist 3,786,Auditor General,468,214,168,3,33,15,0,6,3,0,3,0,0,1,0,0,1,0,0
+Pittsburgh Ward 7 Dist 4,1095,Auditor General,653,315,179,13,68,30,1,3,0,0,1,0,0,2,0,0,0,1,0
+Pittsburgh Ward 7 Dist 5,864,Auditor General,481,230,126,5,54,13,2,7,1,0,3,1,0,0,0,0,0,0,0
+Pittsburgh Ward 7 Dist 6,773,Auditor General,498,241,145,2,53,20,3,6,2,0,0,1,0,3,0,0,0,0,0
+Pittsburgh Ward 7 Dist 7,839,Auditor General,501,218,152,10,63,20,3,4,3,1,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 7 Dist 8,832,Auditor General,499,247,121,7,62,22,2,10,1,0,0,0,0,0,2,0,0,1,0
+Pittsburgh Ward 7 Dist 9,837,Auditor General,549,273,161,4,56,18,0,5,3,1,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 7 Dist 10,1121,Auditor General,731,317,224,6,85,36,1,8,5,1,3,0,0,1,0,0,2,2,0
+Pittsburgh Ward 7 Dist 11,1259,Auditor General,776,358,253,2,79,33,0,8,3,0,1,0,0,0,1,0,0,0,0
+Pittsburgh Ward 7 Dist 12,1230,Auditor General,779,309,271,10,86,40,0,6,1,0,2,0,0,3,0,0,0,1,0
+Pittsburgh Ward 7 Dist 13,616,Auditor General,344,171,90,3,32,11,0,5,1,0,0,0,0,1,1,0,0,0,0
+Pittsburgh Ward 7 Dist 14,521,Auditor General,350,146,96,2,58,21,2,2,0,0,1,0,0,0,1,0,4,0,0
+Pittsburgh Ward 8 Dist 1,380,Auditor General,274,137,56,2,47,12,1,3,3,0,1,0,0,1,0,0,0,0,0
+Pittsburgh Ward 8 Dist 2,634,Auditor General,483,242,109,6,79,21,1,6,1,0,3,0,0,1,1,0,2,1,0
+Pittsburgh Ward 8 Dist 3,858,Auditor General,560,286,129,4,88,19,2,4,3,0,4,1,0,0,1,0,2,0,0
+Pittsburgh Ward 8 Dist 4,831,Auditor General,534,235,147,5,77,21,1,5,4,1,3,0,0,0,1,0,0,0,0
+Pittsburgh Ward 8 Dist 5,610,Auditor General,457,235,114,4,62,13,1,5,0,0,1,0,1,1,0,0,0,0,0
+Pittsburgh Ward 8 Dist 6,435,Auditor General,311,151,83,3,43,11,0,4,0,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 8 Dist 7,817,Auditor General,531,300,142,8,32,18,0,5,1,0,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 8 Dist 8,638,Auditor General,454,214,155,3,42,13,0,6,1,0,3,1,0,0,0,0,0,0,0
+Pittsburgh Ward 8 Dist 9,878,Auditor General,517,284,142,9,38,8,0,9,1,0,2,0,1,1,0,0,0,1,0
+Pittsburgh Ward 8 Dist 10,694,Auditor General,475,275,131,4,37,11,0,3,1,0,0,0,0,2,0,0,1,0,0
+Pittsburgh Ward 8 Dist 11,737,Auditor General,454,229,117,9,55,10,1,5,1,0,0,1,0,1,0,0,0,0,0
+Pittsburgh Ward 8 Dist 12,629,Auditor General,437,262,101,8,26,12,1,2,1,0,2,1,0,1,0,0,0,1,0
+Pittsburgh Ward 8 Dist 13,540,Auditor General,297,178,80,6,15,3,0,2,0,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 9 Dist 1,651,Auditor General,452,205,118,7,65,22,1,6,1,1,1,0,0,1,0,0,1,0,0
+Pittsburgh Ward 9 Dist 2,658,Auditor General,494,219,127,5,78,26,2,7,4,0,2,0,0,4,0,0,1,0,0
+Pittsburgh Ward 9 Dist 3,699,Auditor General,503,230,142,5,74,22,3,4,0,1,3,1,0,1,1,0,0,1,0
+Pittsburgh Ward 9 Dist 4,634,Auditor General,451,213,119,4,61,24,0,4,5,0,1,0,0,1,1,0,0,0,0
+Pittsburgh Ward 9 Dist 5,653,Auditor General,479,202,133,2,67,27,1,12,2,2,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 9 Dist 6,565,Auditor General,435,203,112,5,68,16,4,4,2,0,1,0,0,1,0,0,1,0,0
+Pittsburgh Ward 9 Dist 7,417,Auditor General,315,125,106,4,36,14,0,7,0,0,1,3,0,2,0,0,0,0,0
+Pittsburgh Ward 9 Dist 8,735,Auditor General,535,251,119,3,98,22,0,9,3,0,6,0,0,1,0,0,1,1,0
+Pittsburgh Ward 9 Dist 9,602,Auditor General,401,188,97,11,51,27,2,3,0,0,1,0,0,0,0,0,1,0,0
+Pittsburgh Ward 10 Dist 1,643,Auditor General,475,222,129,7,66,23,1,4,1,0,0,0,0,2,0,0,1,1,0
+Pittsburgh Ward 10 Dist 2,693,Auditor General,506,275,115,6,63,13,1,9,0,1,4,0,0,1,0,0,0,0,0
+Pittsburgh Ward 10 Dist 3,697,Auditor General,494,277,90,5,72,19,2,9,2,0,4,0,0,2,0,0,0,0,0
+Pittsburgh Ward 10 Dist 4,537,Auditor General,461,232,107,7,65,15,1,7,1,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 10 Dist 5,490,Auditor General,384,205,82,4,62,5,0,6,0,0,3,0,0,3,1,0,0,0,0
+Pittsburgh Ward 10 Dist 6,493,Auditor General,385,171,81,4,80,15,0,6,2,0,4,4,0,0,0,0,1,0,0
+Pittsburgh Ward 10 Dist 7,608,Auditor General,494,223,119,5,83,22,0,6,1,0,2,0,0,5,0,0,0,0,0
+Pittsburgh Ward 10 Dist 8,593,Auditor General,487,225,121,1,81,24,0,7,0,0,5,1,0,0,0,0,1,1,0
+Pittsburgh Ward 10 Dist 9,538,Auditor General,450,217,90,4,82,27,0,5,2,0,5,0,0,1,0,0,2,0,0
+Pittsburgh Ward 10 Dist 10,609,Auditor General,521,231,138,5,97,19,0,9,1,1,4,1,0,1,0,0,1,0,0
+Pittsburgh Ward 10 Dist 11,597,Auditor General,475,230,116,4,82,10,0,6,1,0,1,2,0,4,0,0,0,3,0
+Pittsburgh Ward 10 Dist 12,487,Auditor General,375,205,118,7,14,12,1,3,3,0,0,0,0,0,0,0,2,0,0
+Pittsburgh Ward 10 Dist 13,531,Auditor General,415,223,102,9,38,16,2,7,2,0,1,1,0,1,0,0,0,0,0
+Pittsburgh Ward 10 Dist 14,556,Auditor General,448,256,123,6,34,7,0,0,0,0,3,0,0,2,0,0,0,0,0
+Pittsburgh Ward 10 Dist 15,355,Auditor General,200,99,73,3,9,5,0,1,1,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 10 Dist 16,316,Auditor General,195,132,32,5,9,1,0,4,1,0,2,1,0,1,0,0,0,0,0
+Pittsburgh Ward 10 Dist 17,486,Auditor General,326,188,79,4,22,14,0,4,1,0,1,2,0,1,0,0,0,0,0
+Pittsburgh Ward 10 Dist 18,528,Auditor General,351,180,103,10,19,11,1,4,2,0,4,0,0,0,1,0,0,0,0
+Pittsburgh Ward 10 Dist 19,441,Auditor General,302,180,80,5,17,1,2,3,1,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 1,624,Auditor General,466,243,142,7,38,14,1,6,1,0,1,1,0,2,0,0,0,0,0
+Pittsburgh Ward 11 Dist 2,524,Auditor General,338,195,103,6,16,6,0,2,1,0,0,0,0,2,0,0,0,0,0
+Pittsburgh Ward 11 Dist 3,418,Auditor General,281,126,112,10,11,2,1,1,0,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 4,536,Auditor General,344,196,103,6,13,6,1,2,1,0,0,0,0,1,0,0,1,1,0
+Pittsburgh Ward 11 Dist 5,557,Auditor General,364,220,90,3,19,5,0,6,1,0,0,0,0,0,0,0,2,0,0
+Pittsburgh Ward 11 Dist 6,834,Auditor General,593,313,176,4,48,20,1,3,2,0,2,0,0,3,2,0,1,0,1
+Pittsburgh Ward 11 Dist 7,679,Auditor General,530,244,169,4,54,30,0,6,3,0,1,3,0,0,0,0,1,0,0
+Pittsburgh Ward 11 Dist 8,566,Auditor General,413,201,126,1,44,15,0,5,1,0,0,1,0,0,0,0,1,1,0
+Pittsburgh Ward 11 Dist 9,644,Auditor General,516,263,169,4,31,22,0,3,2,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 10,595,Auditor General,506,238,171,2,52,21,1,3,1,0,3,0,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 11,642,Auditor General,472,242,136,3,40,19,0,5,1,0,2,0,0,2,0,0,1,1,0
+Pittsburgh Ward 11 Dist 12,681,Auditor General,537,264,170,3,48,20,0,5,0,0,3,1,0,0,1,0,0,0,0
+Pittsburgh Ward 11 Dist 13,682,Auditor General,537,285,144,2,46,21,1,4,2,0,2,0,1,3,0,0,1,0,0
+Pittsburgh Ward 11 Dist 14,605,Auditor General,397,238,106,9,18,6,0,3,2,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 15,409,Auditor General,213,129,57,5,8,1,1,2,0,0,0,1,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 16,606,Auditor General,380,185,122,3,37,7,0,4,5,0,0,1,0,0,0,0,0,0,0
+Pittsburgh Ward 11 Dist 17,688,Auditor General,464,264,145,10,17,9,0,6,1,0,1,0,0,1,0,0,1,0,0
+Pittsburgh Ward 11 Dist 18,643,Auditor General,387,219,106,15,14,11,0,4,1,0,0,2,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 1,245,Auditor General,120,53,37,1,8,11,1,2,2,1,1,2,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 2,303,Auditor General,153,102,26,2,8,1,0,7,0,0,0,0,0,0,0,0,0,0,1
+Pittsburgh Ward 12 Dist 3,184,Auditor General,92,45,25,5,5,2,0,0,0,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 4,318,Auditor General,175,109,43,2,4,3,1,3,1,1,0,1,0,2,0,0,0,0,0
+Pittsburgh Ward 12 Dist 5,169,Auditor General,92,61,11,5,3,2,2,1,0,0,0,0,1,1,0,0,0,0,1
+Pittsburgh Ward 12 Dist 6,195,Auditor General,99,51,33,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 7,300,Auditor General,153,92,41,1,4,3,0,2,0,0,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 12 Dist 8,190,Auditor General,107,80,18,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 9,286,Auditor General,138,63,53,7,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 10,400,Auditor General,246,162,61,11,5,0,0,2,0,0,1,0,0,1,0,0,0,0,0
+Pittsburgh Ward 12 Dist 11,426,Auditor General,239,136,68,10,5,4,2,2,0,0,2,0,0,2,0,0,0,0,0
+Pittsburgh Ward 12 Dist 12,716,Auditor General,382,189,105,14,7,16,1,8,4,0,10,4,1,1,0,0,1,0,0
+Pittsburgh Ward 12 Dist 13,358,Auditor General,223,137,62,4,7,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 12 Dist 14,267,Auditor General,159,96,40,4,4,0,0,1,0,0,1,0,0,1,1,0,0,1,0
+Pittsburgh Ward 12 Dist 15,520,Auditor General,326,210,91,3,2,0,0,5,0,0,2,0,0,2,0,0,0,0,0
+Pittsburgh Ward 12 Dist 16,279,Auditor General,167,86,63,2,8,0,0,3,0,1,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 1,372,Auditor General,223,139,57,5,3,4,0,0,0,0,0,0,2,3,0,0,0,0,0
+Pittsburgh Ward 13 Dist 2,338,Auditor General,180,116,36,0,6,1,0,3,0,1,2,0,0,1,0,0,0,0,1
+Pittsburgh Ward 13 Dist 3,272,Auditor General,152,100,40,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 4,277,Auditor General,142,69,48,5,3,0,0,3,0,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 5,297,Auditor General,161,85,52,4,9,1,2,0,0,0,3,1,0,0,0,0,1,0,0
+Pittsburgh Ward 13 Dist 6,304,Auditor General,164,122,26,4,4,0,0,3,1,0,1,0,0,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 7,333,Auditor General,161,96,41,5,1,1,1,2,1,0,0,0,1,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 8,294,Auditor General,151,76,58,2,0,0,0,0,0,0,2,1,0,4,1,0,0,0,0
+Pittsburgh Ward 13 Dist 9,267,Auditor General,150,100,34,2,5,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+Pittsburgh Ward 13 Dist 10,190,Auditor General,104,62,24,2,4,2,0,2,0,0,2,0,0,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 11,380,Auditor General,156,104,30,2,3,2,0,1,1,0,2,0,0,0,0,1,0,0,0
+Pittsburgh Ward 13 Dist 12,363,Auditor General,200,132,46,2,6,2,0,3,0,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 13,284,Auditor General,153,91,39,8,7,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 14,227,Auditor General,112,63,29,1,5,4,0,4,0,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 13 Dist 15,257,Auditor General,138,97,19,1,6,1,0,1,0,0,2,0,0,1,0,0,0,0,0
+Pittsburgh Ward 13 Dist 16,272,Auditor General,159,110,35,2,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pittsburgh Ward 13 Dist 17,816,Auditor General,372,239,92,7,11,3,0,5,1,0,1,0,0,2,0,0,0,0,0
+Pittsburgh Ward 13 Dist 18,277,Auditor General,108,84,10,3,3,0,0,1,0,0,3,0,0,2,0,0,0,0,0
+Pittsburgh Ward 13 Dist 19,477,Auditor General,336,190,121,7,7,2,1,0,2,0,0,0,0,0,0,0,1,0,0
+Pittsburgh Ward 14 Dist 1,968,Auditor General,518,246,144,10,53,20,1,8,4,1,0,3,0,0,0,0,1,0,0
+Pittsburgh Ward 14 Dist 2,1598,Auditor General,883,488,131,12,112,29,2,8,4,0,2,0,0,4,0,0,3,0,2
+Pittsburgh Ward 14 Dist 3,1057,Auditor General,703,334,223,6,82,20,1,7,2,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 4,819,Auditor General,589,243,234,2,37,33,5,2,0,0,0,1,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 5,855,Auditor General,641,264,214,5,67,43,1,6,1,0,1,4,0,0,1,0,1,0,0
+Pittsburgh Ward 14 Dist 6,614,Auditor General,461,246,94,9,62,26,1,0,0,0,0,0,0,1,0,0,1,0,0
+Pittsburgh Ward 14 Dist 7,3338,Auditor General,1159,701,123,48,118,19,7,12,1,1,7,1,0,4,0,0,1,0,0
+Pittsburgh Ward 14 Dist 8,955,Auditor General,598,288,161,10,71,23,1,3,2,0,4,0,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 9,762,Auditor General,644,240,239,6,84,38,0,4,2,0,1,1,0,0,0,0,0,1,0
+Pittsburgh Ward 14 Dist 10,738,Auditor General,607,259,215,2,60,33,3,5,2,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 11,813,Auditor General,649,309,190,4,66,31,0,5,2,0,1,0,0,1,1,0,0,0,0
+Pittsburgh Ward 14 Dist 12,841,Auditor General,521,297,149,6,37,7,1,2,2,0,0,0,0,2,0,0,0,0,0
+Pittsburgh Ward 14 Dist 13,737,Auditor General,547,307,178,3,23,9,0,3,2,1,3,0,0,1,0,0,0,0,0
+Pittsburgh Ward 14 Dist 14,856,Auditor General,634,263,238,5,60,30,0,5,3,0,0,2,0,1,0,0,0,0,0
+Pittsburgh Ward 14 Dist 15,742,Auditor General,572,288,185,5,35,31,1,5,0,0,0,1,0,1,0,0,0,0,0
+Pittsburgh Ward 14 Dist 16,484,Auditor General,399,185,118,2,43,29,1,1,0,0,0,0,0,2,0,0,0,0,0
+Pittsburgh Ward 14 Dist 17,481,Auditor General,413,199,120,3,48,15,1,1,1,0,2,0,0,1,0,0,1,0,0
+Pittsburgh Ward 14 Dist 18,742,Auditor General,612,296,205,2,59,22,1,5,0,0,1,2,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 19,619,Auditor General,518,270,161,3,38,14,0,4,3,0,3,1,0,0,1,0,0,1,0
+Pittsburgh Ward 14 Dist 20,626,Auditor General,454,195,154,6,44,30,2,6,3,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 21,608,Auditor General,494,222,154,5,48,17,3,3,2,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 22,747,Auditor General,589,298,170,7,40,27,0,1,1,0,0,1,0,1,0,0,0,0,0
+Pittsburgh Ward 14 Dist 23,740,Auditor General,564,202,206,3,55,41,3,4,1,0,2,0,0,2,0,0,0,1,0
+Pittsburgh Ward 14 Dist 24,547,Auditor General,423,164,156,3,47,19,2,1,2,0,0,0,0,0,1,0,0,0,0
+Pittsburgh Ward 14 Dist 25,967,Auditor General,774,278,263,9,98,72,0,7,3,0,0,0,1,0,0,0,2,1,0
+Pittsburgh Ward 14 Dist 26,611,Auditor General,476,181,156,1,56,36,2,5,3,0,1,1,0,1,0,0,0,1,0
+Pittsburgh Ward 14 Dist 27,543,Auditor General,471,232,107,2,80,25,1,3,0,0,2,0,0,2,0,0,0,0,0
+Pittsburgh Ward 14 Dist 28,574,Auditor General,475,203,91,3,108,36,3,4,3,1,1,0,0,0,0,0,1,0,0
+Pittsburgh Ward 14 Dist 29,809,Auditor General,607,260,184,3,70,35,2,8,1,0,5,0,0,0,0,0,1,1,0
+Pittsburgh Ward 14 Dist 30,660,Auditor General,538,241,172,2,55,23,3,10,4,0,3,0,0,0,1,0,2,0,0
+Pittsburgh Ward 14 Dist 31,1224,Auditor General,991,377,341,4,125,90,2,8,3,0,4,3,0,0,0,0,2,1,0
+Pittsburgh Ward 14 Dist 32,815,Auditor General,544,261,162,8,44,23,1,9,2,0,3,2,1,1,1,0,0,0,0
+Pittsburgh Ward 14 Dist 33,893,Auditor General,612,207,170,7,90,63,5,4,3,0,1,0,0,3,0,0,2,1,0
+Pittsburgh Ward 14 Dist 34,949,Auditor General,617,220,151,7,79,78,4,7,1,0,1,1,0,0,0,0,4,0,1
+Pittsburgh Ward 14 Dist 35,662,Auditor General,471,162,175,6,45,22,1,1,3,0,0,1,0,0,1,0,0,0,0
+Pittsburgh Ward 14 Dist 36,817,Auditor General,551,210,216,7,39,30,1,5,5,1,2,1,0,0,0,0,0,0,0
+Pittsburgh Ward 14 Dist 37,689,Auditor General,471,152,163,6,58,42,5,0,1,0,2,2,0,1,0,0,0,0,0
+Pittsburgh Ward 14 Dist 38,621,Auditor General,430,170,157,4,38,29,1,4,1,0,0,0,0,0,1,0,0,0,0
+Pittsburgh Ward 14 Dist 39,662,Auditor General,469,188,145,4,39,33,7,3,2,0,0,1,0,0,1,0,1,1,0
+Pittsburgh Ward 14 Dist 40,658,Auditor General,413,188,122,5,41,22,3,5,0,0,1,0,0,1,0,0,1,0,0
+Pittsburgh Ward 14 Dist 41,74,Auditor General,57,25,16,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 15 Dist 1,603,Auditor General,434,131,157,8,60,36,4,3,4,1,0,2,0,3,1,0,0,1,0
+Pittsburgh Ward 15 Dist 2,733,Auditor General,520,237,133,6,72,20,4,11,0,0,1,1,0,2,0,0,1,0,0
+Pittsburgh Ward 15 Dist 3,640,Auditor General,478,196,127,4,72,28,2,5,6,0,3,4,0,2,0,0,0,0,0
+Pittsburgh Ward 15 Dist 4,643,Auditor General,475,206,136,3,60,24,5,6,6,0,2,0,0,2,0,0,1,0,0
+Pittsburgh Ward 15 Dist 5,533,Auditor General,397,173,91,4,63,23,3,5,1,2,4,1,0,0,0,0,1,0,0
+Pittsburgh Ward 15 Dist 6,530,Auditor General,433,213,93,6,72,23,2,4,3,1,1,1,0,3,0,0,0,0,0
+Pittsburgh Ward 15 Dist 7,681,Auditor General,530,225,121,1,111,33,0,11,1,0,1,0,0,4,0,0,0,0,0
+Pittsburgh Ward 15 Dist 8,617,Auditor General,489,206,117,4,83,32,2,6,5,0,4,1,0,1,0,0,2,0,0
+Pittsburgh Ward 15 Dist 9,165,Auditor General,120,67,17,0,14,9,2,3,1,0,2,1,0,0,0,0,1,0,0
+Pittsburgh Ward 15 Dist 10,606,Auditor General,480,195,132,2,85,19,2,5,2,0,3,1,0,1,0,0,0,0,0
+Pittsburgh Ward 15 Dist 11,532,Auditor General,430,152,88,2,112,34,3,13,1,0,4,0,1,1,1,0,0,0,0
+Pittsburgh Ward 15 Dist 12,468,Auditor General,371,133,113,2,57,34,0,7,3,0,0,2,0,1,0,0,1,1,0
+Pittsburgh Ward 15 Dist 13,464,Auditor General,258,135,63,8,23,7,0,3,0,0,4,0,0,0,0,0,2,0,0
+Pittsburgh Ward 15 Dist 14,286,Auditor General,151,70,39,2,15,5,2,2,1,0,1,1,1,1,0,0,1,0,0
+Pittsburgh Ward 15 Dist 15,329,Auditor General,181,86,22,2,39,9,5,1,1,0,4,2,1,0,1,0,1,0,0
+Pittsburgh Ward 15 Dist 16,493,Auditor General,308,160,77,4,34,11,1,4,0,0,1,0,0,1,0,0,0,0,0
+Pittsburgh Ward 15 Dist 17,21,Auditor General,13,5,5,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 15 Dist 18,546,Auditor General,311,148,69,11,39,12,0,4,2,1,3,1,1,0,1,0,2,0,0
+Pittsburgh Ward 15 Dist 19,475,Auditor General,243,111,57,9,4,12,1,3,4,0,2,6,0,1,2,0,0,0,0
+Pittsburgh Ward 16 Dist 1,1049,Auditor General,634,284,189,8,69,31,5,14,4,1,0,2,0,0,0,0,0,1,0
+Pittsburgh Ward 16 Dist 2,1342,Auditor General,879,388,230,23,111,51,6,11,5,0,6,1,0,4,0,0,0,1,0
+Pittsburgh Ward 16 Dist 3,1161,Auditor General,781,331,168,6,141,63,5,11,3,1,6,2,1,2,0,0,1,0,0
+Pittsburgh Ward 16 Dist 4,435,Auditor General,283,134,60,5,50,12,1,5,0,0,4,0,0,0,0,0,2,0,0
+Pittsburgh Ward 16 Dist 5,678,Auditor General,462,177,123,11,88,30,2,5,3,0,6,0,0,0,0,0,0,0,0
+Pittsburgh Ward 16 Dist 6,504,Auditor General,348,156,65,9,66,20,4,6,2,1,5,1,0,2,0,0,2,0,0
+Pittsburgh Ward 16 Dist 7,452,Auditor General,266,117,62,5,44,9,1,5,2,0,4,0,0,1,1,0,1,0,0
+Pittsburgh Ward 16 Dist 8,187,Auditor General,63,39,4,7,4,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 16 Dist 9,470,Auditor General,294,145,57,1,48,17,1,3,0,0,7,0,0,2,1,0,0,0,0
+Pittsburgh Ward 16 Dist 10,354,Auditor General,243,92,48,1,64,16,1,3,0,0,4,1,0,0,0,0,1,0,0
+Pittsburgh Ward 16 Dist 11,405,Auditor General,254,126,49,3,41,9,1,3,2,0,2,2,1,0,1,0,1,0,0
+Pittsburgh Ward 17 Dist 1,446,Auditor General,247,88,48,9,55,20,5,2,2,0,0,0,0,0,0,1,0,0,0
+Pittsburgh Ward 17 Dist 2,881,Auditor General,551,275,116,17,77,25,1,9,2,0,2,1,0,0,0,0,1,0,0
+Pittsburgh Ward 17 Dist 3,654,Auditor General,439,195,103,7,73,22,4,3,3,1,0,0,1,2,0,0,0,0,0
+Pittsburgh Ward 17 Dist 4,851,Auditor General,570,228,153,3,107,46,3,6,2,0,2,1,0,1,0,0,0,0,0
+Pittsburgh Ward 17 Dist 5,656,Auditor General,422,199,99,3,68,14,3,7,0,0,1,0,0,0,2,0,2,0,0
+Pittsburgh Ward 17 Dist 6,467,Auditor General,265,109,48,7,64,19,1,6,0,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 17 Dist 7,397,Auditor General,263,102,62,7,51,15,1,8,0,0,4,0,0,0,0,0,1,0,0
+Pittsburgh Ward 17 Dist 8,471,Auditor General,319,143,78,10,48,15,3,3,1,0,0,0,1,1,0,0,0,1,0
+Pittsburgh Ward 18 Dist 1,546,Auditor General,445,151,81,4,138,34,1,8,3,0,4,2,0,0,0,0,0,0,0
+Pittsburgh Ward 18 Dist 2,364,Auditor General,205,127,51,6,6,4,0,0,2,0,2,0,0,0,1,0,0,0,0
+Pittsburgh Ward 18 Dist 3,342,Auditor General,204,135,49,2,4,0,1,0,0,1,0,0,0,0,0,0,2,0,0
+Pittsburgh Ward 18 Dist 4,430,Auditor General,258,152,56,10,19,1,3,5,1,0,2,0,1,1,0,0,2,0,0
+Pittsburgh Ward 18 Dist 5,936,Auditor General,678,251,173,10,129,53,3,10,6,0,2,3,0,2,1,0,2,0,0
+Pittsburgh Ward 18 Dist 6,371,Auditor General,217,130,36,6,24,8,0,1,1,1,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 18 Dist 7,446,Auditor General,302,124,54,3,67,17,1,13,2,0,4,1,0,1,0,0,0,2,0
+Pittsburgh Ward 18 Dist 8,289,Auditor General,144,84,28,4,11,5,1,2,0,0,2,0,0,0,0,0,1,0,0
+Pittsburgh Ward 18 Dist 9,704,Auditor General,423,198,84,7,71,19,2,9,2,0,5,0,0,3,0,0,0,0,0
+Pittsburgh Ward 18 Dist 10,66,Auditor General,42,10,16,0,10,3,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 18 Dist 11,533,Auditor General,290,125,66,10,45,12,1,12,1,0,4,0,0,3,1,0,1,1,0
+Pittsburgh Ward 19 Dist 1,541,Auditor General,445,124,113,3,127,40,5,10,1,0,3,3,0,3,1,0,0,0,0
+Pittsburgh Ward 19 Dist 2,730,Auditor General,553,174,124,5,156,50,5,5,4,0,2,0,0,1,1,0,1,0,0
+Pittsburgh Ward 19 Dist 3,515,Auditor General,402,143,77,4,99,41,2,11,1,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 4,405,Auditor General,331,106,92,1,79,28,0,5,1,0,4,0,0,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 5,416,Auditor General,320,114,53,3,102,19,1,12,3,0,2,0,0,1,0,0,0,0,0
+Pittsburgh Ward 19 Dist 6,517,Auditor General,360,130,82,5,82,25,2,9,1,0,4,1,0,0,1,1,0,0,0
+Pittsburgh Ward 19 Dist 7,193,Auditor General,138,58,24,2,34,6,0,1,0,0,1,0,0,1,0,0,2,0,0
+Pittsburgh Ward 19 Dist 8,610,Auditor General,421,202,83,4,83,14,0,10,0,0,2,1,0,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 9,532,Auditor General,351,147,67,5,79,12,3,14,1,0,3,0,0,1,0,0,0,0,0
+Pittsburgh Ward 19 Dist 10,685,Auditor General,464,188,98,10,99,33,5,6,0,1,1,1,0,0,1,1,0,0,1
+Pittsburgh Ward 19 Dist 11,449,Auditor General,311,111,66,2,87,19,2,8,3,1,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 19 Dist 12,415,Auditor General,343,99,81,2,104,28,0,1,1,0,2,0,0,2,1,0,1,1,0
+Pittsburgh Ward 19 Dist 13,459,Auditor General,304,149,43,3,71,8,2,11,3,0,2,3,1,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 14,557,Auditor General,378,144,108,4,69,27,3,6,2,0,4,2,0,1,2,0,1,0,0
+Pittsburgh Ward 19 Dist 15,613,Auditor General,438,192,106,1,90,19,2,8,0,0,2,2,0,3,0,0,0,0,0
+Pittsburgh Ward 19 Dist 16,570,Auditor General,414,193,99,6,64,19,1,5,5,0,1,1,0,0,0,0,2,0,0
+Pittsburgh Ward 19 Dist 17,542,Auditor General,417,182,95,3,86,13,1,6,2,2,2,0,0,2,1,0,0,0,0
+Pittsburgh Ward 19 Dist 18,452,Auditor General,336,187,55,3,44,18,1,11,2,0,2,0,0,1,1,0,0,0,0
+Pittsburgh Ward 19 Dist 19,502,Auditor General,366,149,86,5,87,12,1,7,0,0,4,1,0,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 20,523,Auditor General,394,129,87,4,110,30,1,7,1,0,3,1,1,4,0,0,0,0,0
+Pittsburgh Ward 19 Dist 21,642,Auditor General,480,194,112,7,94,28,0,10,2,0,4,1,0,4,1,0,2,0,0
+Pittsburgh Ward 19 Dist 22,556,Auditor General,425,176,95,9,80,35,4,5,0,0,3,0,0,1,0,0,1,0,0
+Pittsburgh Ward 19 Dist 23,613,Auditor General,452,157,102,3,120,26,0,12,2,0,3,1,0,2,0,0,1,0,0
+Pittsburgh Ward 19 Dist 24,504,Auditor General,388,164,76,0,104,17,0,13,0,0,4,0,0,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 25,536,Auditor General,415,174,94,3,89,31,2,3,1,0,0,1,1,1,0,0,0,0,0
+Pittsburgh Ward 19 Dist 26,460,Auditor General,357,155,81,1,61,17,4,10,1,0,5,0,0,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 27,455,Auditor General,345,118,72,7,89,25,2,5,1,0,5,0,0,4,0,0,0,0,0
+Pittsburgh Ward 19 Dist 28,626,Auditor General,530,207,146,1,107,34,2,7,3,0,1,1,0,4,0,0,0,0,0
+Pittsburgh Ward 19 Dist 29,492,Auditor General,399,160,71,4,111,25,1,7,1,0,2,1,0,4,0,0,0,0,0
+Pittsburgh Ward 19 Dist 30,537,Auditor General,445,153,119,3,111,32,1,6,2,0,2,1,0,0,0,0,1,0,0
+Pittsburgh Ward 19 Dist 31,491,Auditor General,412,155,73,3,130,25,0,9,1,0,0,0,0,4,0,0,0,0,0
+Pittsburgh Ward 19 Dist 32,533,Auditor General,434,198,82,3,92,24,2,9,0,0,4,1,0,5,0,0,0,0,0
+Pittsburgh Ward 19 Dist 33,456,Auditor General,376,132,71,2,102,34,1,13,0,0,2,0,0,2,1,0,2,1,0
+Pittsburgh Ward 19 Dist 34,533,Auditor General,416,150,108,5,91,24,2,7,2,0,1,1,0,0,0,0,0,0,0
+Pittsburgh Ward 19 Dist 35,506,Auditor General,389,140,89,3,108,17,1,6,0,0,1,1,0,0,1,1,0,0,0
+Pittsburgh Ward 19 Dist 36,702,Auditor General,569,181,123,10,133,46,2,17,8,1,7,1,1,2,0,0,0,0,0
+Pittsburgh Ward 19 Dist 37,444,Auditor General,353,114,80,1,107,11,1,6,0,0,5,2,1,1,1,0,0,0,0
+Pittsburgh Ward 19 Dist 38,586,Auditor General,427,168,99,3,106,26,1,6,1,0,1,0,0,4,0,0,0,0,0
+Pittsburgh Ward 20 Dist 1,601,Auditor General,476,130,91,2,176,38,7,12,1,0,7,2,1,0,1,0,0,0,0
+Pittsburgh Ward 20 Dist 2,219,Auditor General,160,56,26,0,50,10,0,9,0,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 20 Dist 3,664,Auditor General,510,154,117,4,155,38,0,13,1,0,2,1,0,1,0,0,1,0,0
+Pittsburgh Ward 20 Dist 4,83,Auditor General,50,19,16,0,9,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 20 Dist 5,544,Auditor General,382,145,86,6,86,23,1,7,4,0,2,2,0,4,3,0,0,0,1
+Pittsburgh Ward 20 Dist 6,527,Auditor General,316,126,63,11,54,30,1,6,2,0,3,0,0,2,0,0,1,0,0
+Pittsburgh Ward 20 Dist 7,632,Auditor General,375,219,59,5,48,19,1,5,0,0,1,0,1,3,0,0,0,1,0
+Pittsburgh Ward 20 Dist 8,738,Auditor General,491,208,92,28,88,23,1,8,4,0,6,1,0,3,1,1,1,0,0
+Pittsburgh Ward 20 Dist 9,209,Auditor General,119,46,26,5,22,4,0,3,1,0,1,0,0,2,1,0,1,0,0
+Pittsburgh Ward 20 Dist 10,615,Auditor General,353,180,72,9,51,8,2,11,0,0,5,0,1,1,2,0,1,0,0
+Pittsburgh Ward 20 Dist 11,661,Auditor General,364,210,62,8,45,10,3,4,2,0,4,0,0,0,0,0,0,0,0
+Pittsburgh Ward 20 Dist 12,911,Auditor General,582,265,134,7,96,36,0,9,5,0,5,1,0,1,0,0,1,0,0
+Pittsburgh Ward 20 Dist 13,404,Auditor General,291,163,79,3,29,4,0,1,1,0,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 20 Dist 14,849,Auditor General,590,285,96,7,132,31,2,6,0,0,6,2,0,4,1,0,1,0,0
+Pittsburgh Ward 20 Dist 15,867,Auditor General,561,221,117,8,125,44,4,11,3,0,3,0,0,3,0,0,2,0,0
+Pittsburgh Ward 20 Dist 16,600,Auditor General,501,119,103,4,169,68,2,4,1,0,5,1,0,1,0,0,0,0,0
+Pittsburgh Ward 20 Dist 17,418,Auditor General,352,95,74,0,123,35,1,4,1,0,1,0,0,1,2,0,0,0,0
+Pittsburgh Ward 20 Dist 18,490,Auditor General,415,115,70,2,144,47,2,11,1,0,2,0,0,0,1,0,0,0,0
+Pittsburgh Ward 21 Dist 1,520,Auditor General,289,162,65,5,19,15,0,4,0,0,3,0,0,0,0,0,0,1,0
+Pittsburgh Ward 21 Dist 2,472,Auditor General,335,204,80,9,21,3,0,11,0,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 21 Dist 3,608,Auditor General,402,237,113,7,11,1,0,2,3,0,5,0,0,0,1,0,0,0,0
+Pittsburgh Ward 21 Dist 4,579,Auditor General,391,225,102,5,29,16,0,3,1,1,2,0,0,0,1,0,1,0,0
+Pittsburgh Ward 22 Dist 1,790,Auditor General,583,269,154,1,76,30,1,9,4,0,4,0,0,0,0,0,1,0,0
+Pittsburgh Ward 22 Dist 2,671,Auditor General,487,240,152,1,37,31,2,7,0,0,3,0,0,0,0,0,0,0,0
+Pittsburgh Ward 22 Dist 3,751,Auditor General,511,229,162,10,52,19,1,5,3,0,2,0,1,1,0,0,0,0,0
+Pittsburgh Ward 22 Dist 4,1007,Auditor General,502,238,114,10,59,26,1,18,2,2,2,2,1,1,1,1,1,0,0
+Pittsburgh Ward 23 Dist 1,1363,Auditor General,792,312,216,17,124,46,4,19,3,0,2,1,1,0,0,0,0,3,0
+Pittsburgh Ward 23 Dist 2,792,Auditor General,525,230,157,9,64,29,2,5,6,1,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 23 Dist 3,351,Auditor General,213,103,47,0,40,12,0,2,1,0,0,0,0,2,0,0,0,1,0
+Pittsburgh Ward 24 Dist 1,377,Auditor General,262,74,80,2,57,27,1,6,1,0,5,1,0,0,0,0,0,0,0
+Pittsburgh Ward 24 Dist 2,418,Auditor General,301,101,69,2,70,29,2,3,0,0,7,1,0,5,1,0,2,1,0
+Pittsburgh Ward 24 Dist 3,320,Auditor General,216,95,40,2,47,8,2,3,1,2,2,1,0,1,1,0,1,0,0
+Pittsburgh Ward 24 Dist 4,569,Auditor General,442,185,102,7,87,45,2,2,0,0,2,0,0,0,0,0,0,0,0
+Pittsburgh Ward 24 Dist 5,491,Auditor General,328,136,84,11,60,15,0,8,1,0,2,1,0,1,0,0,0,0,0
+Pittsburgh Ward 24 Dist 6,553,Auditor General,383,176,88,4,77,18,1,3,1,0,1,1,0,2,1,0,2,0,0
+Pittsburgh Ward 25 Dist 1,430,Auditor General,292,154,93,6,17,9,0,0,1,0,2,0,0,1,0,0,0,1,0
+Pittsburgh Ward 25 Dist 2,456,Auditor General,305,163,76,4,31,14,1,2,1,0,0,0,0,0,1,0,1,0,0
+Pittsburgh Ward 25 Dist 3,610,Auditor General,396,236,85,10,25,12,2,3,3,1,4,0,0,0,0,0,0,0,0
+Pittsburgh Ward 25 Dist 4,301,Auditor General,177,104,38,6,16,4,0,2,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 25 Dist 5,356,Auditor General,224,138,50,5,17,6,1,4,2,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 25 Dist 6,348,Auditor General,170,94,41,4,11,3,0,2,1,1,1,0,0,2,0,0,0,0,0
+Pittsburgh Ward 25 Dist 7,408,Auditor General,298,117,67,1,62,39,0,1,0,1,1,0,0,1,0,0,1,0,0
+Pittsburgh Ward 26 Dist 1,508,Auditor General,313,160,87,9,22,8,0,4,0,0,2,1,2,0,0,0,1,0,0
+Pittsburgh Ward 26 Dist 2,411,Auditor General,261,135,87,8,10,7,2,1,1,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 26 Dist 3,454,Auditor General,285,158,71,10,19,5,0,5,2,1,3,1,1,0,0,0,1,0,0
+Pittsburgh Ward 26 Dist 4,376,Auditor General,237,138,45,0,25,8,2,5,2,0,2,0,0,1,1,1,0,0,0
+Pittsburgh Ward 26 Dist 5,512,Auditor General,216,141,19,10,12,3,1,4,2,2,2,1,0,2,0,0,1,0,0
+Pittsburgh Ward 26 Dist 6,389,Auditor General,167,116,24,6,4,3,1,2,0,0,1,0,0,1,0,0,1,0,0
+Pittsburgh Ward 26 Dist 7,275,Auditor General,169,93,45,3,15,5,0,2,1,0,1,0,0,2,0,0,0,0,1
+Pittsburgh Ward 26 Dist 8,635,Auditor General,237,117,45,4,39,9,2,4,3,0,4,1,0,0,0,0,0,0,0
+Pittsburgh Ward 26 Dist 9,361,Auditor General,283,125,51,4,59,22,2,3,2,1,1,0,0,0,0,0,0,0,0
+Pittsburgh Ward 26 Dist 10,626,Auditor General,437,210,142,4,45,12,1,3,0,0,2,0,0,1,0,0,0,0,0
+Pittsburgh Ward 26 Dist 11,705,Auditor General,504,273,115,9,50,24,1,10,0,0,3,0,0,2,0,0,1,0,0
+Pittsburgh Ward 26 Dist 12,476,Auditor General,316,151,69,4,55,15,3,6,1,0,3,1,0,0,1,0,0,0,0
+Pittsburgh Ward 26 Dist 13,562,Auditor General,398,176,75,3,102,19,4,7,0,0,2,0,0,1,0,0,0,0,0
+Pittsburgh Ward 26 Dist 14,566,Auditor General,458,154,74,6,162,30,1,5,2,0,3,0,0,1,1,0,1,0,0
+Pittsburgh Ward 26 Dist 15,510,Auditor General,402,137,94,1,101,35,2,10,2,0,2,0,0,0,0,0,1,0,0
+Pittsburgh Ward 26 Dist 16,709,Auditor General,518,269,115,4,64,29,3,7,0,0,2,1,0,2,0,0,3,0,0
+Pittsburgh Ward 26 Dist 17,197,Auditor General,122,42,12,1,43,8,1,2,1,0,1,0,0,0,1,0,1,0,0
+Pittsburgh Ward 27 Dist 1,796,Auditor General,646,238,157,9,134,65,1,7,3,0,8,2,0,1,0,0,2,0,0
+Pittsburgh Ward 27 Dist 2,670,Auditor General,551,212,128,2,115,55,1,4,1,0,6,3,0,1,2,0,0,1,0
+Pittsburgh Ward 27 Dist 3,576,Auditor General,443,195,104,0,84,26,2,8,3,0,5,1,0,0,0,0,0,0,0
+Pittsburgh Ward 27 Dist 4,804,Auditor General,593,271,122,6,105,45,4,7,3,0,5,2,0,1,0,0,2,0,0
+Pittsburgh Ward 27 Dist 5,706,Auditor General,551,214,151,4,109,35,3,7,0,0,7,2,0,1,0,0,0,1,0
+Pittsburgh Ward 27 Dist 6,761,Auditor General,498,228,110,9,74,25,4,10,4,2,5,3,0,3,0,0,0,0,0
+Pittsburgh Ward 27 Dist 7,605,Auditor General,466,230,98,3,92,13,0,10,1,0,4,0,0,0,0,0,0,0,0
+Pittsburgh Ward 27 Dist 8,574,Auditor General,408,197,81,2,87,12,2,6,1,0,6,2,0,0,0,0,1,0,0
+Pittsburgh Ward 27 Dist 9,577,Auditor General,356,163,61,6,67,17,4,9,2,0,6,2,0,1,1,0,0,0,0
+Pittsburgh Ward 27 Dist 10,633,Auditor General,415,225,80,5,49,19,2,3,0,0,6,0,1,0,0,0,2,0,0
+Pittsburgh Ward 27 Dist 11,648,Auditor General,408,217,70,10,61,17,2,6,2,0,5,0,0,1,0,0,1,0,0
+Pittsburgh Ward 27 Dist 12,569,Auditor General,347,181,64,5,63,13,1,6,1,1,2,0,0,1,0,0,1,0,0
+Pittsburgh Ward 27 Dist 13,514,Auditor General,350,167,75,11,49,16,2,7,0,0,2,1,0,2,2,0,0,0,0
+Pittsburgh Ward 28 Dist 1,629,Auditor General,499,179,76,8,144,40,4,6,5,0,5,2,0,3,2,0,1,0,0
+Pittsburgh Ward 28 Dist 2,516,Auditor General,353,135,65,8,72,20,4,8,3,2,5,0,0,1,1,0,2,0,0
+Pittsburgh Ward 28 Dist 3,918,Auditor General,746,257,132,1,213,77,4,13,4,2,10,1,0,2,1,1,1,0,0
+Pittsburgh Ward 28 Dist 4,644,Auditor General,511,154,105,9,165,27,6,12,5,0,6,0,0,1,0,0,0,0,0
+Pittsburgh Ward 28 Dist 5,664,Auditor General,483,227,86,5,120,13,0,13,0,1,3,0,0,2,0,0,0,0,0
+Pittsburgh Ward 28 Dist 6,556,Auditor General,443,132,111,10,98,37,2,12,7,0,3,1,1,3,0,0,2,0,0
+Pittsburgh Ward 28 Dist 7,621,Auditor General,341,156,70,7,68,16,0,4,0,1,6,2,0,0,0,0,0,0,0
+Pittsburgh Ward 28 Dist 8,899,Auditor General,719,296,137,4,184,35,3,9,4,1,8,2,0,1,0,0,2,0,0
+Pittsburgh Ward 28 Dist 9,608,Auditor General,443,210,109,9,66,23,0,4,0,0,3,1,0,0,0,0,0,1,0
+Pittsburgh Ward 28 Dist 10,577,Auditor General,313,173,72,3,26,13,0,3,4,0,5,1,0,2,1,0,0,0,0
+Pittsburgh Ward 28 Dist 11,130,Auditor General,89,57,20,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pittsburgh Ward 29 Dist 1,620,Auditor General,399,142,53,1,131,31,4,8,1,0,5,0,1,1,0,0,1,0,0
+Pittsburgh Ward 29 Dist 2,536,Auditor General,389,167,67,3,87,32,5,2,1,0,4,1,0,2,1,0,1,0,0
+Pittsburgh Ward 29 Dist 3,490,Auditor General,333,97,72,4,94,25,1,4,1,1,6,0,0,2,1,0,0,0,0
+Pittsburgh Ward 29 Dist 4,518,Auditor General,334,117,50,4,102,25,4,7,1,0,3,2,0,0,0,0,0,0,0
+Pittsburgh Ward 29 Dist 5,539,Auditor General,348,135,63,3,94,19,2,6,1,0,2,2,0,1,0,0,0,0,0
+Pittsburgh Ward 29 Dist 6,641,Auditor General,435,159,68,6,136,26,4,3,1,0,1,1,0,4,0,0,0,0,0
+Pittsburgh Ward 29 Dist 7,666,Auditor General,475,148,113,4,116,39,2,6,6,1,5,3,0,1,2,0,1,0,0
+Pittsburgh Ward 29 Dist 8,581,Auditor General,345,125,60,5,89,24,2,5,4,0,2,2,0,4,0,0,0,1,0
+Pittsburgh Ward 29 Dist 9,455,Auditor General,266,122,36,1,68,18,0,3,0,0,3,1,0,1,0,0,1,0,0
+Pittsburgh Ward 29 Dist 10,524,Auditor General,390,166,60,1,104,25,3,6,1,0,6,1,0,0,0,0,1,0,0
+Pittsburgh Ward 29 Dist 11,657,Auditor General,488,214,65,6,131,24,3,9,4,0,8,2,0,3,0,0,0,0,0
+Pittsburgh Ward 29 Dist 12,603,Auditor General,385,162,62,3,104,20,1,9,2,0,4,2,0,4,0,0,1,0,0
+Pittsburgh Ward 30 Dist 1,409,Auditor General,208,121,43,4,22,5,1,5,1,0,1,0,0,0,0,0,1,1,0
+Pittsburgh Ward 30 Dist 2,375,Auditor General,236,150,41,3,17,4,0,1,1,0,0,2,0,3,0,0,3,0,0
+Pittsburgh Ward 30 Dist 3,354,Auditor General,142,74,27,1,19,6,0,4,1,0,3,0,0,1,0,0,0,0,0
+Pittsburgh Ward 30 Dist 4,633,Auditor General,327,155,70,10,41,18,3,5,2,0,3,1,0,3,0,0,3,0,0
+Pittsburgh Ward 30 Dist 5,653,Auditor General,372,202,59,8,63,7,3,6,2,0,3,1,0,0,0,0,1,0,0
+Pittsburgh Ward 31 Dist 1,236,Auditor General,138,52,15,2,54,8,0,2,1,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 31 Dist 2,455,Auditor General,400,87,61,1,162,48,1,6,1,0,0,6,0,0,0,0,0,0,0
+Pittsburgh Ward 31 Dist 3,528,Auditor General,445,116,87,7,159,28,10,8,2,2,3,1,0,1,0,0,2,0,0
+Pittsburgh Ward 31 Dist 4,588,Auditor General,460,144,67,3,169,27,1,11,4,0,6,0,0,2,0,0,0,0,0
+Pittsburgh Ward 31 Dist 5,701,Auditor General,590,152,123,0,207,63,3,6,2,0,6,1,0,0,1,1,1,0,0
+Pittsburgh Ward 31 Dist 6,554,Auditor General,453,98,70,0,188,48,3,13,2,0,3,2,0,1,1,0,0,0,0
+Pittsburgh Ward 31 Dist 7,142,Auditor General,107,53,23,1,21,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+Pittsburgh Ward 32 Dist 1,494,Auditor General,388,92,74,4,156,33,2,6,1,1,6,1,0,0,0,0,1,0,0
+Pittsburgh Ward 32 Dist 2,637,Auditor General,454,140,76,5,154,30,3,14,5,0,5,0,0,2,0,0,1,0,0
+Pittsburgh Ward 32 Dist 3,527,Auditor General,409,145,80,6,116,18,3,7,0,0,3,4,0,1,0,0,1,1,0
+Pittsburgh Ward 32 Dist 4,335,Auditor General,254,97,58,1,52,22,0,2,1,0,7,0,0,1,0,0,3,0,0
+Pittsburgh Ward 32 Dist 5,552,Auditor General,455,168,94,5,116,35,1,5,4,0,2,1,0,1,0,1,4,0,0
+Pittsburgh Ward 32 Dist 6,600,Auditor General,471,123,74,1,170,50,1,11,0,0,11,0,0,1,0,0,1,0,0
+Pittsburgh Ward 32 Dist 7,561,Auditor General,440,162,107,2,124,18,2,7,0,0,3,1,0,2,0,0,0,0,0
+Pittsburgh Ward 32 Dist 8,663,Auditor General,543,175,96,3,176,43,4,6,5,1,1,0,0,1,1,0,1,1,0
+Pleasant Hl Dist 1,740,Auditor General,579,187,95,6,194,50,6,14,1,0,2,1,0,1,0,0,0,0,0
+Pleasant Hl Dist 2,578,Auditor General,478,145,65,1,184,46,3,10,1,1,3,0,0,0,0,0,1,0,0
+Pleasant Hl Dist 3,566,Auditor General,498,129,98,4,184,46,4,5,1,0,3,1,0,0,0,0,0,0,0
+Pleasant Hl Dist 4,545,Auditor General,456,137,73,2,171,40,2,7,2,0,2,4,0,0,0,0,0,0,0
+Pleasant Hl Dist 5,691,Auditor General,534,118,130,3,182,71,3,3,1,0,1,0,0,1,1,0,1,0,0
+Pleasant Hl Dist 6,1051,Auditor General,899,232,139,5,373,91,7,12,2,0,3,0,0,3,1,0,0,0,0
+Pleasant Hl Dist 7,560,Auditor General,463,158,70,2,155,52,2,6,1,0,2,0,0,0,0,0,0,0,0
+Pleasant Hl Dist 8,541,Auditor General,474,101,66,1,208,64,2,6,0,0,4,0,0,1,0,0,0,0,0
+Pleasant Hl Dist 9,645,Auditor General,562,138,105,1,225,56,4,5,1,0,9,1,0,0,0,0,0,0,0
+Pleasant Hl Dist 10,522,Auditor General,454,98,79,1,189,49,3,10,4,2,3,0,0,1,0,0,0,0,0
+Plum Dist 1,1824,Auditor General,1552,329,305,8,603,199,5,9,11,2,9,3,0,1,2,0,1,0,0
+Plum Dist 2,641,Auditor General,532,116,70,4,251,49,4,10,0,0,4,1,0,3,0,0,1,1,0
+Plum Dist 3,1080,Auditor General,879,182,222,8,293,114,1,7,2,0,5,2,0,1,0,0,0,0,0
+Plum Dist 4,870,Auditor General,721,160,100,2,325,79,3,8,3,0,6,4,0,1,0,0,0,0,0
+Plum Dist 5,926,Auditor General,772,167,149,0,319,79,2,9,2,0,8,2,0,1,0,0,0,0,0
+Plum Dist 6,1294,Auditor General,1123,267,149,8,522,109,3,10,4,0,6,1,0,4,1,0,0,0,0
+Plum Dist 7,1266,Auditor General,1064,248,169,8,450,126,7,13,2,0,5,1,0,5,1,0,1,0,0
+Plum Dist 8,633,Auditor General,545,121,93,3,232,62,0,6,5,0,1,0,0,3,0,0,0,0,0
+Plum Dist 9,1144,Auditor General,1008,212,208,2,407,117,5,6,3,0,6,3,0,0,1,0,1,0,0
+Plum Dist 10,598,Auditor General,502,109,76,2,224,55,7,10,2,0,2,0,0,0,0,0,0,0,0
+Plum Dist 11,821,Auditor General,706,186,125,3,296,54,0,4,3,0,6,2,0,2,0,0,0,0,0
+Plum Dist 12,1180,Auditor General,1025,243,195,10,402,119,5,4,3,0,5,2,0,2,1,0,1,0,0
+Plum Dist 13,582,Auditor General,494,119,80,1,213,47,3,6,4,0,2,0,0,5,0,0,0,0,0
+Plum Dist 14,773,Auditor General,615,158,97,4,230,72,1,5,2,0,2,1,0,1,0,0,0,0,0
+Plum Dist 15,840,Auditor General,638,204,109,6,219,58,1,10,1,0,1,0,0,2,1,0,3,1,0
+Plum Dist 16,612,Auditor General,515,127,90,0,210,67,1,2,1,0,4,0,0,0,2,0,0,0,0
+Plum Dist 17,701,Auditor General,579,167,96,5,232,34,5,7,1,1,5,1,0,0,1,0,0,0,0
+Plum Dist 18,849,Auditor General,746,177,126,2,306,75,1,9,5,1,3,1,0,1,0,0,1,0,0
+Plum Dist 19,2159,Auditor General,1860,367,279,7,803,271,8,15,5,0,11,1,0,4,2,0,1,0,0
+Plum Dist 20,1018,Auditor General,808,189,119,0,348,90,3,16,3,0,5,1,0,0,0,0,1,0,0
+Plum Dist 21,446,Auditor General,375,51,49,0,188,53,3,9,0,0,2,1,0,0,0,0,1,0,0
+Port Vue Dist 1,608,Auditor General,459,128,59,4,200,26,2,7,2,0,5,1,0,2,0,0,0,0,0
+Port Vue Dist 2,509,Auditor General,397,106,42,0,187,26,2,6,1,1,5,0,0,2,0,0,0,0,0
+Port Vue Dist 3,524,Auditor General,449,121,53,2,202,32,5,7,0,1,6,1,0,2,0,0,0,0,0
+Port Vue Dist 4,710,Auditor General,555,158,61,3,248,38,4,10,2,0,5,2,0,2,1,0,0,0,0
+Rankin Ward 1,314,Auditor General,183,103,42,4,12,8,0,2,0,0,1,0,0,1,0,0,0,0,0
+Rankin Ward 2,393,Auditor General,239,158,36,10,19,4,1,2,1,0,2,0,0,2,0,0,0,0,0
+Rankin Ward 3,399,Auditor General,169,97,37,5,15,4,0,1,2,0,1,0,0,0,0,0,0,0,0
+Reserve Ward 1,537,Auditor General,437,201,53,1,128,18,1,13,2,0,3,0,0,3,0,0,1,0,0
+Reserve Ward 2,554,Auditor General,481,152,80,3,177,28,1,11,0,0,6,1,0,4,0,0,0,0,0
+Reserve Ward 3,538,Auditor General,458,141,81,0,165,34,1,10,2,0,1,0,0,1,0,0,2,0,0
+Reserve Ward 4,824,Auditor General,685,171,135,1,256,73,0,6,1,0,5,0,0,4,0,0,1,0,0
+Richland Dist 1,1256,Auditor General,1071,233,180,9,434,144,6,12,4,0,5,1,0,0,1,0,2,2,0
+Richland Dist 2,1250,Auditor General,1038,217,182,5,457,118,3,9,2,0,4,1,0,3,2,0,0,0,0
+Richland Dist 3,1190,Auditor General,1008,235,166,3,405,136,8,14,4,0,6,1,0,0,1,0,0,0,0
+Richland Dist 4,1155,Auditor General,991,203,148,8,429,119,6,16,3,0,8,3,0,3,0,0,1,0,0
+Richland Dist 5,1047,Auditor General,879,179,147,1,359,130,6,7,3,0,3,1,0,2,1,0,0,0,0
+Richland Dist 6,1165,Auditor General,1001,198,166,6,445,131,5,10,4,0,9,2,0,0,0,0,2,0,0
+Richland Dist 7,1206,Auditor General,1062,260,123,4,499,119,3,15,5,0,9,0,0,0,1,0,1,0,0
+Richland Dist 8,1080,Auditor General,902,164,169,4,340,160,4,13,3,0,4,1,1,0,4,1,0,0,0
+Robinson Dist 1,1698,Auditor General,1443,262,362,5,459,249,4,24,7,0,6,2,1,4,3,0,2,1,0
+Robinson Dist 2,1289,Auditor General,1114,258,235,5,411,137,5,14,7,0,3,1,0,0,0,0,0,1,0
+Robinson Dist 3,708,Auditor General,584,140,99,3,242,60,0,5,0,0,5,0,0,1,0,0,1,0,0
+Robinson Dist 4,1025,Auditor General,861,199,188,5,300,101,5,17,4,0,6,4,1,1,0,0,0,0,0
+Robinson Dist 5,626,Auditor General,540,114,121,2,217,56,1,1,2,0,4,1,0,3,0,0,0,0,0
+Robinson Dist 6,922,Auditor General,729,185,144,3,252,86,4,10,4,0,3,1,0,2,0,0,2,2,0
+Robinson Dist 7,1428,Auditor General,1268,251,232,4,526,162,6,14,7,1,8,2,0,4,0,0,2,0,0
+Robinson Dist 8,1820,Auditor General,1324,316,271,9,512,127,7,19,5,0,6,2,0,0,0,0,2,0,0
+Robinson Dist 9,2532,Auditor General,2008,418,451,11,662,331,9,22,12,1,10,0,0,3,1,0,0,2,0
+Ross Ward 1 Dist 1,752,Auditor General,657,178,97,2,241,96,1,16,0,0,4,0,0,0,1,0,0,1,0
+Ross Ward 1 Dist 2,628,Auditor General,530,149,134,4,154,58,1,1,4,0,3,0,0,0,0,0,0,0,0
+Ross Ward 1 Dist 3,485,Auditor General,402,110,81,2,146,38,0,4,1,0,4,0,0,1,1,0,0,0,0
+Ross Ward 1 Dist 4,870,Auditor General,725,253,109,5,245,70,2,5,0,0,2,0,0,0,0,0,1,1,0
+Ross Ward 2 Dist 1,1300,Auditor General,1034,258,242,4,354,114,3,15,3,0,5,0,1,0,1,0,0,0,0
+Ross Ward 2 Dist 2,927,Auditor General,837,231,169,0,310,80,0,12,3,0,4,1,0,1,0,0,0,0,0
+Ross Ward 2 Dist 3,685,Auditor General,594,160,105,4,193,81,2,8,4,0,5,0,0,2,0,1,0,0,0
+Ross Ward 3 Dist 1,681,Auditor General,586,170,111,3,210,57,1,10,3,0,2,0,0,0,0,0,0,0,0
+Ross Ward 3 Dist 2,702,Auditor General,618,170,137,2,203,60,2,12,4,0,4,1,0,0,0,0,0,0,0
+Ross Ward 3 Dist 3,596,Auditor General,499,137,76,1,195,47,2,13,3,0,7,1,0,3,0,0,0,0,0
+Ross Ward 3 Dist 4,683,Auditor General,599,178,101,1,221,59,3,5,3,1,4,1,0,2,0,0,1,0,0
+Ross Ward 4 Dist 1,830,Auditor General,705,217,128,1,260,55,2,14,3,0,4,1,0,2,0,0,0,0,0
+Ross Ward 4 Dist 2,1089,Auditor General,915,271,155,5,335,88,1,20,2,0,4,1,0,3,0,0,0,1,0
+Ross Ward 4 Dist 3,736,Auditor General,646,150,107,4,242,108,3,3,1,0,5,2,0,1,0,0,0,1,0
+Ross Ward 4 Dist 4,793,Auditor General,674,166,146,0,242,75,5,8,4,0,5,1,0,3,0,0,0,0,0
+Ross Ward 5 Dist 1,624,Auditor General,534,154,92,3,209,52,0,9,4,0,1,0,0,0,0,0,0,0,0
+Ross Ward 5 Dist 2,435,Auditor General,373,104,63,1,138,32,1,6,1,0,6,1,0,1,0,0,1,0,0
+Ross Ward 5 Dist 3,797,Auditor General,648,129,161,5,201,98,2,12,4,0,9,1,0,1,1,1,0,0,0
+Ross Ward 5 Dist 4,754,Auditor General,639,166,116,0,238,75,2,15,3,0,5,0,0,1,0,0,0,0,0
+Ross Ward 6 Dist 1,494,Auditor General,415,152,72,4,131,29,3,6,1,0,3,1,0,1,0,0,1,0,0
+Ross Ward 6 Dist 2,1008,Auditor General,803,257,180,3,229,75,5,19,5,0,4,1,0,2,0,0,2,0,0
+Ross Ward 6 Dist 3,693,Auditor General,564,218,87,1,167,53,0,17,2,0,1,1,0,0,0,0,0,0,0
+Ross Ward 6 Dist 4,601,Auditor General,485,157,68,1,178,36,3,5,1,0,8,1,0,2,0,0,2,0,0
+Ross Ward 7 Dist 1,599,Auditor General,520,132,103,2,189,55,1,8,4,0,7,0,0,3,0,0,0,0,0
+Ross Ward 7 Dist 2,640,Auditor General,456,148,80,4,143,35,5,7,1,0,4,0,0,1,1,1,1,0,0
+Ross Ward 7 Dist 3,750,Auditor General,636,175,122,2,214,66,3,10,0,0,4,2,0,4,3,0,0,0,0
+Ross Ward 7 Dist 4,613,Auditor General,502,143,87,3,197,38,3,4,1,1,4,0,0,6,1,0,0,2,0
+Ross Ward 8 Dist 1,1701,Auditor General,1351,342,316,13,384,192,7,22,2,0,4,0,0,9,2,1,2,0,0
+Ross Ward 8 Dist 2,508,Auditor General,395,113,83,4,125,28,3,11,3,0,9,0,1,0,1,0,0,0,0
+Ross Ward 8 Dist 3,600,Auditor General,522,138,102,4,182,50,5,8,0,0,1,1,0,2,1,0,2,0,0
+Ross Ward 9 Dist 1,803,Auditor General,715,185,128,1,287,77,1,5,1,0,1,0,0,1,0,0,1,1,0
+Ross Ward 9 Dist 2,975,Auditor General,825,220,165,4,276,95,3,20,4,1,8,0,0,1,0,1,0,1,0
+Ross Ward 9 Dist 3,791,Auditor General,668,161,113,5,266,87,3,6,1,0,5,1,0,1,0,0,0,3,0
+Rosslyn Farms,415,Auditor General,362,126,50,1,121,30,3,11,5,0,1,1,0,0,0,0,0,0,0
+Scott Ward 1 Dist 1,587,Auditor General,420,125,61,6,166,19,2,11,0,0,6,0,0,2,0,0,2,0,0
+Scott Ward 1 Dist 2,671,Auditor General,489,169,57,3,185,24,2,14,2,0,8,0,1,0,0,0,1,0,0
+Scott Ward 2 Dist 1,447,Auditor General,347,102,88,4,100,34,2,3,3,0,1,0,0,0,0,0,0,0,0
+Scott Ward 2 Dist 2,654,Auditor General,569,179,79,3,234,37,1,9,3,1,1,1,0,2,0,0,0,0,0
+Scott Ward 3 Dist 1,543,Auditor General,476,130,94,1,174,38,2,7,0,0,4,1,0,1,1,0,0,0,0
+Scott Ward 3 Dist 2,697,Auditor General,591,135,130,6,226,57,3,9,1,0,2,1,0,1,0,0,0,0,0
+Scott Ward 4 Dist 1,753,Auditor General,650,209,123,2,202,51,3,9,5,0,8,3,0,1,2,0,1,0,0
+Scott Ward 4 Dist 2,605,Auditor General,521,156,115,0,172,44,0,6,1,0,3,0,0,1,0,0,0,0,0
+Scott Ward 5 Dist 1,611,Auditor General,515,155,79,5,196,31,2,9,1,0,3,0,0,3,0,0,1,0,0
+Scott Ward 5 Dist 2,719,Auditor General,590,176,123,4,165,79,2,7,2,0,4,2,0,1,2,0,0,0,0
+Scott Ward 6 Dist 1,645,Auditor General,509,179,92,3,148,41,7,8,5,0,4,1,0,2,0,0,1,0,0
+Scott Ward 6 Dist 2,836,Auditor General,704,194,160,10,238,52,2,5,5,0,1,0,0,2,0,1,1,0,0
+Scott Ward 7 Dist 1,914,Auditor General,741,198,202,2,195,87,3,5,7,0,6,3,0,0,0,0,0,0,0
+Scott Ward 7 Dist 2,660,Auditor General,566,168,125,1,185,49,0,4,5,0,3,2,0,3,0,0,0,1,0
+Scott Ward 8 Dist 1,525,Auditor General,467,130,88,1,164,44,3,9,3,0,1,1,0,2,1,0,0,0,0
+Scott Ward 8 Dist 2,1057,Auditor General,892,182,221,5,237,187,4,10,6,1,1,1,0,2,1,0,0,0,0
+Scott Ward 9 Dist 1,347,Auditor General,238,79,46,3,59,21,2,5,1,1,3,0,0,0,0,0,2,0,0
+Scott Ward 9 Dist 2,367,Auditor General,293,113,61,2,70,22,0,2,3,0,4,0,0,0,0,0,0,0,0
+Sewickley Ward 1,972,Auditor General,783,256,157,5,235,76,1,18,3,0,2,0,0,0,0,0,0,1,0
+Sewickley Ward 2 Dist 1,533,Auditor General,403,99,85,4,125,55,6,4,1,0,1,0,0,1,0,0,0,0,0
+Sewickley Ward 2 Dist 2,595,Auditor General,473,133,109,0,161,48,0,4,0,0,0,0,0,0,0,0,0,0,0
+Sewickley Ward 3,1061,Auditor General,848,299,175,10,230,81,2,13,4,0,2,0,0,3,0,0,2,0,0
+Sewickley Hts,790,Auditor General,635,124,94,1,276,100,3,11,5,0,1,1,0,0,0,0,0,0,0
+Sewickley Hills,578,Auditor General,467,148,68,3,173,42,0,9,0,0,3,0,1,3,0,0,0,0,0
+Shaler Ward 1 Dist 1,532,Auditor General,461,132,85,1,184,26,1,5,3,1,0,0,0,2,0,0,1,0,0
+Shaler Ward 1 Dist 2,532,Auditor General,447,135,80,0,177,24,2,5,0,0,4,1,0,0,0,0,1,0,0
+Shaler Ward 1 Dist 3,575,Auditor General,470,120,80,2,200,25,1,11,2,0,4,0,0,2,0,0,0,0,0
+Shaler Ward 1 Dist 4,614,Auditor General,548,165,106,3,201,39,0,2,2,1,1,1,1,0,0,0,0,0,0
+Shaler Ward 1 Dist 5,639,Auditor General,529,195,83,2,161,54,2,10,0,0,4,0,0,0,1,0,0,0,0
+Shaler Ward 2 Dist 1,1049,Auditor General,910,223,167,3,379,75,2,15,2,0,4,1,0,0,1,0,0,0,0
+Shaler Ward 2 Dist 2,778,Auditor General,673,167,102,3,279,83,1,11,1,0,2,2,0,2,0,0,0,1,0
+Shaler Ward 2 Dist 3,619,Auditor General,523,189,72,3,188,32,4,4,2,0,3,1,1,2,0,0,0,1,1
+Shaler Ward 2 Dist 4,784,Auditor General,694,222,109,1,250,55,2,6,4,0,3,4,0,5,1,0,2,0,0
+Shaler Ward 2 Dist 5,363,Auditor General,318,100,64,1,110,22,2,4,0,0,1,0,0,0,1,0,0,0,0
+Shaler Ward 3 Dist 1,603,Auditor General,521,139,108,1,189,57,1,5,4,0,0,0,0,1,0,0,0,0,0
+Shaler Ward 3 Dist 2,607,Auditor General,526,153,94,2,199,36,2,7,4,0,10,2,0,1,0,0,1,0,0
+Shaler Ward 3 Dist 3,579,Auditor General,514,124,87,1,212,53,4,8,1,0,2,1,0,1,0,0,0,0,0
+Shaler Ward 3 Dist 4,719,Auditor General,635,186,109,2,241,61,2,5,1,1,2,2,0,0,1,0,1,0,0
+Shaler Ward 3 Dist 5,660,Auditor General,569,133,89,3,241,68,1,8,0,0,5,1,0,1,0,0,0,0,0
+Shaler Ward 4 Dist 1,869,Auditor General,753,209,110,3,303,57,2,14,4,0,8,3,0,2,1,1,0,0,0
+Shaler Ward 4 Dist 2,456,Auditor General,374,123,57,1,132,27,2,6,0,0,5,1,0,0,0,0,0,0,0
+Shaler Ward 4 Dist 3,631,Auditor General,545,162,98,1,194,50,1,12,1,0,1,3,0,1,0,0,1,0,0
+Shaler Ward 4 Dist 4,660,Auditor General,571,143,105,1,224,60,2,7,0,0,3,1,0,2,1,0,0,0,0
+Shaler Ward 4 Dist 5,520,Auditor General,441,144,78,0,165,34,0,1,0,0,2,1,0,3,0,0,1,0,0
+Shaler Ward 5 Dist 1,760,Auditor General,665,171,101,2,262,74,3,14,2,0,6,1,0,2,2,0,1,0,0
+Shaler Ward 5 Dist 2,665,Auditor General,602,189,85,2,251,38,4,6,1,0,4,1,0,1,0,0,0,0,0
+Shaler Ward 5 Dist 3,544,Auditor General,491,130,103,1,176,53,1,7,1,0,2,0,0,2,2,0,0,0,0
+Shaler Ward 5 Dist 4,363,Auditor General,321,85,37,0,137,36,0,7,4,0,3,0,0,1,1,0,0,0,0
+Shaler Ward 5 Dist 5,776,Auditor General,664,192,103,1,239,80,2,14,1,0,3,1,0,3,0,0,1,0,0
+Shaler Ward 6 Dist 1,620,Auditor General,556,140,98,2,240,42,2,10,0,0,4,0,0,1,0,0,0,0,0
+Shaler Ward 6 Dist 2,735,Auditor General,622,171,90,4,258,52,5,14,4,0,7,1,0,0,1,0,0,0,0
+Shaler Ward 6 Dist 3,582,Auditor General,519,130,87,0,208,60,0,6,2,0,2,0,0,0,0,0,0,0,0
+Shaler Ward 6 Dist 4,335,Auditor General,295,79,57,1,107,34,3,1,0,0,2,0,0,1,0,0,0,0,0
+Shaler Ward 6 Dist 5,555,Auditor General,487,156,100,0,153,51,2,3,2,0,1,3,0,0,0,0,0,0,0
+Shaler Ward 7 Dist 1,596,Auditor General,508,164,106,2,166,31,2,12,1,0,5,0,0,1,0,0,0,0,0
+Shaler Ward 7 Dist 2,782,Auditor General,652,203,108,2,236,58,1,15,5,0,6,0,0,2,1,0,0,0,0
+Shaler Ward 7 Dist 3,640,Auditor General,513,135,82,5,203,37,1,15,0,1,0,1,0,1,0,0,0,0,0
+Shaler Ward 7 Dist 4,1025,Auditor General,863,227,141,4,346,91,2,9,3,0,4,0,0,2,0,0,1,0,0
+Sharpsburg Dist 1,619,Auditor General,421,182,71,7,103,12,1,11,2,1,8,0,0,2,0,0,0,0,0
+Sharpsburg Dist 2,850,Auditor General,593,297,80,4,141,35,4,8,0,1,2,1,0,0,0,0,1,0,1
+Sharpsburg Dist 3,843,Auditor General,654,252,94,8,206,41,1,11,2,1,5,2,0,6,0,0,0,0,0
+S Fayette Dist 1,582,Auditor General,512,123,100,0,195,59,1,11,2,0,2,1,0,0,0,0,0,0,0
+S Fayette Dist 2,1157,Auditor General,989,238,137,2,442,101,5,10,2,0,8,4,2,1,1,0,1,2,0
+S Fayette Dist 3,2001,Auditor General,1698,423,313,10,644,188,5,20,11,0,5,2,0,3,1,0,1,0,0
+S Fayette Dist 4,875,Auditor General,731,174,133,3,268,88,6,20,1,0,6,0,0,0,1,0,0,0,0
+S Fayette Dist 5,1074,Auditor General,910,238,119,4,399,74,3,17,4,0,4,0,1,1,0,0,1,0,0
+S Fayette Dist 6,1289,Auditor General,1038,294,168,7,417,79,6,11,3,0,3,1,0,1,1,0,3,0,0
+S Fayette Dist 7,734,Auditor General,601,130,103,2,239,77,3,7,2,0,7,0,0,1,1,0,0,0,0
+S Fayette Dist 8,1603,Auditor General,1384,334,280,3,487,197,8,14,3,0,4,2,0,0,0,0,0,0,0
+S Fayette Dist 9,708,Auditor General,515,122,104,1,201,54,5,3,1,0,2,0,0,1,0,0,1,0,0
+S Fayette Dist 10,740,Auditor General,600,174,90,6,231,56,1,9,3,0,6,2,0,1,1,0,1,0,0
+S Fayette Dist 11,1140,Auditor General,935,230,145,6,399,94,12,6,1,0,2,0,0,1,1,0,0,0,0
+S Fayette Dist 12,1051,Auditor General,875,187,191,9,317,114,6,13,2,1,0,2,0,0,0,1,1,0,0
+South Park Dist 1,775,Auditor General,659,115,95,3,287,112,6,10,2,0,3,1,0,1,0,0,1,0,0
+South Park Dist 2,777,Auditor General,639,169,115,1,252,63,3,6,0,1,6,0,0,2,1,0,0,0,0
+South Park Dist 3,714,Auditor General,618,144,81,5,282,54,1,13,2,0,5,1,0,1,0,0,0,0,0
+South Park Dist 4,918,Auditor General,743,227,116,6,273,60,7,10,3,0,3,2,0,1,1,0,1,0,0
+South Park Dist 5,747,Auditor General,644,205,78,2,270,42,1,5,0,0,1,0,0,1,1,0,2,0,0
+South Park Dist 6,924,Auditor General,734,198,121,2,289,72,1,10,0,0,4,2,0,2,0,0,0,0,0
+South Park Dist 7,1100,Auditor General,915,196,206,4,326,120,2,12,2,0,1,1,1,2,0,0,2,0,1
+South Park Dist 8,527,Auditor General,470,118,91,1,194,36,1,9,1,0,3,1,0,0,0,0,0,0,0
+South Park Dist 9,853,Auditor General,697,151,144,1,246,113,3,7,3,0,2,0,0,2,0,0,0,0,0
+South Park Dist 10,897,Auditor General,765,169,124,4,334,79,3,12,0,0,2,0,0,2,0,1,1,0,0
+South Park Dist 11,598,Auditor General,465,118,58,2,201,49,2,12,2,1,3,1,0,3,0,0,1,0,0
+South Park Dist 12,601,Auditor General,516,118,96,0,222,48,5,6,1,0,2,1,0,0,0,0,0,0,0
+South Park Dist 13,1177,Auditor General,1015,202,163,7,399,168,5,17,5,0,4,2,0,1,0,0,0,0,0
+S Versailles,222,Auditor General,191,34,21,0,121,8,0,3,0,0,1,0,0,1,0,0,0,0,0
+Springdale Br Dist 1,690,Auditor General,535,160,87,7,199,42,1,6,3,0,9,1,0,3,0,0,0,2,0
+Springdale Br Dist 2,599,Auditor General,513,131,74,0,229,31,3,10,2,0,6,2,0,0,0,0,0,0,0
+Springdale Br Dist 3,577,Auditor General,450,137,55,6,173,31,2,7,3,0,6,3,0,2,0,0,0,0,0
+Springdale Br Dist 4,473,Auditor General,368,108,48,2,153,25,3,3,2,0,2,0,0,1,0,0,0,0,0
+Springdale Twp,1187,Auditor General,993,211,164,6,418,109,11,10,2,0,4,3,0,2,2,0,1,0,0
+Stowe Ward 1,454,Auditor General,268,124,43,3,62,14,3,3,0,0,3,0,0,0,0,0,0,0,0
+Stowe Ward 2 Dist 1,188,Auditor General,94,37,11,3,31,6,2,1,0,0,1,0,0,0,0,0,0,0,0
+Stowe Ward 2 Dist 2,688,Auditor General,453,162,87,11,120,27,0,11,0,1,6,1,0,3,0,0,0,0,0
+Stowe Ward 3,359,Auditor General,221,74,31,3,73,16,2,7,0,0,4,0,0,1,0,0,0,0,0
+Stowe Ward 4 Dist 1,330,Auditor General,238,73,46,4,73,23,2,3,0,0,1,1,0,1,0,0,0,0,0
+Stowe Ward 4 Dist 2,360,Auditor General,306,64,66,0,113,39,1,3,0,0,1,1,0,2,0,0,2,0,0
+Stowe Ward 5,443,Auditor General,259,91,58,2,73,15,2,2,2,0,0,0,0,2,0,0,0,0,0
+Stowe Ward 6,478,Auditor General,281,127,57,7,48,10,3,5,1,0,6,0,0,2,0,0,0,1,0
+Stowe Ward 7,293,Auditor General,139,71,15,2,30,7,0,5,0,0,4,0,0,0,0,0,1,0,0
+Stowe Ward 8,397,Auditor General,169,84,12,0,57,4,1,4,0,0,2,0,0,1,1,0,0,0,0
+Stowe Ward 9,299,Auditor General,138,64,26,3,26,7,1,4,0,0,0,0,0,2,1,0,0,0,0
+Swissvale Dist 1,849,Auditor General,526,255,142,11,63,17,1,8,1,0,5,0,0,1,1,0,0,0,0
+Swissvale Dist 2,744,Auditor General,488,273,112,7,38,19,1,6,2,0,2,1,0,3,0,0,0,0,0
+Swissvale Dist 3,687,Auditor General,461,248,138,5,34,12,0,5,1,0,5,0,0,2,0,0,0,1,0
+Swissvale Dist 4,619,Auditor General,446,211,120,8,54,20,3,8,1,0,3,0,1,1,0,0,1,0,0
+Swissvale Dist 5,736,Auditor General,567,264,169,4,67,30,1,4,3,0,2,1,0,1,1,0,0,0,0
+Swissvale Dist 6,404,Auditor General,242,145,51,5,19,3,0,2,0,0,2,1,1,1,0,2,0,0,0
+Swissvale Dist 7,675,Auditor General,527,244,148,9,69,23,1,3,1,1,1,1,0,3,1,0,0,0,0
+Swissvale Dist 8,710,Auditor General,514,265,125,1,56,26,1,4,4,0,3,1,0,1,2,0,3,0,0
+Swissvale Dist 9,670,Auditor General,497,265,124,5,48,11,3,11,2,0,3,1,1,4,0,0,1,0,0
+Swissvale Dist 10,240,Auditor General,146,99,26,2,9,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Swissvale Dist 11,678,Auditor General,550,279,169,3,55,17,0,4,0,0,1,0,0,1,0,0,1,0,0
+Tarentum Ward 1 Dist 1,687,Auditor General,460,160,57,0,191,16,2,12,0,1,3,0,0,4,0,0,0,0,0
+Tarentum Ward 1 Dist 2,470,Auditor General,378,109,55,2,157,34,0,9,0,0,4,0,0,1,0,0,2,0,0
+Tarentum Ward 2,558,Auditor General,367,93,69,0,143,25,4,7,1,0,6,0,0,0,0,0,0,0,0
+Tarentum Ward 3 Dist 1,278,Auditor General,186,59,21,1,79,11,1,5,0,0,2,0,0,4,0,0,0,0,0
+Tarentum Ward 3 Dist 2,593,Auditor General,409,95,41,2,183,31,2,13,0,0,13,2,1,3,0,0,0,0,0
+Thornburg,407,Auditor General,355,137,46,3,123,23,1,9,0,0,1,1,0,1,0,0,0,0,0
+Pennsbury Vill,569,Auditor General,478,175,72,2,168,20,2,13,3,0,1,0,0,2,0,1,1,0,0
+Trafford,55,Auditor General,40,15,6,0,17,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Turtle Creek Ward 1 Dist 1,841,Auditor General,630,206,114,8,203,44,1,9,5,0,10,1,1,0,0,0,1,1,0
+Turtle Creek Ward 1 Dist 2,415,Auditor General,263,114,39,3,68,20,1,3,0,0,4,0,0,2,0,0,0,0,0
+Turtle Creek Ward 2 Dist 1,704,Auditor General,424,194,76,8,94,12,2,8,3,0,4,0,0,1,0,0,0,1,0
+Turtle Creek Ward 2 Dist 2,316,Auditor General,197,94,29,10,31,16,1,3,0,0,1,0,0,1,0,1,2,0,0
+Turtle Creek Ward 3 Dist 1,553,Auditor General,335,155,42,5,80,28,1,5,1,0,6,0,0,0,2,0,3,0,0
+Turtle Creek Ward 3 Dist 2,453,Auditor General,324,96,60,7,106,24,4,7,3,0,2,0,0,1,2,0,0,0,0
+Up St Clair Ward 1 Dist 1,501,Auditor General,418,131,74,3,135,47,0,2,4,0,3,3,0,1,0,0,0,0,0
+Up St Clair Ward 1 Dist 2,822,Auditor General,697,187,146,2,246,84,1,5,1,0,1,3,0,0,1,0,0,1,0
+Up St Clair Ward 1 Dist 3,1194,Auditor General,1022,261,186,6,360,138,6,10,1,0,3,1,0,1,0,0,0,1,0
+Up St Clair Ward 1 Dist 4,810,Auditor General,666,195,151,2,195,83,2,5,2,0,5,3,0,2,0,0,0,1,0
+Up St Clair Ward 2 Dist 1,988,Auditor General,811,236,168,2,277,93,2,1,5,0,4,0,0,1,0,0,1,0,0
+Up St Clair Ward 2 Dist 2,711,Auditor General,588,152,83,4,205,107,1,9,2,0,2,1,0,0,0,0,0,0,0
+Up St Clair Ward 2 Dist 3,1082,Auditor General,907,259,174,8,295,112,2,8,3,0,4,1,0,1,0,0,0,0,0
+Up St Clair Ward 2 Dist 4,545,Auditor General,464,138,82,2,171,46,2,4,1,0,1,0,0,0,1,0,0,0,0
+Up St Clair Ward 3 Dist 1,1040,Auditor General,845,255,171,3,267,104,5,8,2,0,5,3,0,1,0,0,0,0,0
+Up St Clair Ward 3 Dist 2,860,Auditor General,751,193,129,5,289,87,3,6,2,0,2,0,0,3,0,0,1,0,0
+Up St Clair Ward 3 Dist 3,1432,Auditor General,1190,263,222,4,425,205,3,16,5,0,1,0,0,1,2,0,1,0,0
+Up St Clair Ward 4 Dist 1,1024,Auditor General,870,236,162,2,318,109,1,8,1,0,3,0,0,2,0,0,0,2,0
+Up St Clair Ward 4 Dist 2,594,Auditor General,484,126,88,6,182,52,6,5,1,0,1,0,0,0,0,0,0,0,0
+Up St Clair Ward 4 Dist 3,649,Auditor General,549,149,118,2,194,59,1,7,0,0,0,1,0,0,0,0,0,1,0
+Up St Clair Ward 4 Dist 4,1120,Auditor General,881,183,203,5,277,161,3,6,2,0,5,1,0,0,1,0,1,0,0
+Up St Clair Ward 5 Dist 1,1149,Auditor General,957,231,177,2,380,113,5,6,3,1,4,0,0,1,1,0,0,0,0
+Up St Clair Ward 5 Dist 2,1193,Auditor General,1032,253,199,2,400,114,2,18,0,0,3,2,0,1,2,0,1,0,0
+Up St Clair Ward 5 Dist 3,921,Auditor General,793,218,167,5,265,86,3,12,5,0,1,2,0,0,0,0,3,0,0
+Verona Dist 1,516,Auditor General,359,161,48,5,96,15,4,7,1,1,6,0,0,1,0,0,0,0,0
+Verona Dist 2,571,Auditor General,450,179,61,2,141,23,1,6,2,0,3,1,0,1,0,0,0,0,0
+Verona Dist 3,613,Auditor General,480,183,64,3,158,24,3,11,1,0,5,0,0,1,0,0,2,0,0
+Versailles Dist 1,517,Auditor General,359,115,54,2,123,22,2,9,2,1,1,0,0,1,0,1,3,0,0
+Versailles Dist 2,468,Auditor General,325,99,70,6,101,16,0,8,1,0,3,0,1,3,0,0,1,0,0
+Wall,324,Auditor General,206,65,38,0,78,10,0,5,0,0,3,0,0,1,0,0,0,0,0
+West Deer Dist 1,1669,Auditor General,1436,267,211,1,708,171,2,14,3,0,10,2,0,3,1,0,4,0,0
+West Deer Dist 2,653,Auditor General,549,114,52,3,298,34,7,12,1,0,8,0,0,1,0,0,1,0,0
+West Deer Dist 3,840,Auditor General,684,110,95,0,351,80,0,11,2,0,7,1,0,0,0,0,0,0,0
+West Deer Dist 4,833,Auditor General,741,130,153,1,311,100,2,7,6,0,1,0,0,0,0,0,1,0,0
+West Deer Dist 5,914,Auditor General,761,144,74,2,406,71,3,16,1,1,6,0,0,3,0,0,0,0,0
+West Deer Dist 6,802,Auditor General,683,158,78,5,325,58,7,8,1,0,7,2,0,3,0,0,0,0,0
+West Deer Dist 7,1846,Auditor General,1623,208,336,4,684,279,8,25,10,1,4,2,1,3,0,0,1,0,0
+West Deer Dist 8,1589,Auditor General,1417,237,324,9,517,233,12,15,3,0,8,3,1,4,2,0,0,0,0
+W Elizabeth,249,Auditor General,189,49,13,4,96,7,1,4,0,0,3,0,0,1,0,0,0,0,0
+W Homestead Dist 1,424,Auditor General,247,126,44,12,32,6,2,4,1,0,5,2,0,0,0,0,0,0,0
+W Homestead Dist 2,465,Auditor General,407,103,58,3,169,35,2,8,2,0,1,0,0,1,0,0,0,0,0
+W Homestead Dist 3,523,Auditor General,448,115,65,0,183,56,0,4,2,0,2,1,0,0,2,0,0,0,0
+West Mifflin Dist 1,699,Auditor General,561,166,103,1,204,34,1,14,2,0,6,1,0,3,0,0,1,1,0
+West Mifflin Dist 2,478,Auditor General,357,172,81,5,55,21,0,4,0,0,1,0,0,1,1,0,0,0,0
+West Mifflin Dist 3,481,Auditor General,380,131,66,0,119,21,5,11,0,0,10,0,0,3,0,0,1,0,0
+West Mifflin Dist 4,396,Auditor General,105,70,17,1,7,1,0,2,1,0,2,0,0,0,0,0,0,0,0
+West Mifflin Dist 5,829,Auditor General,707,226,92,3,257,61,0,13,2,0,6,1,0,1,0,0,1,0,0
+West Mifflin Dist 6,336,Auditor General,270,64,51,1,100,18,3,8,0,0,8,0,0,1,0,0,0,0,0
+West Mifflin Dist 7,752,Auditor General,595,187,83,4,237,34,4,9,3,0,6,1,0,3,0,0,0,0,0
+West Mifflin Dist 8,579,Auditor General,418,211,73,8,78,19,1,3,1,0,5,0,0,1,0,0,1,0,0
+West Mifflin Dist 9,786,Auditor General,620,207,131,1,173,52,2,15,3,0,8,1,0,3,0,0,2,1,1
+West Mifflin Dist 10,520,Auditor General,418,116,75,4,154,33,2,10,1,0,6,1,0,1,1,0,0,1,0
+West Mifflin Dist 11,788,Auditor General,607,157,100,6,243,41,2,16,0,1,13,3,0,2,0,0,0,0,0
+West Mifflin Dist 12,1025,Auditor General,757,198,135,3,269,53,4,12,5,1,11,0,1,1,0,0,0,1,0
+West Mifflin Dist 13,543,Auditor General,397,112,71,2,136,31,2,10,3,0,4,1,1,2,0,0,0,0,0
+West Mifflin Dist 14,933,Auditor General,802,215,125,8,316,73,2,9,0,0,12,2,0,1,1,0,1,0,0
+West Mifflin Dist 15,596,Auditor General,485,163,80,4,150,43,1,9,1,0,8,2,0,1,1,0,0,0,0
+West Mifflin Dist 16,1160,Auditor General,1005,200,239,4,363,121,3,7,3,1,4,1,0,4,0,0,1,0,0
+West Mifflin Dist 17,575,Auditor General,473,120,79,0,187,46,0,12,2,0,3,0,1,2,0,0,0,0,0
+West Mifflin Dist 18,859,Auditor General,715,198,144,2,249,54,4,11,2,0,6,0,0,4,0,0,1,0,0
+West Mifflin Dist 19,656,Auditor General,552,133,72,2,251,46,1,13,3,0,4,2,0,0,1,0,0,0,0
+West Mifflin Dist 20,477,Auditor General,412,109,79,0,142,41,2,4,0,0,4,1,0,2,1,0,1,0,0
+West Mifflin Dist 21,713,Auditor General,562,137,124,6,187,53,7,10,1,0,1,2,0,1,0,1,1,0,0
+West View Dist 1,679,Auditor General,552,195,91,8,176,45,1,16,3,0,4,1,0,1,0,0,0,0,0
+West View Dist 2,758,Auditor General,576,208,89,1,195,38,3,9,2,1,3,0,0,2,2,0,2,0,0
+West View Dist 3,579,Auditor General,458,144,72,2,151,45,1,13,2,0,10,1,0,3,0,0,0,0,0
+West View Dist 4,600,Auditor General,500,158,87,5,192,27,7,3,0,0,3,1,0,1,1,0,0,0,0
+West View Dist 5,796,Auditor General,665,200,141,8,216,45,4,10,2,0,6,0,0,4,1,0,1,0,0
+West View Dist 6,726,Auditor General,619,231,113,2,203,35,1,7,2,1,4,1,0,2,0,0,0,0,0
+West View Dist 7,620,Auditor General,532,183,121,3,140,47,1,9,5,1,5,0,0,2,0,0,1,0,0
+Whitaker Dist 1,455,Auditor General,327,137,41,1,109,9,1,7,0,0,5,1,0,4,0,0,0,0,0
+Whitaker Dist 2,347,Auditor General,250,72,48,6,93,12,1,4,0,0,3,2,0,0,0,0,0,0,0
+Whitehall Dist 1,568,Auditor General,489,125,97,1,168,58,3,3,3,0,6,0,0,4,0,0,1,0,0
+Whitehall Dist 2,595,Auditor General,499,145,83,2,198,32,1,12,2,0,2,0,0,2,0,0,0,0,0
+Whitehall Dist 3,758,Auditor General,622,146,101,6,225,93,4,8,3,1,4,3,0,1,0,0,0,0,0
+Whitehall Dist 4,662,Auditor General,590,148,115,3,241,44,2,6,3,0,2,1,0,3,0,0,1,0,0
+Whitehall Dist 5,741,Auditor General,610,208,129,7,177,47,0,4,2,0,3,1,0,3,0,0,0,0,0
+Whitehall Dist 6,1099,Auditor General,564,197,129,29,103,39,9,12,4,1,3,3,0,1,2,1,0,0,0
+Whitehall Dist 7,472,Auditor General,384,117,81,2,115,34,4,4,0,0,3,0,0,0,0,0,1,0,0
+Whitehall Dist 8,823,Auditor General,724,216,132,2,241,85,4,4,1,1,5,1,1,2,0,0,0,1,0
+Whitehall Dist 9,587,Auditor General,504,141,111,6,155,55,1,8,2,0,0,0,0,0,0,0,0,0,0
+Whitehall Dist 10,652,Auditor General,553,148,90,4,219,48,2,6,1,0,7,0,0,0,0,1,1,0,0
+Whitehall Dist 11,637,Auditor General,557,125,92,3,246,52,1,1,1,0,3,0,0,0,0,1,0,0,0
+Whitehall Dist 12,588,Auditor General,503,156,81,3,188,39,5,3,1,1,5,2,0,0,0,0,0,0,0
+Whitehall Dist 13,752,Auditor General,681,153,169,2,221,91,1,13,3,0,3,0,0,1,1,0,1,0,0
+Whitehall Dist 14,616,Auditor General,530,136,101,5,178,66,1,10,4,0,0,0,0,2,0,0,4,0,0
+Whitehall Dist 15,1024,Auditor General,887,189,228,0,303,116,1,11,3,0,4,2,0,0,0,0,1,0,0
+Whitehall Dist 16,627,Auditor General,526,139,116,3,178,58,3,5,2,0,1,0,0,1,1,0,0,0,0
+White Oak Dist 1,736,Auditor General,568,150,77,4,233,53,1,8,2,0,9,0,0,2,0,0,0,1,0
+White Oak Dist 2,830,Auditor General,632,184,90,8,242,55,2,9,2,0,8,2,0,4,0,0,0,0,0
+White Oak Dist 3,900,Auditor General,736,187,126,7,295,65,2,11,0,0,8,5,0,0,1,0,0,0,0
+White Oak Dist 4,737,Auditor General,617,176,116,2,227,57,0,7,2,0,2,0,0,1,1,0,0,0,0
+White Oak Dist 5,821,Auditor General,675,175,111,4,252,62,5,13,5,1,12,3,1,2,0,0,1,0,0
+White Oak Dist 6,754,Auditor General,620,118,94,2,292,63,4,4,2,1,6,4,0,2,0,0,1,0,0
+White Oak Dist 7,1106,Auditor General,908,206,158,6,390,72,5,13,6,0,8,1,0,2,0,0,1,1,0
+Wilkins Ward 1 Dist 1,772,Auditor General,564,226,110,4,156,35,2,6,2,0,0,0,0,2,0,0,2,0,0
+Wilkins Ward 1 Dist 2,667,Auditor General,574,196,114,5,166,49,5,10,0,0,2,0,0,2,0,0,1,0,0
+Wilkins Ward 1 Dist 3,846,Auditor General,709,269,162,3,171,56,6,10,7,0,2,0,0,2,1,0,1,0,0
+Wilkins Ward 1 Dist 4,633,Auditor General,531,215,100,0,151,28,2,9,1,0,3,0,0,4,1,0,0,0,0
+Wilkins Ward 1 Dist 5,454,Auditor General,317,140,91,4,47,14,0,7,3,0,0,1,0,0,0,0,0,0,0
+Wilkins Ward 2 Dist 1,669,Auditor General,554,218,104,4,155,30,2,9,0,0,5,1,0,2,0,0,0,0,0
+Wilkins Ward 2 Dist 2,924,Auditor General,692,260,167,9,158,43,4,8,4,1,6,0,0,1,0,0,2,0,0
+Wilkinsburg Ward 1 Dist 1,922,Auditor General,513,281,153,17,22,5,2,2,3,1,3,0,1,3,1,0,0,0,0
+Wilkinsburg Ward 1 Dist 2,695,Auditor General,370,239,81,11,7,2,1,5,1,0,3,1,0,0,0,0,1,0,0
+Wilkinsburg Ward 1 Dist 3,415,Auditor General,206,125,50,8,6,1,0,1,0,0,1,0,0,1,1,0,0,2,0
+Wilkinsburg Ward 1 Dist 4,631,Auditor General,467,238,146,6,30,14,0,10,2,0,5,0,0,1,0,0,2,0,0
+Wilkinsburg Ward 1 Dist 5,540,Auditor General,405,183,134,4,46,15,1,6,0,0,0,0,0,1,0,0,1,0,0
+Wilkinsburg Ward 1 Dist 6,930,Auditor General,586,247,222,36,23,15,3,6,4,0,1,2,1,6,0,0,0,0,0
+Wilkinsburg Ward 2 Dist 1,734,Auditor General,433,205,143,18,29,19,3,4,1,0,2,1,0,1,0,0,0,0,0
+Wilkinsburg Ward 2 Dist 2,981,Auditor General,729,336,242,8,77,29,4,7,2,0,3,0,0,1,0,1,0,0,0
+Wilkinsburg Ward 2 Dist 3,754,Auditor General,386,226,88,14,14,14,2,3,1,1,2,5,0,0,0,0,1,0,0
+Wilkinsburg Ward 2 Dist 4,506,Auditor General,246,140,61,8,14,1,1,6,1,0,2,0,0,2,0,0,0,2,0
+Wilkinsburg Ward 2 Dist 5,762,Auditor General,387,204,119,12,10,8,1,6,1,1,0,0,1,2,2,0,0,0,0
+Wilkinsburg Ward 3 Dist 1,733,Auditor General,592,325,161,4,49,17,0,10,2,1,4,0,0,1,0,0,1,0,0
+Wilkinsburg Ward 3 Dist 2,692,Auditor General,505,279,134,0,35,18,2,7,5,0,0,0,0,5,3,0,0,0,0
+Wilkinsburg Ward 3 Dist 3,799,Auditor General,385,227,88,14,14,7,2,6,3,1,1,0,0,2,0,0,2,0,0
+Wilkinsburg Ward 3 Dist 4,1061,Auditor General,705,390,205,7,47,21,2,4,0,1,0,1,0,2,0,0,2,0,0
+Wilkinsburg Ward 3 Dist 5,1090,Auditor General,656,357,199,13,29,7,4,8,4,0,5,0,1,4,0,0,1,1,0
+Wilkinsburg Ward 3 Dist 6,516,Auditor General,269,170,46,12,10,4,0,4,3,0,2,0,0,2,1,0,0,0,0
+Wilmerding Dist 1,481,Auditor General,248,113,48,5,55,11,1,1,0,0,2,0,0,0,0,0,1,0,0
+Wilmerding Dist 2,695,Auditor General,437,200,79,6,108,15,0,8,5,0,3,1,0,1,1,0,0,0,0

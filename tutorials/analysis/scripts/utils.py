@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from pathlib import Path
 from typing import Dict, List, Tuple, Any, Optional
 
 ERROR_TOKENS = {"", "#DIV/0!", "#N/A", "#VALUE!", "#REF!", "#NUM!", "#NAME?", "#NULL!"}
@@ -10,8 +11,16 @@ MIN_TOTAL_VOTES = 50
 
 
 def load_data_frame(path):
-    df = pd.read_excel(path)
-    return df
+    """Load a dataframe from Excel or CSV depending on the file suffix."""
+    file_path = Path(path)
+    suffix = file_path.suffix.lower()
+
+    if suffix in {".xls", ".xlsx", ".xlsm", ".xlsb"}:
+        return pd.read_excel(file_path)
+    if suffix == ".csv":
+        return pd.read_csv(file_path)
+
+    raise ValueError(f"Unsupported file type for '{file_path}'. Expected Excel or CSV.")
 
 
 def clean_num(series: pd.Series) -> pd.Series:
