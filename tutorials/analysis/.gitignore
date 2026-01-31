@@ -1,0 +1,6 @@
+# Python
+scripts/__pycache__/
+*.pyc
+
+# Generated output
+output/

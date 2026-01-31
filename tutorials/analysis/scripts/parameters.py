@@ -13,14 +13,34 @@ params = {
             "candidate_b_color": default_candidate_b_color,
             "scatter_plot": {
                 "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Precinct Vote Total",
-                "x_axis_label": "Total Votes",
+                "x_axis_label": "Number of Votes by Precinct",
                 "y_axis_label": "Candidate Vote Share (%)",
             },
             "turnout_scatter_plot": {
                 "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
-                "x_axis_label": "Voter Turnout Percentage",
+                "x_axis_label": "Voter Turnout (%)",
                 "y_axis_label": "Candidate Vote Share (%)",
-            }
+            },
+            "turnout_histogram": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nVote Distribution by Turnout",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Number of Votes",
+            },
+            "vote_share_histogram": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nPrecinct Count by Vote Share",
+                "x_axis_label": "Candidate Vote Share (%)",
+                "y_axis_label": "Number of Precincts",
+            },
+            "turnout_heatmap": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout (Density)",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "turnout_bar_chart": {
+                "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Candidate Vote Share (%)",
+            },
         }
     },
     "2024_general_north_carolina_wake": {
@@ -34,14 +54,34 @@ params = {
             "candidate_b_color": default_candidate_b_color,
             "scatter_plot": {
                 "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Precinct Vote Total",
-                "x_axis_label": "Total Votes",
+                "x_axis_label": "Number of Votes by Precinct",
                 "y_axis_label": "Candidate Vote Share (%)",
             },
             "turnout_scatter_plot": {
                 "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
-                "x_axis_label": "Voter Turnout Percentage",
+                "x_axis_label": "Voter Turnout (%)",
                 "y_axis_label": "Candidate Vote Share (%)",
-            }
+            },
+            "turnout_histogram": {
+                "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nVote Distribution by Turnout",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Number of Votes",
+            },
+            "vote_share_histogram": {
+                "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nPrecinct Count by Vote Share",
+                "x_axis_label": "Candidate Vote Share (%)",
+                "y_axis_label": "Number of Precincts",
+            },
+            "turnout_heatmap": {
+                "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout (Density)",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "turnout_bar_chart": {
+                "title": "North Carolina - Wake - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Candidate Vote Share (%)",
+            },
         },
         "attorney_general": {
             "file": "../files/2024_G_NC_Attorney_General.xlsx",
@@ -53,14 +93,34 @@ params = {
             "candidate_b_color": default_candidate_b_color,
             "scatter_plot": {
                 "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nCandidate Vote Share by Precinct Vote Total",
-                "x_axis_label": "Total Votes",
+                "x_axis_label": "Number of Votes by Precinct",
                 "y_axis_label": "Candidate Vote Share (%)",
             },
             "turnout_scatter_plot": {
                 "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nCandidate Vote Share by Turnout Percentage",
-                "x_axis_label": "Voter Turnout Percentage",
+                "x_axis_label": "Voter Turnout (%)",
                 "y_axis_label": "Candidate Vote Share (%)",
-            }
+            },
+            "turnout_histogram": {
+                "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nVote Distribution by Turnout",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Number of Votes",
+            },
+            "vote_share_histogram": {
+                "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nPrecinct Count by Vote Share",
+                "x_axis_label": "Candidate Vote Share (%)",
+                "y_axis_label": "Number of Precincts",
+            },
+            "turnout_heatmap": {
+                "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nCandidate Vote Share by Turnout (Density)",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Candidate Vote Share (%)",
+            },
+            "turnout_bar_chart": {
+                "title": "North Carolina - Wake - 2024 - Attorney General - Election Day Votes\nCandidate Vote Share by Turnout",
+                "x_axis_label": "Voter Turnout (%)",
+                "y_axis_label": "Candidate Vote Share (%)",
+            },
         }
     }
 }

@@ -57,6 +57,12 @@ def get_voter_stats(df, registration_column, candidate_a_column, candidate_b_col
         candidate_b_column: b,
     })
 
+    # Preserve precinct column if present
+    for col in ("precinct", "Precinct", "PRECINCT"):
+        if col in df.columns:
+            clean["precinct"] = df[col].values[:len(clean)]
+            break
+
     # drop rows with bad/zero totals or registrations
     clean = clean[(clean[registration_column] > 0) & (clean[total_column] > 0)]
 
@@ -70,6 +76,13 @@ def get_voter_stats(df, registration_column, candidate_a_column, candidate_b_col
         subset=[f"{candidate_a_column}_share", f"{candidate_b_column}_share"]
     )
     return clean
+
+
+def ensure_output_dir():
+    """Create the output directory if it doesn't exist."""
+    output_dir = Path(__file__).resolve().parent.parent / "output"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    return output_dir
 
 
 def find_races_with_chart(params: Dict[str, Any], chart_key: str) -> List[Tuple[str, str, Dict[str, Any]]]:
@@ -109,9 +122,8 @@ def prompt_user_to_choose(races: List[Tuple[str, str, Dict[str, Any]]], chart_ke
                 return races[idx - 1]
         print(f"Please enter a number between 1 and {len(races)}.")
 
-# Example glue code for your script:
 
-def choose_race_for_chart(params: Dict[str, Any], chart_key: str, prefer_election: str | None = None):
+def choose_race_for_chart(params: Dict[str, Any], chart_key: str, prefer_election: Optional[str] = None):
     # Optionally filter by a specific election if you want:
     subset = params if not prefer_election else {prefer_election: params.get(prefer_election, {})}
     races = find_races_with_chart(subset, chart_key)

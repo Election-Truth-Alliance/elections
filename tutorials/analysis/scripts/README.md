@@ -19,3 +19,16 @@ Files include:
 - Chart generation - This section will grow. Each script will scan the parameters.py file and determine which charts are available for each contest and prompt the user to select an available one.
   - [scatter_plot.py](scatter_plot.py) - generates scatter plot chart for candidate vote share by precinct vote total
   - [turnout_scatter_plot.py](turnout_scatter_plot.py) - generates scatter plot for candidate vote share by turnout percentage
+  - [turnout_histogram.py](turnout_histogram.py) - generates overlapping turnout histograms with KDE curves and skew values for each candidate
+  - [vote_share_histogram.py](vote_share_histogram.py) - generates histogram of precinct counts by candidate vote share percentage
+  - [turnout_heatmap.py](turnout_heatmap.py) - generates 2D kernel density heatmap of candidate vote share by turnout (matches DensityHeatmapByTurnout dashboard component)
+  - [turnout_bar_chart.py](turnout_bar_chart.py) - generates grouped bar chart of candidate votes sorted by turnout percentage
+
+## Usage
+
+```bash
+pip install -r requirements.txt
+python scatter_plot.py
+```
+
+Each script will prompt you to select from the available races configured in `parameters.py`. Output PNGs are saved to `../output/`.
