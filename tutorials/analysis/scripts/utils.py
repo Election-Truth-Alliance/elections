@@ -5,6 +5,18 @@ from typing import Dict, List, Tuple, Any, Optional
 
 ERROR_TOKENS = {"", "#DIV/0!", "#N/A", "#VALUE!", "#REF!", "#NUM!", "#NAME?", "#NULL!"}
 
+
+def _common_suffix(a: str, b: str) -> Optional[str]:
+    """Return the longest common suffix of two strings (at least 3 chars)."""
+    min_len = min(len(a), len(b))
+    suffix = ""
+    for i in range(1, min_len + 1):
+        if a[-i] == b[-i]:
+            suffix = a[-i:] if i == 1 else a[-i:]
+        else:
+            break
+    return suffix if len(suffix) >= 3 else None
+
 # Small-precinct filtering (disable by setting to None)
 MIN_REGISTERED_VOTERS = 100
 MIN_TOTAL_VOTES = 50
@@ -71,20 +83,32 @@ def get_voter_stats(df, registration_column, candidate_a_column, candidate_b_col
     #   candidate_x_pct = candidate_x_votes / total_votes
     # where total_votes = sum of ALL candidates for that election type.
     #
-    # If `total_column` accurately represents the total for the election type
-    # being analysed, use it directly.  Otherwise (e.g. PA CSV where
-    # total_votes_cast spans ALL voting methods while candidate columns are
-    # Election Day only), fall back to (A + B) as the best available proxy.
+    # If total_column accurately represents the total for the election type,
+    # use it directly.  Otherwise (e.g. PA CSV where total_votes_cast spans
+    # ALL voting methods while candidate columns are Election Day only),
+    # detect the common suffix and sum ALL matching columns.
     two_party = clean[candidate_a_column] + clean[candidate_b_column]
     denom = clean[total_column].copy()
 
     # Detect mismatch: if total >> A+B in most rows, total likely includes
-    # other voting methods → use two-party total instead.
+    # other voting methods.
     ratio = (two_party / denom).median()
     if ratio < 0.75:
-        # total_column includes votes from other methods/types;
-        # fall back to (A + B) for both turnout and share.
-        denom = two_party
+        # Try to find a common suffix (e.g. "- Election Day") and sum ALL
+        # columns in the original DataFrame that share it.
+        suffix = _common_suffix(candidate_a_column, candidate_b_column)
+        if suffix:
+            matching_cols = [c for c in df.columns if c.endswith(suffix)]
+            if len(matching_cols) > 2:
+                all_type_total = sum(
+                    clean_num(df[c]).reindex(clean.index).fillna(0)
+                    for c in matching_cols
+                )
+                denom = all_type_total
+            else:
+                denom = two_party
+        else:
+            denom = two_party
 
     denom = denom.replace(0, np.nan)
 
