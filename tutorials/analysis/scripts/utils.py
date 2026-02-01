@@ -66,19 +66,32 @@ def get_voter_stats(df, registration_column, candidate_a_column, candidate_b_col
     # drop rows with bad/zero totals or registrations
     clean = clean[(clean[registration_column] > 0) & (clean[total_column] > 0)]
 
-    # Use the sum of the two candidates as the base for vote share and
-    # turnout.  The `total_column` may include other candidates or voting
-    # methods (e.g. PA data has Election Day candidates but total_votes_cast
-    # across *all* methods), so (A + B) is a safer denominator that matches
-    # the React/D3 dashboard behaviour.
-    two_party_total = clean[candidate_a_column] + clean[candidate_b_column]
-    # Guard against division by zero
-    two_party_total = two_party_total.replace(0, np.nan)
+    # The dashboard computes:
+    #   turnout_pct     = total_votes / registered_voters
+    #   candidate_x_pct = candidate_x_votes / total_votes
+    # where total_votes = sum of ALL candidates for that election type.
+    #
+    # If `total_column` accurately represents the total for the election type
+    # being analysed, use it directly.  Otherwise (e.g. PA CSV where
+    # total_votes_cast spans ALL voting methods while candidate columns are
+    # Election Day only), fall back to (A + B) as the best available proxy.
+    two_party = clean[candidate_a_column] + clean[candidate_b_column]
+    denom = clean[total_column].copy()
 
-    clean['turnout_percent'] = two_party_total / reg
+    # Detect mismatch: if total >> A+B in most rows, total likely includes
+    # other voting methods → use two-party total instead.
+    ratio = (two_party / denom).median()
+    if ratio < 0.75:
+        # total_column includes votes from other methods/types;
+        # fall back to (A + B) for both turnout and share.
+        denom = two_party
 
-    clean[f"{candidate_a_column}_share"] = clean[candidate_a_column] / two_party_total
-    clean[f"{candidate_b_column}_share"] = clean[candidate_b_column] / two_party_total
+    denom = denom.replace(0, np.nan)
+
+    clean['turnout_percent'] = denom / reg
+
+    clean[f"{candidate_a_column}_share"] = clean[candidate_a_column] / denom
+    clean[f"{candidate_b_column}_share"] = clean[candidate_b_column] / denom
 
     # remove div-by-zero/NaN
     clean = clean.replace([np.inf, -np.inf], np.nan).dropna(
