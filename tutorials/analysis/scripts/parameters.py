@@ -42,7 +42,7 @@ params = {
                 "title": "Pennsylvania - Allegheny - 2024 - Presidential - Election Day Votes\nCandidate Vote Share by Turnout",
                 "x_axis_label": "Voter Turnout (%)",
                 "y_axis_label": "Candidate Vote Share (%)",
-                "bin_pct": 4,  # turnout bin size in percentage points
+                "bin_pct": 1,  # turnout bin size in percentage points (matches dashboard)
             },
         }
     },

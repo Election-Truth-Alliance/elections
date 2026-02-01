@@ -79,49 +79,23 @@ def create_turnout_bar_chart(df,
     increment = bin_pct / 100.0
     n_bins = int(np.ceil(1.0 / increment))
 
-    # Find the range of bins that have data, include all bins in that range
-    # (including empty ones) for even spacing
-    first_bin = None
-    last_bin = None
-    for i in range(n_bins):
-        lo = i * increment
-        hi = min((i + 1) * increment, 1.0)
-        mask = (turnout >= lo) & (turnout < hi)
-        if mask.sum() > 0:
-            if first_bin is None:
-                first_bin = i
-            last_bin = i
-
-    if first_bin is None:
-        first_bin, last_bin = 0, 0
-
-    # Trim trailing bins from the right where count < min_precincts
-    # (keeps all bins from first data to last meaningful data)
-    trimmed_last = first_bin
-    for i in range(first_bin, last_bin + 1):
-        lo = i * increment
-        hi = min((i + 1) * increment, 1.0)
-        mask = (turnout >= lo) & (turnout < hi)
-        if mask.sum() >= min_precincts:
-            trimmed_last = i
-
+    # Collect all bins that have data (skip empty bins, matching React
+    # ``rangesWithData.filter(d => d.count > 0)`` behaviour)
     bin_labels = []
     avg_a = []
     avg_b = []
     counts = []
 
-    for i in range(first_bin, trimmed_last + 1):
+    for i in range(n_bins):
         lo = i * increment
         hi = min((i + 1) * increment, 1.0)
         mask = (turnout >= lo) & (turnout < hi)
         cnt = mask.sum()
-        bin_labels.append(f"{int(round(lo * 100))}%")
         if cnt == 0:
-            avg_a.append(0.0)
-            avg_b.append(0.0)
-        else:
-            avg_a.append(float(share_a[mask].mean()))
-            avg_b.append(float(share_b[mask].mean()))
+            continue
+        bin_labels.append(f"{int(round(lo * 100))}%")
+        avg_a.append(float(share_a[mask].mean()))
+        avg_b.append(float(share_b[mask].mean()))
         counts.append(cnt)
 
     avg_a = np.array(avg_a)
@@ -158,7 +132,13 @@ def create_turnout_bar_chart(df,
 
     # ── axes ────────────────────────────────────────────────────────────
     ax.set_xticks(x_pos)
-    ax.set_xticklabels(bin_labels, rotation=-45, ha="left", fontsize=9)
+    # Auto-thin labels when there are many bins
+    if len(bin_labels) > 20:
+        step = max(1, len(bin_labels) // 20)
+        visible_labels = [l if i % step == 0 else "" for i, l in enumerate(bin_labels)]
+        ax.set_xticklabels(visible_labels, rotation=-45, ha="left", fontsize=9)
+    else:
+        ax.set_xticklabels(bin_labels, rotation=-45, ha="left", fontsize=9)
     ax.set_ylim(0, 1)
     ax.yaxis.set_major_formatter(PercentFormatter(1))
     ax.set_xlabel("Voter Turnout (%)", fontsize=14, fontweight="bold")
