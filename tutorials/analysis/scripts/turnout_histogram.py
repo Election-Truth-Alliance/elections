@@ -177,7 +177,19 @@ def create_turnout_histogram(df,
                 ax.plot(xs, gauss / gauss.max() * max_bar,
                         color=color, linewidth=3.5, zorder=5)
 
-    # ── axes ────────────────────────────────────────────────────────────
+    # ── axes (add 10% headroom so KDE curves aren't clipped) ───────────
+    y_max = max(hist_a.max(), hist_b.max())
+    # Check if KDE curves extend higher
+    for child in ax.get_children():
+        if hasattr(child, 'get_ydata'):
+            try:
+                ydata = child.get_ydata()
+                if len(ydata) > 0:
+                    y_max = max(y_max, np.nanmax(ydata))
+            except Exception:
+                pass
+    ax.set_ylim(0, y_max * 1.12)
+
     ax.set_xlim(min_t, max_t)
     ax.xaxis.set_major_formatter(PercentFormatter(1))
     ax.yaxis.set_major_formatter(FuncFormatter(lambda v, _: f"{int(v):,}"))

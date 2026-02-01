@@ -65,7 +65,9 @@ def create_turnout_bar_chart(df,
                               candidate_b_column,
                               total_column,
                               title,
-                              show_trend: bool = True):
+                              show_trend: bool = True,
+                              bin_pct_override: float = None,
+                              min_precincts: int = 3):
 
     turnout = df["turnout_percent"].values.astype(float)
     share_a = df[f"{candidate_a_column}_share"].values.astype(float)
@@ -73,25 +75,53 @@ def create_turnout_bar_chart(df,
 
     # ── bin precincts by turnout ────────────────────────────────────────
     n = len(turnout)
-    bin_pct = _adaptive_bin_pct(n)
+    bin_pct = bin_pct_override if bin_pct_override is not None else _adaptive_bin_pct(n)
     increment = bin_pct / 100.0
     n_bins = int(np.ceil(1.0 / increment))
+
+    # Find the range of bins that have data, include all bins in that range
+    # (including empty ones) for even spacing
+    first_bin = None
+    last_bin = None
+    for i in range(n_bins):
+        lo = i * increment
+        hi = min((i + 1) * increment, 1.0)
+        mask = (turnout >= lo) & (turnout < hi)
+        if mask.sum() > 0:
+            if first_bin is None:
+                first_bin = i
+            last_bin = i
+
+    if first_bin is None:
+        first_bin, last_bin = 0, 0
+
+    # Trim trailing bins from the right where count < min_precincts
+    # (keeps all bins from first data to last meaningful data)
+    trimmed_last = first_bin
+    for i in range(first_bin, last_bin + 1):
+        lo = i * increment
+        hi = min((i + 1) * increment, 1.0)
+        mask = (turnout >= lo) & (turnout < hi)
+        if mask.sum() >= min_precincts:
+            trimmed_last = i
 
     bin_labels = []
     avg_a = []
     avg_b = []
     counts = []
 
-    for i in range(n_bins):
+    for i in range(first_bin, trimmed_last + 1):
         lo = i * increment
         hi = min((i + 1) * increment, 1.0)
         mask = (turnout >= lo) & (turnout < hi)
         cnt = mask.sum()
-        if cnt == 0:
-            continue
         bin_labels.append(f"{int(round(lo * 100))}%")
-        avg_a.append(float(share_a[mask].mean()))
-        avg_b.append(float(share_b[mask].mean()))
+        if cnt == 0:
+            avg_a.append(0.0)
+            avg_b.append(0.0)
+        else:
+            avg_a.append(float(share_a[mask].mean()))
+            avg_b.append(float(share_b[mask].mean()))
         counts.append(cnt)
 
     avg_a = np.array(avg_a)
@@ -183,13 +213,16 @@ if __name__ == "__main__":
         race_cfg["total_column"],
     )
 
+    chart_cfg = race_cfg["turnout_bar_chart"]
     fig = create_turnout_bar_chart(
         clean_df,
         race_cfg["candidate_a_column"],
         race_cfg["candidate_b_column"],
         race_cfg["total_column"],
-        race_cfg["turnout_bar_chart"]["title"],
+        chart_cfg["title"],
         show_trend=True,
+        bin_pct_override=chart_cfg.get("bin_pct", None),
+        min_precincts=chart_cfg.get("min_precincts", 3),
     )
 
     out_dir = utils.ensure_output_dir()

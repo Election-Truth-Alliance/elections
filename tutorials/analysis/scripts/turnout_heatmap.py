@@ -36,11 +36,14 @@ def create_turnout_heatmap(df,
                             candidate_b_column,
                             total_column,
                             title,
+                            candidate: str = "a",
                             grid_size: int = 200,
                             bandwidth=None):
     """
     Parameters
     ----------
+    candidate : str
+        Which candidate's density to display: "a" or "b".
     grid_size : int
         Resolution of the KDE evaluation grid (grid_size × grid_size).
     bandwidth : float or None
@@ -62,23 +65,25 @@ def create_turnout_heatmap(df,
     # Dark-blue background inside the chart area (matches React #000091)
     ax.set_facecolor("#000091")
 
-    # ── 2-D KDE for candidate A ────────────────────────────────────────
-    xy_a = np.vstack([turnout, share_a])
+    # ── 2-D KDE for selected candidate ────────────────────────────────
+    active_share = share_a if candidate.lower() == "a" else share_b
+    active_label = candidate_a_column if candidate.lower() == "a" else candidate_b_column
+    xy = np.vstack([turnout, active_share])
     bw = bandwidth or "scott"
-    kde_a = sp_stats.gaussian_kde(xy_a, bw_method=bw)
+    kde = sp_stats.gaussian_kde(xy, bw_method=bw)
 
     # Evaluation grid (0–1 on both axes)
     xgrid = np.linspace(0, 1, grid_size)
     ygrid = np.linspace(0, 1, grid_size)
     X, Y = np.meshgrid(xgrid, ygrid)
     positions = np.vstack([X.ravel(), Y.ravel()])
-    Z_a = kde_a(positions).reshape(grid_size, grid_size)
+    Z = kde(positions).reshape(grid_size, grid_size)
 
     # ── filled contours (discrete bands matching React d3.contourDensity) ──
     n_levels = 20   # React default: densityResolution = 20
-    levels = np.linspace(Z_a.min(), Z_a.max(), n_levels + 1)
+    levels = np.linspace(Z.min(), Z.max(), n_levels + 1)
     cf = ax.contourf(
-        X, Y, Z_a,
+        X, Y, Z,
         levels=levels,
         cmap="turbo",       # matches d3.interpolateTurbo
         alpha=0.8,          # matches React opacity: 0.8
@@ -98,11 +103,17 @@ def create_turnout_heatmap(df,
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
 
-    # ── legend (square swatches at right) ───────────────────────────────
-    swatch_a = mpatches.Patch(facecolor="#e63946", edgecolor="#333",
-                              label=candidate_a_column)
-    swatch_b = mpatches.Patch(facecolor="#888888", edgecolor="#333",
-                              label=candidate_b_column)
+    # ── legend (square swatches at right, active candidate highlighted) ──
+    if candidate.lower() == "a":
+        swatch_a = mpatches.Patch(facecolor="#e63946", edgecolor="#333",
+                                  linewidth=2, label=candidate_a_column)
+        swatch_b = mpatches.Patch(facecolor="#888888", edgecolor="#888",
+                                  label=candidate_b_column)
+    else:
+        swatch_a = mpatches.Patch(facecolor="#888888", edgecolor="#888",
+                                  label=candidate_a_column)
+        swatch_b = mpatches.Patch(facecolor="#4287f5", edgecolor="#333",
+                                  linewidth=2, label=candidate_b_column)
     ax.legend(handles=[swatch_a, swatch_b],
               loc="upper right", frameon=True, fontsize=11,
               facecolor="white", edgecolor="#ccc",
@@ -136,12 +147,14 @@ if __name__ == "__main__":
         race_cfg["total_column"],
     )
 
+    chart_cfg = race_cfg["turnout_heatmap"]
     fig = create_turnout_heatmap(
         clean_df,
         race_cfg["candidate_a_column"],
         race_cfg["candidate_b_column"],
         race_cfg["total_column"],
-        race_cfg["turnout_heatmap"]["title"],
+        chart_cfg["title"],
+        candidate=chart_cfg.get("candidate", "a"),
     )
 
     out_dir = utils.ensure_output_dir()

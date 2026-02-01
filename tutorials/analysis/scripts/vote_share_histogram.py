@@ -104,16 +104,23 @@ def create_vote_share_histogram(df,
     fig, ax = plt.subplots(figsize=(12, 7), facecolor="white")
     ax.set_facecolor("white")
 
-    # React approach: draw both bar sets at opacity 0.5, natural blend
+    # Draw bars with explicit overlap region (same approach as turnout_histogram)
+    overlap = np.minimum(hist_a, hist_b)
+
     # Candidate B bars (blue) — drawn first (behind)
     ax.bar(bin_centers, hist_b, width=bar_width * 0.98,
            color=COLOR_B, alpha=BAR_ALPHA, edgecolor=BAR_EDGE,
            linewidth=0.8, zorder=1)
 
-    # Candidate A bars (red) — drawn on top, alpha creates natural overlap
+    # Candidate A bars (red)
     ax.bar(bin_centers, hist_a, width=bar_width * 0.98,
            color=COLOR_A, alpha=BAR_ALPHA, edgecolor=BAR_EDGE,
            linewidth=0.8, zorder=2)
+
+    # Explicit overlap region (mauve) drawn on top for clarity
+    ax.bar(bin_centers, overlap, width=bar_width * 0.98,
+           color=COLOR_OVERLAP, alpha=0.7, edgecolor=BAR_EDGE,
+           linewidth=0.8, zorder=3)
 
     # ── best-fit curves (Gaussian KDE on vote share) ────────────────────
     if show_curves and HAS_SCIPY:

@@ -53,8 +53,16 @@ def _build_sizes(total_votes: np.ndarray, base: float = 3.0) -> np.ndarray:
 
 
 # ── segmented trend lines ──────────────────────────────────────────────
-def _segmented_trend(x: np.ndarray, y: np.ndarray, max_votes: float):
-    """Return arrays of (seg_x, seg_y) averages for each segment."""
+def _segmented_trend(x: np.ndarray, y: np.ndarray, max_votes: float,
+                     min_points: int = 5):
+    """Return arrays of (seg_x, seg_y) averages for each segment.
+
+    Parameters
+    ----------
+    min_points : int
+        Minimum data points required in a segment to include it.
+        Configurable via parameters.py ``scatter_plot.trend_min_points``.
+    """
     seg_size = 200 if max_votes > 1000 else 100
     max_boundary = int(np.ceil(max_votes / seg_size)) * seg_size
 
@@ -62,7 +70,7 @@ def _segmented_trend(x: np.ndarray, y: np.ndarray, max_votes: float):
     for lo in range(0, max_boundary, seg_size):
         hi = lo + seg_size
         mask = (x >= lo) & (x < hi)
-        if mask.sum() >= 5:
+        if mask.sum() >= min_points:
             seg_xs.append(float(x[mask].mean()))
             seg_ys.append(float(y[mask].mean()))
     return np.array(seg_xs), np.array(seg_ys)
@@ -75,7 +83,8 @@ def create_scatter_plot(df,
                         total_column,
                         title,
                         candidate_a_color_unused,
-                        candidate_b_color_unused):
+                        candidate_b_color_unused,
+                        trend_min_points: int = 5):
 
     total = df[total_column].values.astype(float)
     share_a = df[f'{candidate_a_column}_share'].values.astype(float)
@@ -100,8 +109,8 @@ def create_scatter_plot(df,
 
     # ── trend lines ─────────────────────────────────────────────────────
     max_votes = total.max()
-    tx_b, ty_b = _segmented_trend(total, share_b, max_votes)
-    tx_a, ty_a = _segmented_trend(total, share_a, max_votes)
+    tx_b, ty_b = _segmented_trend(total, share_b, max_votes, min_points=trend_min_points)
+    tx_a, ty_a = _segmented_trend(total, share_a, max_votes, min_points=trend_min_points)
 
     if len(tx_b) >= 2:
         ax.plot(tx_b, ty_b, color="#1e40af", linewidth=5, solid_capstyle="round", solid_joinstyle="round", zorder=3)
@@ -159,14 +168,16 @@ if __name__ == "__main__":
         race_cfg["total_column"],
     )
 
+    chart_cfg = race_cfg["scatter_plot"]
     fig = create_scatter_plot(
         clean_df,
         race_cfg["candidate_a_column"],
         race_cfg["candidate_b_column"],
         race_cfg["total_column"],
-        race_cfg["scatter_plot"]["title"],
+        chart_cfg["title"],
         race_cfg["candidate_a_color"],
         race_cfg["candidate_b_color"],
+        trend_min_points=chart_cfg.get("trend_min_points", 5),
     )
 
     out_dir = utils.ensure_output_dir()
