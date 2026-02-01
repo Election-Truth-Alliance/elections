@@ -66,10 +66,19 @@ def get_voter_stats(df, registration_column, candidate_a_column, candidate_b_col
     # drop rows with bad/zero totals or registrations
     clean = clean[(clean[registration_column] > 0) & (clean[total_column] > 0)]
 
-    clean['turnout_percent'] = tot / reg
+    # Use the sum of the two candidates as the base for vote share and
+    # turnout.  The `total_column` may include other candidates or voting
+    # methods (e.g. PA data has Election Day candidates but total_votes_cast
+    # across *all* methods), so (A + B) is a safer denominator that matches
+    # the React/D3 dashboard behaviour.
+    two_party_total = clean[candidate_a_column] + clean[candidate_b_column]
+    # Guard against division by zero
+    two_party_total = two_party_total.replace(0, np.nan)
 
-    clean[f"{candidate_a_column}_share"] = clean[candidate_a_column] / tot
-    clean[f"{candidate_b_column}_share"] = clean[candidate_b_column] / tot
+    clean['turnout_percent'] = two_party_total / reg
+
+    clean[f"{candidate_a_column}_share"] = clean[candidate_a_column] / two_party_total
+    clean[f"{candidate_b_column}_share"] = clean[candidate_b_column] / two_party_total
 
     # remove div-by-zero/NaN
     clean = clean.replace([np.inf, -np.inf], np.nan).dropna(
