@@ -27,7 +27,7 @@ COLOR_A = "#e63946"          # candidate A bars (red)
 COLOR_B = "#4287f5"          # candidate B bars (blue)
 COLOR_TREND_A = "#9f1239"    # darker red for trend line
 COLOR_TREND_B = "#1e40af"    # darker blue for trend line
-BAR_ALPHA = 0.65
+BAR_ALPHA = 0.85
 
 
 # ── adaptive bin sizing (mirrors React desktop logic) ───────────────────
