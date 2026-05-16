@@ -61,7 +61,8 @@ if __name__ == "__main__":
         race_cfg["registration_column"],
         race_cfg["candidate_a_column"],
         race_cfg["candidate_b_column"],
-        race_cfg["total_column"]
+        race_cfg["total_column"],
+        min_registered_voters=race_cfg.get("min_registered_voters", 0)
     )
 
     create_turnout_scatter_plot(

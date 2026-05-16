@@ -5,11 +5,6 @@ from typing import Dict, List, Tuple, Any, Optional
 
 ERROR_TOKENS = {"", "#DIV/0!", "#N/A", "#VALUE!", "#REF!", "#NUM!", "#NAME?", "#NULL!"}
 
-# Small-precinct filtering (disable by setting to None)
-MIN_REGISTERED_VOTERS = 100
-MIN_TOTAL_VOTES = 50
-
-
 def load_data_frame(path):
     """Load a dataframe from Excel or CSV depending on the file suffix."""
     file_path = Path(path)
@@ -43,7 +38,7 @@ def get_dot_size(min_size, max_size, data):
     return sizes
 
 
-def get_voter_stats(df, registration_column, candidate_a_column, candidate_b_column, total_column):
+def get_voter_stats(df, registration_column, candidate_a_column, candidate_b_column, total_column, min_registered_voters=0):
     # coerce to numeric early
     reg = clean_num(df[registration_column])
     tot = clean_num(df[total_column])
@@ -59,6 +54,10 @@ def get_voter_stats(df, registration_column, candidate_a_column, candidate_b_col
 
     # drop rows with bad/zero totals or registrations
     clean = clean[(clean[registration_column] > 0) & (clean[total_column] > 0)]
+
+    # filter by minimum registered voters
+    if min_registered_voters > 0:
+        clean = clean[clean[registration_column] >= min_registered_voters]
 
     clean['turnout_percent'] = tot / reg
 

@@ -9,6 +9,7 @@ params = {
             "candidate_b_column": "Kamala D. Harris - Election Day",
             "total_column": "total_votes_cast",
             "registration_column": "registered_voters",
+            "min_registered_voters": 0,
             "candidate_a_color": default_candidate_a_color,
             "candidate_b_color": default_candidate_b_color,
             "scatter_plot": {
@@ -30,6 +31,7 @@ params = {
             "candidate_b_column": "Harris",
             "total_column": "total_votes",
             "registration_column": "registered_voters",
+            "min_registered_voters": 0,
             "candidate_a_color": default_candidate_a_color,
             "candidate_b_color": default_candidate_b_color,
             "scatter_plot": {
@@ -49,6 +51,7 @@ params = {
             "candidate_b_column": "Jackson",
             "total_column": "Total Votes",
             "registration_column": "Registered",
+            "min_registered_voters": 0,
             "candidate_a_color": default_candidate_a_color,
             "candidate_b_color": default_candidate_b_color,
             "scatter_plot": {
